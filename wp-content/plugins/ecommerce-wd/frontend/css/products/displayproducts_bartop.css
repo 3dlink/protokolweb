@@ -1,0 +1,16 @@
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container form[name=wd_shop_form_login] > .row {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container form[name=wd_shop_form_login] .input-group {
+  min-width: 240px;
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_alert_form_login_incorrect_data {
+  margin-bottom: 10px;
+}
+
+@media screen and (min-width: 480px) {
+    #wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .bs_dropdown-menu>li>div.container {
+        min-width: 320px;
+    }
+}

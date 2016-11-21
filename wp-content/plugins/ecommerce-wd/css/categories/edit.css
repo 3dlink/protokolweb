@@ -1,0 +1,51 @@
+#icon-edit {
+  background-image: url(../../images/toolbar_icons/categories_48.png) !important;
+  background-position: 0 0 !important;
+  background-size: 32px 32px !important;
+}
+
+/* WD fixes.*/
+#adminForm fieldset {
+  background-color: #F4F4F4;
+}
+#adminForm fieldset table.adminlist {
+  background-color: #F4F4F4;
+  border-spacing: 1px;
+  color: #666;
+  width: 100%;
+}
+#adminForm fieldset table.adminlist tbody tr td {
+  background-color: #FFFFFF;
+  border: 1px solid #FFFFFF;
+}
+
+table.adminlist tr .col_parameter_key {
+  width: 120px;
+  text-align: left;
+}
+
+table.adminlist tr .col_parameter_value {
+  width: 210px;
+}
+
+.single_parameter_value_container .btn_remove_parameter_value {
+  display: none;
+}
+
+#parameter_buttons_container, #tag_buttons_container {
+  float: right;
+}
+
+table.adminlist tr td.col-ordering .icon-drag, .parameter_value_container .icon-drag{
+	background: url(../../images/draggable.png) no-repeat;
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	cursor: move;
+  vertical-align: middle;
+}
+
+.wde-form-field {
+  margin: 0 0 10px;
+  padding: 8px 0;
+}

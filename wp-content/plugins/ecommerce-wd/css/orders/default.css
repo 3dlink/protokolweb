@@ -1,0 +1,84 @@
+/* Wordpress.*/
+.widefat th,
+.widefat td {
+  padding: 0 3px;
+}
+
+table.adminlist tr .col_id {
+  width: 130px;
+}
+
+table.adminlist tr .col_checked {
+  width: 15px;
+}
+
+table.adminlist tr .col_order_link {
+  width: 50px;
+  text-align: center;
+}
+
+table.adminlist tr .col_print {
+  width: 50px;
+  text-align: center;
+}
+
+table.adminlist tr .col_user_name {
+  padding-left: 10px;
+  width: 130px;
+}
+
+table.adminlist tr .col_user_ip_address {
+  width: 110px;
+  text-align: center;
+}
+
+table.adminlist tr .col_total_price {
+  width: 70px;
+  text-align: center;
+}
+
+table.adminlist tr .col_checkout_date {
+  width: 95px;
+  text-align: center;
+}
+
+table.adminlist tr .col_date_modified {
+  width: 95px;
+  text-align: center;
+}
+
+table.adminlist tr .col_order_status,
+table.adminlist tr .col_status_id {
+  width: 120px;
+  text-align: center;
+}
+
+table.adminlist tr .col_order_status select {
+  width: 90px;
+}
+
+table.adminlist tr .col_payment_status {
+  width: 85px;
+  text-align: center;
+}
+
+table.adminlist tr .col_read {
+  width: 70px;
+  text-align: center;
+}
+
+table.adminlist tr .col_actions {
+  width: 100px;
+  text-align: center;
+}
+
+.wde_btn {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.wde_btn img {
+  width: 18px;
+  padding: 0 3px;
+  height: 18px;
+}

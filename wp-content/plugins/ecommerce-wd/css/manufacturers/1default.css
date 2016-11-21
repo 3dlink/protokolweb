@@ -1,0 +1,18 @@
+table.adminlist tbody tr {
+    height: 60px;
+}
+
+table.adminlist tr .col_logo {
+    width: 160px;
+    text-align: center;
+}
+
+table.adminlist tr .col_site {
+    width: 200px;
+    text-align: center;
+}
+
+.manufacturer_logo {
+    max-width: 152px;
+    max-height: 52px;
+}

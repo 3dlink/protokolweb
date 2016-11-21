@@ -1,0 +1,4313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wde\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-15 16:26+0300\n"
+"PO-Revision-Date: 2016-09-23 18:23+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && n"
+"%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\plugins"
+"\\ecommerce-wd-free\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orderproducts.php:7
+msgid "Item removed."
+msgstr "Элемент удален."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orderproducts.php:12
+msgid "Item saved."
+msgstr "Пункт сохранен."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:87
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:310
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:140
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:218
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:501
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:509
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:93
+msgid "Order details"
+msgstr "Информация о заказе"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:93
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:316
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:123
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:138
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:216
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:99
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1072
+msgid "Shipping data"
+msgstr "данные Доставка"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:94
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:104
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:317
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:327
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:100
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:110
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:297
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:328
+msgid "First name"
+msgstr "Имя"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:95
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:105
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:318
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:328
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:105
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:101
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:111
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:299
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:330
+msgid "Last name"
+msgstr "Фамилия"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:96
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:106
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:319
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:329
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:106
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:102
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:112
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:310
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:331
+msgid "Company"
+msgstr "Компания"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:97
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:107
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:320
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:330
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:110
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:103
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:113
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:321
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:342
+msgid "Address"
+msgstr "Адрес"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:98
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:108
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:321
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:331
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:109
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:104
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:114
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:320
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:341
+msgid "City"
+msgstr "Город"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:99
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:109
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:322
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:332
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:108
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:105
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:115
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:319
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:340
+msgid "State"
+msgstr "Состояние"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:100
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:110
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:323
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:333
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:114
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:106
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:116
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:325
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:343
+msgid "Zip code"
+msgstr "Индекс"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:101
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:111
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:324
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:334
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:107
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:107
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:117
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:311
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:332
+msgid "Country"
+msgstr "Страна"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:103
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:326
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:122
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:137
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:215
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:109
+msgid "Billing data"
+msgstr "данные биллинга"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:112
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:335
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:112
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:118
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:323
+msgid "Phone"
+msgstr "Телефон"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:113
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:336
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:113
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:119
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:324
+msgid "Fax"
+msgstr "Факс"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:114
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:337
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:357
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:120
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:141
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:309
+msgid "Email"
+msgstr "Электронная почта"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:356
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:82
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/categories.php:159
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/countries.php:73
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/currencies.php:31
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/discounts.php:54
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/labels.php:92
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/orderstatuses.php:15
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/parameters.php:83
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/payments.php:87
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/products.php:179
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/shippingmethods.php:108
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/tags.php:48
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/taxes.php:53
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/themes.php:68
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/users.php:67
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/explore.php:57
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/tmpl/explore.php:59
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/tmpl/default.php:35
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/tmpl/explore.php:45
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/tmpl/explore.php:45
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/tmpl/explore.php:46
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:152
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/tmpl/default.php:45
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/explore.php:60
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/default.php:41
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/explore.php:58
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tmpl/explore.php:57
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/tmpl/explore.php:45
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/users/tmpl/explore.php:48
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:140
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:297
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:328
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:437
+msgid "Name"
+msgstr "имя"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:358
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:142
+msgid "Tel"
+msgstr "Tелефон"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:421
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/products.php:146
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:112
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:117
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:127
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:132
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:270
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:277
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:291
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:298
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/tmpl/edit.php:31
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/tmpl/edit.php:39
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:17
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:25
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:33
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:257
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:269
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:59
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:128
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:136
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:144
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:152
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:160
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:168
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:176
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:184
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:192
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:200
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:208
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:216
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:224
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:77
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:85
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:93
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:101
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:109
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:117
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:134
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:142
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:199
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_tax.php:24
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_tax.php:38
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/tmpl/edit.php:40
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/edit.php:26
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/edit.php:43
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/edit_apioptions.php:77
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:212
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:234
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:242
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:250
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:258
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:266
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:291
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:299
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:344
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:360
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:225
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:261
+msgid "Yes"
+msgstr "Да"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:421
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/products.php:145
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:112
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:117
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:127
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:132
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:270
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:277
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:291
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:298
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/tmpl/edit.php:31
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/tmpl/edit.php:39
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:17
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:25
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:33
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:257
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:269
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:59
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:128
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:136
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:144
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:152
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:160
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:168
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:176
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:184
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:192
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:200
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:208
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:216
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:224
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:77
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:85
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:93
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:101
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:109
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:117
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:134
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:142
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:199
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_tax.php:24
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_tax.php:38
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/tmpl/edit.php:40
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/edit.php:26
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/edit.php:43
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/edit_apioptions.php:77
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:212
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:234
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:242
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:250
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:258
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:266
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:291
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:299
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:344
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:360
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:225
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:261
+msgid "No"
+msgstr "Нет"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/payments.php:10
+msgid "Changes saved."
+msgstr "Изменения сохранены."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:71
+msgid "Thumbnail view"
+msgstr "Эскизы"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:72
+msgid "Masonry view"
+msgstr "вид каменной кладки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:73
+msgid "Cheese view"
+msgstr "вид сыра"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:74
+msgid "Blog style view"
+msgstr "Развернутый вид Стиль"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:75
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:21
+msgid "List view"
+msgstr "Посмотреть список"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:76
+msgid "Quick view"
+msgstr "Краткое описание"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:77
+msgid "Product view"
+msgstr "вид продукта"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:80
+msgid "Image"
+msgstr "Рисунок"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:81
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:93
+msgid "Label"
+msgstr "Метка"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:83
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:156
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/ratings/tmpl/default.php:42
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:330
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:453
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:84
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:89
+msgid "Category"
+msgstr "Категори"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:85
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:153
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:90
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:441
+msgid "Manufacturer"
+msgstr "Производитель"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:86
+msgid "Model"
+msgstr "Модель"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:87
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:154
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:91
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:103
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/explore.php:59
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:445
+msgid "Price"
+msgstr "Цена"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:88
+msgid "Market price"
+msgstr "Рыночная цена"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:89
+msgid "Description"
+msgstr "Описание "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:90
+msgid "Quick view button"
+msgstr "Кнопка Быстрый просмотр"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:91
+msgid "Compare button"
+msgstr "кнопку Сравнить"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:92
+msgid "Write review button"
+msgstr "Кнопка Обзор Написать"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:93
+msgid "Buy now button"
+msgstr "Купить сейчас кнопку"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:94
+msgid "Add to cart button"
+msgstr "Добавить в корзину кнопку"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:95
+msgid "Social buttons"
+msgstr "Социальные кнопки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:96
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit.php:21
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/orders/tmpl/displayorder.php:83
+msgid "Parameters"
+msgstr "Параметры"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:97
+msgid "Shipping info"
+msgstr "Информация о доставке"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:98
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:99
+msgid "Related products"
+msgstr "Похожие товары"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/categories.php:138
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/categories.php:304
+msgid "Main"
+msgstr "Главный"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/currencies.php:12
+#, fuzzy
+msgid "Paypal-supported currencies"
+msgstr "PayPal Поддерживаемые Валюты и коды валют"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:82
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/edit_generaloptions.php:19
+msgid "Hide"
+msgstr "Спрятать"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:83
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/edit_generaloptions.php:19
+msgid "Show"
+msgstr "Показать"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:84
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/edit_generaloptions.php:19
+msgid "Show and require"
+msgstr "Показать и требуют"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:104
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:298
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:329
+msgid "Middle name"
+msgstr "Отчество"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:111
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:322
+msgid "Mobile"
+msgstr "Мобильный номер"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/orderproducts.php:14
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/shoppingcart.php:122
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:150
+msgid "Tax"
+msgstr "налог"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/orderproducts.php:16
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit.php:22
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/orders/tmpl/displayorder.php:75
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:151
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:171
+msgid "Shipping"
+msgstr "Доставка"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/orders.php:160
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:86
+msgid "Date from"
+msgstr "Дата, с"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/orders.php:171
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:87
+msgid "Date to"
+msgstr "Дата до"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/orders.php:181
+msgid "Payment data"
+msgstr "данные оплаты"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/pages.php:80
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/tmpl/explore.php:55
+msgid "Title"
+msgstr "заглавие"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/products.php:160
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:119
+msgid "Unlimited"
+msgstr "неограниченный"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/ratings.php:31
+msgid "Any product"
+msgstr "Любой продукт"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/ratings.php:37
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:147
+msgid "Product"
+msgstr "Товар"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/shippingmethods.php:75
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:113
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:1124
+msgid "Free shipping"
+msgstr "Бесплатная доставка"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:11
+msgid "Edit Category"
+msgstr "Изменить категорию"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:12
+msgid "View Category"
+msgstr "Просмотреть категории"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:13
+msgid "Update Category"
+msgstr "Обновить категорию"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:14
+msgid "Add New Category"
+msgstr "Добавить категорию"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:15
+msgid "New Category Name"
+msgstr "Имя новой категории"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:16
+msgid "Parent Category"
+msgstr "Родительская категория"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:17
+msgid "Parent Category:"
+msgstr "Родительская категория"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:18
+msgid "Search Categories"
+msgstr "Искать категории"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:19
+msgid "Popular Categories"
+msgstr "Популярные рубрики"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:20
+msgid "Separate categories with commas"
+msgstr "Разделяйте категории запятыми"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:21
+msgid "Add or remove categories"
+msgstr "Добавить или удалить категории"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:22
+msgid "Choose from the most used categories"
+msgstr "Выберите одну из наиболее часто используемых категорий"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:23
+msgid "No categories found."
+msgstr "Категорий не найдено"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:111
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:84
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:94
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:62
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:216
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_parameters.php:59
+msgid "Required parameters"
+msgstr "Требуемые параметры"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:65
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:219
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_parameters.php:62
+msgid "Add parameter"
+msgstr "Добавить параметр"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:66
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:96
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:220
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:252
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:134
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_parameters.php:64
+msgid "Remove all"
+msgstr "Удалить все"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:67
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:97
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:221
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:253
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_data.php:50
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_data.php:64
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_links.php:50
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_links.php:67
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_parameters.php:65
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_shipping.php:38
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:27
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:36
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:103
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:114
+msgid "Manage"
+msgstr "Управление"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:95
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:251
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:133
+msgid "Add tags"
+msgstr "Add tags"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/explore.php:39
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/explore.php:43
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tmpl/explore.php:39
+msgid "Insert"
+msgstr "Вставить"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/explore.php:56
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/tmpl/explore.php:58
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/tmpl/default.php:34
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/tmpl/explore.php:44
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/tmpl/explore.php:44
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/tmpl/explore.php:45
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/tmpl/default.php:44
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/tmpl/explore.php:54
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/explore.php:59
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/default.php:40
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/ratings/tmpl/default.php:38
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/explore.php:57
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tmpl/explore.php:56
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/tmpl/explore.php:44
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/users/tmpl/explore.php:47
+msgid "ID"
+msgstr "Идентификатор ID"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:12
+msgid "Edit Country"
+msgstr "Редактировать Страна"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:13
+msgid "View Country"
+msgstr "Просмотр Страна"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:14
+msgid "Update Country"
+msgstr "Обновление Страна"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:15
+msgid "Add New Country"
+msgstr "Добавить новую страну"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:16
+msgid "New Country Name"
+msgstr "Новое название страны"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:17
+msgid "Parent Country"
+msgstr "родитель Страна"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:18
+msgid "Parent Country:"
+msgstr "Родитель Страна:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:19
+msgid "Search Countries"
+msgstr "Поиск Страны"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:20
+msgid "Popular Countries"
+msgstr "Популярные страны"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:21
+msgid "Separate Countries with commas"
+msgstr "Отдельные страны с запятыми"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:22
+msgid "Add or remove countries"
+msgstr "Добавление или удаление страны"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:23
+msgid "Choose from most used countries"
+msgstr "Выберите один из наиболее часто используемых стран"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:24
+msgid "No countries found."
+msgstr "Ни одна из стран не найдено."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:82
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/tmpl/explore.php:60
+msgid "Country code"
+msgstr "Код страны"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/tmpl/explore.php:42
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/tmpl/explore.php:38
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_data.php:49
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_data.php:63
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_links.php:49
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_links.php:66
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_shipping.php:37
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:26
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:35
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:102
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:113
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/explore.php:40
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/users/tmpl/explore.php:36
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/checkout/tmpl/displayproductsdata.php:114
+msgid "Select"
+msgstr "Выберите"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/tmpl/default.php:36
+msgid "Currency code"
+msgstr "Код валюты="
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/tmpl/default.php:37
+msgid "Active"
+msgstr "Активно"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/tmpl/edit.php:15
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:157
+msgid "Left"
+msgstr "Слева"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/tmpl/edit.php:16
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:158
+msgid "Right"
+msgstr "справо"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:54
+msgid "Add currency"
+msgstr "Добавить валюту"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:56
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:65
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/default.php:102
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/view.php:76
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:69
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:48
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:57
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:64
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:73
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/view.php:48
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:54
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:62
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/ratings/tmpl/default.php:81
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:58
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:68
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:75
+msgid "Save"
+msgstr "Сохранить"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:57
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:66
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/view.php:26
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:70
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:49
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:58
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:65
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:74
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/view.php:49
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:55
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:63
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:59
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:69
+msgid "Apply"
+msgstr "Применить"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:58
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:67
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:50
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:59
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:66
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:75
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:56
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:64
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:60
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:70
+msgid "Save and new"
+msgstr "Сохранить и создать новую"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:59
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:68
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/view.php:27
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:64
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:71
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:51
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:60
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:67
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:76
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/view.php:50
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:57
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:65
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:61
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:71
+msgid "Cancel"
+msgstr "Отмена"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:63
+msgid "Edit currency"
+msgstr "Редактировать валюту"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:72
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:57
+msgid "Currencies"
+msgstr "валюты"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:75
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderproducts/tmpl/explore.php:123
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:81
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:69
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:87
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:73
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/ratings/view.php:44
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:79
+msgid "Delete"
+msgstr "Удалить"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:12
+msgid "Edit Discount"
+msgstr "Изменить Скидка"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:13
+msgid "View Discount"
+msgstr "Вид со скидкой"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:14
+msgid "Update Discount"
+msgstr "Обновление со скидкой"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:15
+msgid "Add New Discount"
+msgstr "Добавить новую дисконтную"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:16
+msgid "New Discount Name"
+msgstr "Новая скидка Имя"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:17
+msgid "Parent Discount"
+msgstr "родитель со скидкой"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:18
+msgid "Parent Discount:"
+msgstr "Родитель Скидка:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:19
+msgid "Search Discounts"
+msgstr "Поиск Скидки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:20
+msgid "Popular Discounts"
+msgstr "Популярные Скидки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:21
+msgid "Separate Discounts with commas"
+msgstr "Отдельные скидки запятыми"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:22
+msgid "Add or remove discounts"
+msgstr "Добавить или удалить скидки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:23
+msgid "Choose from most used discounts"
+msgstr "Выберите один из наиболее часто используемых скидок"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:24
+msgid "No discounts found."
+msgstr "Скидки не найдено."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:85
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/tmpl/explore.php:46
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:82
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/tmpl/explore.php:46
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:332
+msgid "Rate"
+msgstr "Оценить"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:12
+msgid "Edit Label"
+msgstr "Изменить метку"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:13
+msgid "View Label"
+msgstr "Просмотр этикетки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:14
+msgid "Update Label"
+msgstr "Обновление этикетки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:15
+msgid "Add New Label"
+msgstr "Добавить новую метку"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:16
+msgid "New Label Name"
+msgstr "Новый Название этикетки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:17
+msgid "Parent Label"
+msgstr "Родительская"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:18
+msgid "Parent Label:"
+msgstr "Родитель Label:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:19
+msgid "Search Labels"
+msgstr "Поиск Метки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:20
+msgid "Popular Labels"
+msgstr "Популярные этикетки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:21
+msgid "Separate Labels with commas"
+msgstr "Отдельные этикетки с запятыми"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:22
+msgid "Add or remove labels"
+msgstr "Добавить или удалить ярлыки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:23
+msgid "Choose from most used labels"
+msgstr "Выберите один из наиболее часто используемых меток"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:24
+msgid "No labels found."
+msgstr "Нет меток не найдено."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:12
+msgid "Add New Manufacturer"
+msgstr "Добавить Производитель"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:13
+msgid "New Manufacturer"
+msgstr "Новый Производитель"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:14
+msgid "Edit Manufacturer"
+msgstr "Редактировать Производитель"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:15
+msgid "View Manufacturer"
+msgstr "Просмотр Производитель"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:16
+msgid "Manufacturers"
+msgstr "производители."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:17
+msgid "Search Manufacturers"
+msgstr "Поиск Производители"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:18
+msgid "Parent Manufacturers:"
+msgstr "Родительские Производители:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:19
+msgid "No manufacturers found."
+msgstr "Нет производители не найдено."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:20
+msgid "No manufacturers found in Trash."
+msgstr "Нет производители не найдено в корзине."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:45
+msgid "Manufacturer data"
+msgstr "данные производителя"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:59
+msgid "Logo"
+msgstr "логотип"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:60
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:72
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:401
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:417
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/categories/tmpl/displaycategory.php:126
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproduct.php:849
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproducts_arrangementlist.php:29
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproducts_arrangementthumbs.php:37
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/shoppingcart/tmpl/displayshoppingcart.php:41
+msgid "No Image"
+msgstr "Нет изображения"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/tmpl/explore.php:49
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/tmpl/default.php:47
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/tmpl/explore.php:57
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/default.php:43
+msgid "Published"
+msgstr "Опубликовано"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displaycategory.php:15
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:43
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:379
+msgid "Show all categories"
+msgstr "Показать все категории"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displaycategory.php:34
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displaymanufacturers.php:13
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:168
+msgid "Asc"
+msgstr "Asc"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displaycategory.php:35
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displaymanufacturers.php:14
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:169
+msgid "Desc"
+msgstr "Описание изделия"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:19
+msgid "Thumbnails"
+msgstr "Миниатюры"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:20
+msgid "Masonry"
+msgstr "Кирпичная"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:22
+msgid "Blog style"
+msgstr "Стиль блога"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:23
+msgid "Chess"
+msgstr "Шахматы"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:96
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:376
+msgid "Any date"
+msgstr "Любая дата"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:97
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:372
+msgid "Today"
+msgstr "Сегодня"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:98
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:30
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:373
+msgid "Last week"
+msgstr "на прошлой неделе"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:99
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:374
+msgid "Last two weeks"
+msgstr "Последние две недели"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:100
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:28
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:375
+msgid "Last month"
+msgstr "За прошлый месяц"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:151
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:435
+msgid "Relevance"
+msgstr "По популярности"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:155
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:449
+msgid "Number of reviews"
+msgstr "Количество отзывов"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/menu_form_fields.php:25
+msgid "Categories page"
+msgstr "страница Категории"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/menu_form_fields.php:26
+msgid "Manufacturers page"
+msgstr "страница Производители"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/menu_form_fields.php:27
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:16
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:443
+msgid "All Products"
+msgstr "Все продукты"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/menu_form_fields.php:33
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderproducts/tmpl/explore.php:124
+msgid "Update"
+msgstr "Обновить"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default.php:20
+msgid "Global"
+msgstr "Общие"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default.php:21
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:68
+msgid "Products"
+msgstr "Продукты"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default.php:22
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:470
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:44
+msgid "Checkout"
+msgstr "Оформить заказ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default.php:23
+msgid "Additional charges and discounts"
+msgstr "Дополнительные сборы и скидки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default.php:24
+msgid "Users"
+msgstr "Пользователи"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default.php:25
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:54
+msgid "Email options"
+msgstr "параметры электронной почты"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default.php:26
+msgid "Standard pages"
+msgstr "Стандартные страницы"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:66
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/default.php:53
+msgid "You can't edit this payment system in free version."
+msgstr "Вы не можете редактировать эту платежную систему в бесплатной версии."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:111
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:105
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:33
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:41
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:52
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_tax.php:61
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_user_data.php:43
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:46
+msgid "Reset"
+msgstr "Сброс"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:112
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:106
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:34
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:42
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:53
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_tax.php:62
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_user_data.php:44
+msgid "Load default values"
+msgstr "Значения по умолчанию нагрузки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:46
+msgid "Email to Administrator"
+msgstr "Отправить администратору"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:47
+msgid "Email to Customer"
+msgstr "Отправить Клиенту"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:48
+msgid "Customer note"
+msgstr "примечание клиента"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:50
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:530
+msgid "Failed"
+msgstr "Ошибка"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:51
+msgid "Pending"
+msgstr "На проверке"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:52
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:544
+msgid "Completed"
+msgstr "Завершено"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:53
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:551
+msgid "Refunded"
+msgstr "Возвращено"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:54
+msgid "Customer invoice"
+msgstr "счет-фактура клиента"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:116
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:133
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:150
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:166
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:175
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:184
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:193
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:202
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:211
+msgid "Customer name"
+msgstr "Имя заказчика"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:117
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:134
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:151
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:212
+msgid "Site name"
+msgstr "Название учреждения:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:118
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:135
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:152
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:213
+msgid "Site url"
+msgstr "Адрес сайта"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:119
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:136
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:153
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:214
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/default.php:44
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/orders/tmpl/displayorder.php:27
+msgid "Checkout date"
+msgstr "Дата отбытия"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:120
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:139
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:156
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:167
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:176
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:185
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:194
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:203
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:217
+msgid "Order id"
+msgstr "№ Заказа"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:121
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:141
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:157
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:219
+msgid "Product details"
+msgstr "Подробнее о товаре"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:124
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:142
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:158
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:220
+msgid "Total price"
+msgstr "Общая сумма"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:125
+msgid "Is email sent to user"
+msgstr "Направляется юзеру"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:126
+msgid "Customer details"
+msgstr "Реквизиты покупателя"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:154
+msgid "Old status"
+msgstr "Старый статус"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:155
+msgid "New status"
+msgstr "Новый статус"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:239
+msgid "Order is submitted"
+msgstr "Заказ представляется"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:240
+msgid "Payment status is completed"
+msgstr "Статус Оплата завершена"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:241
+msgid "Order is confirmed"
+msgstr "Заказ подтверждается"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:242
+msgid "Don't send"
+msgstr "Не отправлять"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:254
+msgid "Send Email to Administrator"
+msgstr "Отправить E-mail для Administrator"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:254
+msgid "Send Email"
+msgstr "Отправить e-mail"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:293
+msgid "HTML"
+msgstr "HTML Русский"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:293
+msgid "Text"
+msgstr "Текст"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:9
+msgid "General"
+msgstr "Общие"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:10
+msgid "Search and Sort"
+msgstr "Поиск и сортировка"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:111
+msgid "Manage templates"
+msgstr "Управление шаблонами"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:13
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1066
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1089
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1105
+msgid "Products data"
+msgstr "данные продукты"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:14
+msgid "Feedback"
+msgstr "Обратная связь"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:15
+msgid "Social media integration"
+msgstr "Социальная интеграция средств массовой информации"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:155
+msgid "Light"
+msgstr "Светлый"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:156
+msgid "Dark"
+msgstr "Темно"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:9
+msgid "Permalink settings"
+msgstr "настройки Постоянная ссылка"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:10
+msgid "All products page"
+msgstr "Все продукты страница"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:11
+msgid "Orders page"
+msgstr "страница Заказы"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:12
+msgid "Checkout page"
+msgstr "Оформление заказа страницы"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:13
+msgid "User management page"
+msgstr "страница Управление пользователями"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:14
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:488
+msgid "System pages"
+msgstr "Системные страницы"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:91
+msgid "Ecommerce slug"
+msgstr "Электронная торговля пробкового"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:96
+msgid "Product slug"
+msgstr "пробкового продукта"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:101
+msgid "Manufacturer slug"
+msgstr "Производитель пробкового"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:106
+msgid "Category slug"
+msgstr "Категория пробкового"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:111
+msgid "Tag slug"
+msgstr "Tag пробкового"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:116
+msgid "Parameter slug"
+msgstr "Параметр пробкового"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:121
+msgid "Discount slug"
+msgstr "Скидка пробкового"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:126
+msgid "Tax slug"
+msgstr "Налоги пробкового"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:131
+msgid "Label slug"
+msgstr "Этикетка пробкового"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:136
+msgid "Shipping method slug"
+msgstr "Способ доставки пробкового"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:141
+msgid "Country slug"
+msgstr "Страна пробкового"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:152
+msgid "Products compare page"
+msgstr "Продукты сравнить страницу"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:163
+msgid "Display order page"
+msgstr "страница Порядок отображения"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:168
+msgid "Print order page"
+msgstr "страница Заказ печати"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:179
+msgid "Shipping data page"
+msgstr "страница данных Доставка"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:184
+msgid "Products data page"
+msgstr "страница данных Продукты"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:189
+msgid "License pages"
+msgstr "Лицензионные страницы"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:194
+msgid "Confirm order page"
+msgstr "Подтвердить страницу заказа"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:199
+msgid "Checkout finished success page"
+msgstr "Checkout страница законченный успех"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:204
+msgid "Checkout finished failure page"
+msgstr "Оформить законченный страницу Отказ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:209
+msgid "Checkout product page"
+msgstr "Оформить заказ Страница продукта"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:214
+msgid "Checkout all products page"
+msgstr "Оформить заказ всю страницу продуктов"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:225
+msgid "Edit user account page"
+msgstr "Страница учетной записи пользователя Редактировать"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:236
+msgid "System page"
+msgstr "страница системы"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_tax.php:12
+msgid "Per order"
+msgstr "На заказ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_tax.php:13
+msgid "Per item"
+msgstr "За единицу"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/view.php:25
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:63
+msgid "Options"
+msgstr "Настройки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/default.php:40
+msgid "Order"
+msgstr "Заказ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/default.php:41
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/ratings/tmpl/default.php:40
+msgid "User IP"
+msgstr "IP пользователя"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/default.php:45
+msgid "Date modified"
+msgstr "Дата изменена"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/default.php:46
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:516
+msgid "Order status"
+msgstr "Статус заказа"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/default.php:48
+msgid "Read"
+msgstr "Чтение"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/edit.php:96
+msgid "Edit products"
+msgstr "Изменить продукты"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/paymentdata.php:56
+msgid "true"
+msgstr "true"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/paymentdata.php:56
+msgid "false"
+msgstr "false"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:63
+msgid "View order"
+msgstr "Просмотреть заказ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:68
+msgid "Edit order"
+msgstr "Изменить порядок"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:77
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:80
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:461
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:46
+msgid "Orders"
+msgstr "заказы"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/tmpl/default.php:46
+msgid "Default"
+msgstr "По умолчанию"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:46
+msgid "Add order status"
+msgstr "Добавить статус заказа"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:55
+msgid "Edit order status"
+msgstr "Статус заказа Редактировать"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:64
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:54
+msgid "Order statuses"
+msgstr "Статусы заказов"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:67
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:85
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/view.php:56
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:71
+msgid "Publish"
+msgstr "Публиковать"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:68
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:86
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/view.php:57
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:72
+msgid "Unpublish"
+msgstr "Отменить публикацию"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:62
+msgid "Add page"
+msgstr "Добавить страницу"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:71
+msgid "Edit page"
+msgstr "Отредактировать страницу"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:82
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1078
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1101
+msgid "Licensing"
+msgstr "Лицензирование"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:11
+msgid "Edit Parameter"
+msgstr "Изменение параметров"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:12
+msgid "View Parameter"
+msgstr "Просмотр параметров"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:13
+msgid "Update Parameter"
+msgstr "Обновление параметров"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:14
+msgid "Add New Parameter"
+msgstr "Добавить новый параметр"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:15
+msgid "New Parameter Name"
+msgstr "Новое имя параметра"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:16
+msgid "Parent Parameter"
+msgstr "родитель Параметр"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:17
+msgid "Parent Parameter:"
+msgstr "Родитель параметр:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:18
+msgid "Search Parameters"
+msgstr "Параметры поиска"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:19
+msgid "Popular Parameters"
+msgstr "Популярные Параметры"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:20
+msgid "Separate parameters with commas"
+msgstr "Отдельные параметры запятыми"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:21
+msgid "Add or remove parameters"
+msgstr "Добавление или удаление параметров"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:22
+msgid "Choose from the most used parameters"
+msgstr "Выберите один из наиболее часто используемых параметров"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:23
+msgid "No parameters found."
+msgstr "Не найдено ни одного параметра."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:49
+msgid "Edit "
+msgstr "Редактироват"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:50
+#, fuzzy
+msgid "View "
+msgstr "Просмотр тегов"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:51
+#, fuzzy
+msgid "Update "
+msgstr "Обновить"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:52
+#, fuzzy
+msgid "Add New "
+msgstr "Добавить"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:53
+msgid "New "
+msgstr "новый"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:54
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:55
+#, fuzzy
+msgid "Parent "
+msgstr "родитель Tag"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:56
+#, fuzzy
+msgid "Search "
+msgstr "Искать теги"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:57
+#, fuzzy
+msgid "Popular "
+msgstr "Популярные теги"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:58
+msgid "Separate "
+msgstr "отдельный"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:59
+#, fuzzy
+msgid "Add or remove "
+msgstr "Добавить или удалить теги"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:60
+#, fuzzy
+msgid "Choose from the most used "
+msgstr "Выберите один из наиболее часто используемых"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:61
+#, fuzzy
+msgid "No "
+msgstr "Нет"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:137
+msgid "Default values"
+msgstr "Значения по умолчанию"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:167
+msgid "Add/Edit"
+msgstr "Добавить/Изменить"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/explore.php:61
+msgid "Type"
+msgstr "Тип"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/explore.php:62
+msgid "Required"
+msgstr "Необходимо"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/edit.php:25
+msgid "API options"
+msgstr "варианты API"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/edit.php:26
+msgid "Credit card fields"
+msgstr "Поля кредитных карт"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/edit_generaloptions.php:16
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/usermanagement.php:125
+msgid "This field is required"
+msgstr "Это поле обязательно к заполнению"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/view.php:46
+msgid "Edit payment system"
+msgstr "платежная система Редактировать"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/view.php:54
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:49
+msgid "Payments"
+msgstr "Платежы"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:12
+msgid "Add New Product"
+msgstr "Добавить новый продукт"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:13
+msgid "New Product"
+msgstr "Новый продукт"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:14
+msgid "Edit Product"
+msgstr "Изменение продукта"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:15
+msgid "View Product"
+msgstr "Просмотр продукта"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:17
+msgid "Search Products"
+msgstr "Поиск продуктов"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:19
+msgid "No products found."
+msgstr "Не найдено ни одной продукции."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:20
+msgid "No products found in Trash."
+msgstr "Товар не был найден в корзине."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:69
+msgid "Short description"
+msgstr "Краткое описание"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:71
+msgid "Product data"
+msgstr "Данные продукта"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:73
+msgid "Select manufacturer"
+msgstr "Выберите производителя"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:92
+msgid "Amount in stock"
+msgstr "Сумма в наличии"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:129
+msgid "No label"
+msgstr "Без марки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:164
+msgid "No image"
+msgstr "Нет изображения"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:390
+msgid "Show all manufacturers"
+msgstr "Показать все производители"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:440
+msgid "No manufacturer selected"
+msgstr "Нет производитель выбрал"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:445
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:446
+msgid "Manufacturer:"
+msgstr "Производитель"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:492
+msgid "Duplicate this item"
+msgstr "Дублировать этот пункт"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:492
+msgid "Duplicate"
+msgstr "Дубликат"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:549
+msgid "Product creation failed, could not find original product."
+msgstr "Product creation failed, could not find original product:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:684
+msgid "free shipping"
+msgstr "Бесплатная доставка!!!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit.php:19
+msgid "Data"
+msgstr "Данные"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit.php:20
+msgid "Links"
+msgstr "Ссылки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit.php:23
+msgid "Media"
+msgstr "Средства массовой информации."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit.php:24
+msgid "Meta tags"
+msgstr "Мета Тэги"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit.php:26
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/ratings/view.php:43
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:48
+msgid "Ratings"
+msgstr "Рейтинги:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_parameters.php:63
+msgid "Add category parameters"
+msgstr "Добавить параметры категории"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:52
+msgid "Add product"
+msgstr "Добавить товар"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/ratings/tmpl/default.php:39
+msgid "User"
+msgstr "пользователь"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/ratings/tmpl/default.php:43
+msgid "Rating Date"
+msgstr "Рейтинг Дата"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:27
+msgid "Year"
+msgstr "Год"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:29
+msgid "This month"
+msgstr "За текущией месяц"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:31
+msgid "Custom"
+msgstr "Другой:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:45
+msgid "Go"
+msgstr "Вперед"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:84
+msgid "Average monthly sales"
+msgstr "Средние ежемесячные продажи"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:84
+msgid "Average daily sales"
+msgstr "Средние ежедневные продажи"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/view.php:52
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:55
+msgid "Reports"
+msgstr "Отчеты"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:12
+msgid "Edit Shipping method"
+msgstr "Метод Edit Shipping"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:13
+msgid "View Shipping method"
+msgstr "Способ Посмотреть Доставка"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:14
+msgid "Update Shipping method"
+msgstr "Метод Update Shipping"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:15
+msgid "Add New Shipping method"
+msgstr "Добавить метод доставки Новая"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:16
+msgid "New Shipping method Name"
+msgstr "Новый Способ доставки Имя"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:17
+msgid "Parent Shipping method"
+msgstr "Родитель Способ доставки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:18
+msgid "Parent Shipping method:"
+msgstr "Родитель Способ доставки:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:19
+msgid "Search Shipping methods"
+msgstr "Методы поиска доставка"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:20
+msgid "Popular Shipping methods"
+msgstr "Популярные способы доставки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:21
+msgid "Separate Shipping methods with commas"
+msgstr "Отдельные способы доставки с запятыми"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:22
+msgid "Add or remove shipping methods"
+msgstr "Добавление или удаление способов доставки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:23
+msgid "Choose from most used shipping methods"
+msgstr "Выберите один из наиболее часто используемых методов доставки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:24
+msgid "No shipping methods found."
+msgstr "Не найдено ни одной способы доставки."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:16
+msgid "Per bundle"
+msgstr "в пачке"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:17
+msgid "Per unit"
+msgstr "На ед.дозирования:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:11
+msgid "Edit Tag"
+msgstr "Редактирование тегов"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:12
+msgid "View Tag"
+msgstr "Просмотр тегов"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:13
+msgid "Update Tag"
+msgstr "Обновление тегов"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:14
+msgid "Add New Tag"
+msgstr "Добавить новый тег"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:15
+msgid "New Tag Name"
+msgstr "New Tag Name"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:16
+msgid "Parent Tag"
+msgstr "родитель Tag"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:17
+msgid "Parent Tag:"
+msgstr "Родитель Метка:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:18
+msgid "Search Tags"
+msgstr "Искать теги"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:19
+msgid "Popular Tags"
+msgstr "Популярные теги"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:20
+msgid "Separate Tags with commas"
+msgstr "Отдельные теги запятыми"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:21
+msgid "Add or remove tags"
+msgstr "Добавить или удалить теги"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:22
+msgid "Choose from most used"
+msgstr "Выберите один из наиболее часто используемых"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:23
+msgid "No tags found."
+msgstr "No Tags Found"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:56
+msgid "Add tag"
+msgstr "Добавить тег"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:66
+msgid "Edit tag"
+msgstr "Редактировать таг"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:76
+msgid "Tags"
+msgstr "Тэг"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:12
+msgid "Edit Tax"
+msgstr "Изменить Налоговый"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:13
+msgid "View Tax"
+msgstr "Посмотреть Налоговый"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:14
+msgid "Update Tax"
+msgstr "Налоги Обновление"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:15
+msgid "Add New Tax"
+msgstr "Добавить новый Налоговый"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:16
+msgid "New Tax Name"
+msgstr "Новый Налоговый Имя"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:17
+msgid "Parent Tax"
+msgstr "родитель Налоги"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:18
+msgid "Parent Tax:"
+msgstr "Родитель налог:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:19
+msgid "Search Taxes"
+msgstr "Поиск Налоги"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:20
+msgid "Popular Taxes"
+msgstr "Популярные налоги"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:21
+msgid "Separate Taxes with commas"
+msgstr "Отдельные налоги с запятыми"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:22
+msgid "Add or remove Taxes"
+msgstr "Добавление или удаление налогов"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:23
+msgid "Choose from most used Taxes"
+msgstr "Выберите один из наиболее часто используемых налогов"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:24
+msgid "No Taxes found."
+msgstr "Нет налогов не найдено."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:21
+msgid "Product template"
+msgstr "шаблон продукта"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:22
+msgid "Manufacturer template"
+msgstr "шаблон Производитель"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:23
+msgid "Category template"
+msgstr "шаблон Категория"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:76
+msgid "Custom template"
+msgstr "Пользовательский шаблон"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:77
+msgid "Import from theme template"
+msgstr "Импорт из шаблона темы"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:78
+msgid "Generate template"
+msgstr "Generate Template... (Создать шаблон...)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:101
+msgid "Insert the code to display product in custom area:"
+msgstr "Вставьте код для отображения продукта в пользовательской области:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:110
+msgid "Insert the code to display manufacturer in custom area:"
+msgstr "Вставьте код для отображения производителя в пользовательской области:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:119
+msgid "Insert the code to display category in custom area:"
+msgstr "Вставьте код для отображения категории в пользовательской области:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/uninstall/view.php:61
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:64
+msgid "Uninstall"
+msgstr "Удалить"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:292
+msgid "Add New Ecommerce Page"
+msgstr "Добавить страницу электронной коммерции"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:293
+msgid "New Ecommerce Page"
+msgstr "Новая Электронная торговля Страница"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:294
+msgid "Edit Ecommerce Page"
+msgstr "Редактировать страницу электронной коммерции"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:295
+msgid "View Ecommerce Page"
+msgstr "Просмотр электронной коммерции страницу"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:296
+msgid "All Ecommerce Pages"
+msgstr "Все электронной коммерции Страницы"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:297
+msgid "Search Ecommerce Pages"
+msgstr "Поиск электронной коммерции Страницы"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:298
+msgid "Parent Ecommerce Pages:"
+msgstr "Родительские электронной коммерции Страницы:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:299
+msgid "No Ecommerce Pages found."
+msgstr "Нет электронной коммерции Страницы не найдены."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:300
+msgid "No Ecommerce Pages found in Trash."
+msgstr "Нет электронной коммерции Страницы не найдены в корзине."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:435
+#, php-format
+msgid "This section allows you to %s."
+msgstr "Этот раздел позволяет %s.."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:435
+msgid "Read More in User Manual"
+msgstr "Подробнее в руководстве пользователя"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:448
+msgid "Upgrade to paid version"
+msgstr "Обновление до платной версии"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:383
+msgid "Argentine Peso"
+msgstr "Аргентинский песо"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:384
+msgid "Australian Dollars"
+msgstr "Австралийский доллар"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:385
+msgid "Bangladeshi Taka"
+msgstr "бангладешского Taka"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:386
+msgid "Bulgarian Lev"
+msgstr "Болгарский лев"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:387
+msgid "Brazilian Real"
+msgstr "Бразильский реал"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:388
+msgid "Canadian Dollars"
+msgstr "Канадские Доллары"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:389
+msgid "Swiss Franc"
+msgstr "Швейцарский франк"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:390
+msgid "Chilean Peso"
+msgstr "Чилийское песо"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:391
+msgid "Chinese Yuan"
+msgstr "китайский юань"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:392
+msgid "Colombian Peso"
+msgstr "Колумбийский песо"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:393
+msgid "Czech Koruna"
+msgstr "Чешская крона"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:394
+msgid "Danish Krone"
+msgstr "Датская Крона"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:395
+msgid "Dominican Peso"
+msgstr "Доминиканское песо ="
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:396
+msgid "Egyptian Pound"
+msgstr "египетский фунт"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:397
+msgid "Euros"
+msgstr "Ев"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:398
+msgid "Pounds Sterling"
+msgstr "Фунт стерлингов"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:399
+msgid "Hong Kong Dollar"
+msgstr "Гонконгский доллар"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:400
+msgid "Croatia kuna"
+msgstr "Хорватия куна"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:401
+msgid "Hungarian Forint"
+msgstr "Венгерский форинт"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:402
+msgid "Indonesia Rupiah"
+msgstr "Индонезия рупия"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:403
+msgid "Israeli Shekel"
+msgstr "израильский шекель"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:404
+msgid "Indian Rupee"
+msgstr "Индийская рупия"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:405
+msgid "Icelandic krona"
+msgstr "Исландская крона"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:406
+msgid "Japanese Yen"
+msgstr "Японская иена"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:407
+msgid "Kenyan shilling"
+msgstr "кенийский шиллинг"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:408
+msgid "Lao Kip"
+msgstr "Лао Кип"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:409
+msgid "South Korean Won"
+msgstr "Южно-корейская вона"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:410
+msgid "Mexican Peso"
+msgstr "мексиканский песо"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:411
+msgid "Malaysian Ringgits"
+msgstr "малайзийский ринггит"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:412
+msgid "Nigerian Naira"
+msgstr "нигерийский Наира"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:413
+msgid "Norwegian Krone"
+msgstr "Норвежская крона"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:414
+msgid "Nepali Rupee"
+msgstr "Непальский рупия"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:415
+msgid "New Zealand Dollar"
+msgstr "Новозеландец"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:416
+msgid "Philippine Pesos"
+msgstr "филиппинские песо"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:417
+msgid "Pakistani Rupee"
+msgstr "пакистанская рупия"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:418
+msgid "Polish Zloty"
+msgstr "Польский злотый"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:419
+msgid "Paraguayan Guarani"
+msgstr "парагвайский Гуарани"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:420
+msgid "Romanian Leu"
+msgstr "Румынский Лей"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:421
+msgid "Russian Ruble"
+msgstr "Российский рубль"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:422
+msgid "Swedish Krona"
+msgstr "Шведская крона"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:423
+msgid "Singapore Dollar"
+msgstr "Сингапурский доллар"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:424
+msgid "Thai Baht"
+msgstr "Тайский бат"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:425
+msgid "Turkish Lira"
+msgstr "Турецкая лира"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:426
+msgid "Taiwan New Dollars"
+msgstr "Тайвань Новые Доллары"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:427
+msgid "Ukrainian Hryvnia"
+msgstr "украинская гривна"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:428
+msgid "US Dollars"
+msgstr "Доллары США"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:429
+msgid "Vietnamese Dong"
+msgstr "Вьетнамский Донг"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:430
+msgid "South African rand"
+msgstr "Южноафриканский ранд"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:436
+msgid "Without Online Payment"
+msgstr "Без онлайн-платежей"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:437
+msgid "Paypal Standard"
+msgstr "Paypal Стандартный"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:438
+msgid "Paypal Express Checkout"
+msgstr "Paypal Экспресс заказ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:452
+msgid "Shopping cart"
+msgstr "Корзина"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:479
+msgid "User management"
+msgstr "Управление пользователями"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:502
+#, php-format
+msgid ""
+"Hello administrator, <br>Here are details for order of user %s on %s at %s "
+"%s."
+msgstr ""
+"Здравствуйте администратор, <br> Вот детали для заказа пользователя%s на%s на"
+"%s%s."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:503
+#, php-format
+msgid ""
+"Order id: %s<br>Products details:<br>%s<br>Customer details:<br>%s<br>%s%s"
+msgstr ""
+"ID заказа:%s <br> Детали продуктов: <br>%s <br> Сведения о заказчике: <br>%s "
+"<br>%s%s"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:504
+#, php-format
+msgid "Mail successfully sent to user: %s"
+msgstr "Почте успешно отправлено на пользователя: %s"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:510
+#, php-format
+msgid "Hello %s,<br>Here are details for your order on %s at %s %s."
+msgstr "Привет%s, <br> Вот данные вашего заказа на%s на%s%s."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:511
+#, php-format
+msgid "Order id: %s<br>%s<br>Products details:<br>%s<br>%s<br>%s"
+msgstr "ID заказа:%s%s <br> <br> Детали продуктов: <br>%s%s <br> <br>%s"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:517
+#, php-format
+msgid ""
+"Hello %s,<br>The order status of your order on %s at %s %s is updated from "
+"<em>%s</em> to <em>%s</em>."
+msgstr ""
+"Привет%s, <br> Статус заказа Вашего заказа на%s на%s%s обновляется из <em>%s "
+"</ em> до <em>%s </ em>."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:518
+#, php-format
+msgid "<br>Products details:<br>%s<br>"
+msgstr "<br> Продукты Детали: <br>%s <br>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:520
+msgid "The order status of your order is updated"
+msgstr "Статус заказа вашего заказа обновляется"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:523
+msgid "Canceled"
+msgstr "Отменен"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:525
+#, php-format
+msgid "The order #%s from %s has been canceled."
+msgstr "Заказ #%s от%s была отменена."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:527
+msgid "Your order has been canceled"
+msgstr "Ваш заказ был отменен"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:532
+#, php-format
+msgid "Payment for order #%s from %s has failed."
+msgstr "Оплата за заказ #%s из%s не удалось."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:534
+msgid "Your order has failed"
+msgstr "Ваш заказ не удалось"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:537
+msgid "Processed"
+msgstr "Выполнено"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:539
+#, php-format
+msgid "Your order #%s from %s is now being processed."
+msgstr "Ваш заказ #%s от%s в настоящее время обрабатываются."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:541
+msgid "Your order is now being processed"
+msgstr "Ваш заказ в настоящее время обрабатывается"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:546
+#, php-format
+msgid "Your order #%s from %s has been completed."
+msgstr "Ваш заказ #%s от%s была завершена."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:548
+msgid "Your order has been completed"
+msgstr "Ваш заказ был завершен"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:553
+#, php-format
+msgid "Your order #%s from %s has been refunded."
+msgstr "Ваш заказ# %s  от s был возвращен."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:555
+msgid "Your order has been refunded"
+msgstr "Ваш заказ был возвращен"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:558
+msgid "Invoice"
+msgstr "Выставленный счет"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:559
+#, php-format
+msgid "Hello %s,<br>Here are details for your order on %s at %s %s.<br>"
+msgstr "Привет%s, <br> Вот данные вашего заказа на%s на%s%s. <br>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:560
+#, php-format
+msgid "Order id: %s<br>%s<br>Product details:<br>%s<br>%s%s"
+msgstr ""
+"ID заказа:%s%s <br> <br> Подробная информация о продукте: <br>%s <br>%s%s"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:562
+msgid "Invoice for Your order"
+msgstr "Счет-фактура для вашего заказа"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:39
+#, fuzzy
+msgid "General options"
+msgstr "параметры электронной почты"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:59
+#, fuzzy
+msgid "Final"
+msgstr "Окончательная цена: "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:69
+msgid "Finish"
+msgstr "Конец"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:70
+msgid "Next"
+msgstr "Впере"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:71
+msgid "Previous"
+msgstr "Наза"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:74
+msgid "Please enter a valid email address."
+msgstr "Пожалуйста, введите действительный адрес электронной почты."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:91
+#, fuzzy
+msgid " setup wizard"
+msgstr "Мастер настройки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:104
+#, php-format
+msgid "Welcome to %s!"
+msgstr "Добро пожаловать в%s!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:255
+msgid "Include discount in price"
+msgstr "Включите скидку в цене"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:263
+msgid "Include tax in price"
+msgstr "Включить налог в цену"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:281
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:334
+msgid "Sandbox"
+msgstr "песочница"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:282
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:335
+#, fuzzy
+msgid "Production"
+msgstr "Товар"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:43
+msgid "Ecommerce WD"
+msgstr "Электронная торговля WD"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:50
+msgid "Discounts"
+msgstr "Скидки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:51
+msgid "Taxes"
+msgstr "Налоги"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:52
+msgid "Shipping methods"
+msgstr "Доставка"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:60
+msgid "Payment systems"
+msgstr "Платежные системы"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:61
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:62
+msgid "Themes"
+msgstr "Темы"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:170
+msgid "Multiple Ecommerce-WD shortcodes are not supported."
+msgstr "Несколько электронной коммерции-WD шорткоды не поддерживаются."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:34
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/orders.php:57
+#, fuzzy
+msgid "Please login"
+msgstr "Пожалуйста, войдите "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:72
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:272
+msgid "Failed to send out the mail with checkout details."
+msgstr "Не удалось послать вне почту с деталями оформления заказа."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:269
+msgid "Please, check your email for checkout details."
+msgstr ""
+"Пожалуйста, проверьте свою электронную почту для получения более подробной "
+"кассе."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:230
+msgid "Select country"
+msgstr "Выберите страну"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:245
+msgid "Select discount"
+msgstr "Выбор скидки"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFToolbar.php:63
+msgid "Are you sure you want to delete selected items?"
+msgstr "Вы уверены, что хотите удалить выбранные элементы?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFToolbar.php:63
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:576
+msgid "You must select at least one item."
+msgstr "Вы должны выбрать хотя бы один элемент."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:50
+msgid "Size"
+msgstr "Размер"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:58
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:81
+msgid "Inherit"
+msgstr "унаследовать"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:70
+msgid "Style"
+msgstr "Стиль"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:82
+msgid "Lighter"
+msgstr "Более легкий"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:83
+msgid "Normal"
+msgstr "Нормальный"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:84
+msgid "Bold"
+msgstr "Жирный"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:85
+msgid "Bolder"
+msgstr "Болдер"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:87
+msgid "Weight"
+msgstr "вес"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:149
+msgid "Add images"
+msgstr "Добавить изображения"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:152
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:155
+msgid "Add videos"
+msgstr "Добавить видео"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:331
+msgid "Not yet rated"
+msgstr "Еще не оценено"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:333
+msgid "Please wait"
+msgstr "Пожалуйста, подождите"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:334
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/products.php:77
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/products.php:96
+msgid "Failed to rate"
+msgstr "Не удалось оценить"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:516
+msgid "The changes are saved."
+msgstr "Изменения сохраняются."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:521
+msgid "The items are saved."
+msgstr "Элементы сохраняются."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:526
+msgid "The items are successfully deleted."
+msgstr "Элементы успешно удалены."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:531
+msgid "Failed to delete items."
+msgstr "Не удалось удалить элементы."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:536
+msgid "The item is successfully set as default."
+msgstr "Товар успешно установлен по умолчанию."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:541
+msgid "The item is successfully set to read."
+msgstr "Товар успешно установлен для чтения."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:546
+msgid "The item is successfully set to unread."
+msgstr "Товар успешно установлен на непрочитанные."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:551
+msgid "The item is successfully published."
+msgstr "Товар успешно опубликован."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:556
+msgid "The items are successfully published."
+msgstr "Элементы успешно опубликованы."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:561
+msgid "The item is successfully unpublished."
+msgstr "Товар успешно неопубликованными."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:566
+msgid "The items are successfully unpublished."
+msgstr "Элементы успешно неопубликованными."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:571
+msgid "The ordering is successfully saved."
+msgstr "Порядок успешно сохранен."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:581
+msgid "The invoice is sent successfully."
+msgstr "Счет успешно отправлен."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:586
+msgid "The invoice is not sent."
+msgstr "Счет-фактура не отправляется."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:591
+msgid "The order status is updated. Email sent successfully."
+msgstr "Статус заказа обновляется. Письмо успешно отправлено."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:596
+msgid "The order status is updated. Failed to sent email."
+msgstr "Статус заказа обновляется. Не удалось послал по электронной почте."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:601
+msgid "Failed to update order status."
+msgstr "Не удалось обновить статус заказа."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:606
+msgid "The order status hasn't changed."
+msgstr "Статус заказа не изменился."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:611
+msgid "Failed to save changes."
+msgstr "Не удалось сохранить изменения."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:616
+msgid "Rating is changed successfully."
+msgstr "Рейтинг успешно изменен."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:621
+msgid "Rating hasn't changed."
+msgstr "Рейтинг не изменился."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:626
+msgid "Choose one item."
+msgstr "Выберите один пункт."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:631
+msgid "Failed to update default item."
+msgstr "Не удалось обновить элемент по умолчанию."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:636
+msgid "Default item is set successfully."
+msgstr "По умолчанию элемент успешно установлен."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:641
+msgid "You can't delete default item."
+msgstr "Вы не можете удалять элемент по умолчанию."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:646
+msgid "You can't delete basic item."
+msgstr "Вы не можете удалять основной элемент."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:651
+msgid "File doesn't exist."
+msgstr "Файл не существует."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:656
+msgid "Template successfully created."
+msgstr "Шаблон успешно создан."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:661
+msgid "Failed."
+msgstr "Не удалось"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:666
+msgid "Template couldn't be empty."
+msgstr "Шаблон не может быть пустым."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:671
+msgid "Templates successfully created."
+msgstr "Шаблоны успешно создан."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:676
+msgid "Template couldn't be created."
+msgstr "Шаблон не может быть создан."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:681
+msgid "You must manually insert the code to display the item."
+msgstr "Вы должны вручную вставить код для отображения элемента."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:745
+msgid "This option is disabled in free version."
+msgstr "Эта опция отключена в бесплатной версии."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:777
+#, php-format
+msgid "No %s found."
+msgstr "Нет%s найдено."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/mvc/WDFAdminViewBase.php:84
+msgid "Please sort by order to enable reordering"
+msgstr ""
+"Пожалуйста, сортировать для того, чтобы дать возможность переназначения"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/mvc/WDFSiteControllerBase.php:27
+msgid "Warning: "
+msgstr "Внимание: "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/paypalexpress.php:70
+msgid "Invalid token"
+msgstr "Недопустимый токен"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/paypalexpress.php:140
+msgid "Checkout failed"
+msgstr "Оформление заказа не удалось"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/paypalexpress.php:180
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/paypalstandard.php:77
+msgid "Checkout canceled"
+msgstr "заказ отменен"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/products.php:62
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:760
+msgid "Login to rate"
+msgstr "Войти, чтобы оценить"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/products.php:82
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:763
+msgid "You have already rated this product"
+msgstr "Вы уже оценили этот продукт"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/products.php:99
+msgid "Successfully rated"
+msgstr "Успешно рейтингу"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:54
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:93
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:147
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:180
+msgid "Failed to add to cart"
+msgstr "Не удалось добавить в корзину"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:176
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:210
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:277
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:337
+msgid "Failed to update item"
+msgstr "Не удалось обновить элемент"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:238
+msgid "Successfully added to cart"
+msgstr "Успешно добавлено в корзину"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:264
+msgid "Quantity at least must be one"
+msgstr "Количество по крайней мере, должен быть один"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:382
+msgid "Failed to remove items."
+msgstr "Не удалось удалить элементы."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:422
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:444
+msgid "Failed to add your products to the cart"
+msgstr "Не удалось добавить свои продукты в корзину"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:459
+msgid "Failed to add product(s) to your cart"
+msgstr "Не удалось добавить продукт (ы) в корзину"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:464
+msgid "Guest products added"
+msgstr "продукты Гость добавил"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:543
+msgid "Products no longer available"
+msgstr "Продукты больше не доступны"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/usermanagement.php:38
+msgid "Failed to update user data"
+msgstr "Не удалось обновить пользовательские данные"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/usermanagement.php:45
+msgid "User data updated"
+msgstr "Пользовательские данные обновляются"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/categories.php:108
+msgid "All categories"
+msgstr "Все категории"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:283
+msgid "No products to checkout"
+msgstr "Нет товаров к оформлению заказа"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:739
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:743
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:810
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:815
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/shoppingcart.php:130
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/shoppingcart.php:135
+msgid "In stock"
+msgstr "В резерве"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:747
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:820
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/shoppingcart.php:140
+msgid "Out of stock"
+msgstr "Нет на складе"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:966
+msgid "Without online payment"
+msgstr "Без оплаты онлайн"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:977
+msgid "Pay with paypal"
+msgstr "Оплата с PayPal"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:987
+msgid "Pay with paypal express"
+msgstr "Оплатить с помощью PayPal Express"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:998
+msgid "Pay with authorizenet AIM"
+msgstr "Оплатить с помощью AIM authorizenet"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1006
+msgid "Pay with authorizenet SIM"
+msgstr "Оплатить с authorizenet SIM"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1014
+msgid "Pay with authorizenet DPM"
+msgstr "Оплатить с authorizenet ДПМ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1021
+msgid "Pay with stripe"
+msgstr "Оплата с полосой"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1082
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1094
+msgid "Confirm order"
+msgstr "Подтвердите заказ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1393
+msgid "Products will not ship to your country"
+msgstr "Продукты не будет поставляться в вашу страну"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/orders.php:59
+msgid "Wrong request"
+msgstr "Неправильный запрос"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:206
+msgid "Any category"
+msgstr "Любая категория"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:282
+msgid "Select product"
+msgstr "Выбрать продукт"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/shoppingcart.php:116
+msgid "Discount"
+msgstr "Скидка"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/systempages.php:36
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/systempages.php:40
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/systempages.php:44
+msgid "Error"
+msgstr "Ошибка"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/orders/tmpl/displayorder.php:24
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/orders/tmpl/displayorders.php:101
+msgid "Order ID"
+msgstr "№ Заказа"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/orders/tmpl/displayorder.php:66
+msgid "Product ID"
+msgstr "Идентификатор продукта:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/orders/tmpl/displayorder.php:117
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:148
+msgid "Quantity"
+msgstr "Количество"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproduct.php:425
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproducts_arrangementlist.php:235
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproducts_arrangementthumbs.php:225
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproducts_quickview.php:280
+msgid "Product already added to cart"
+msgstr "Продукт уже добавлен в корзину"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproducts_arrangementthumbs.php:225
+msgid "Add to cart"
+msgstr "Добавить в корзину"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproducts_bartop.php:45
+msgid "Login"
+msgstr "Логи"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/shoppingcart/tmpl/displayshoppingcart.php:111
+msgid "- Select -"
+msgstr "-Выбрать-"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:95
+msgid "Invoice view"
+msgstr "вид счета-фактуры"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:102
+msgid "Date Added"
+msgstr "Дата добавления"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:106
+msgid "Order Id"
+msgstr "№ Заказа"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:110
+msgid "Invoice number"
+msgstr "Номер счета"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:114
+msgid "Payment Method"
+msgstr "Способ оплаты"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:123
+msgid "To"
+msgstr "К"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:124
+msgid "Ship To"
+msgstr "Доставлено кому"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:149
+msgid "Unit Price"
+msgstr "Цена за ед."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:152
+msgid "Sub-Total:"
+msgstr "Промежуточный итог:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:191
+msgid "Total"
+msgstr "Итого"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:201
+msgid "Leave A Review?"
+msgstr "Оставить отзыв?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:202
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+"Мы надеемся, что вы получили удовольствие, используя WordPress%s! Считаете "
+"ли вы, оставив нам отзыв на WordPress.org?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:203
+msgid "Sure! I'd love to!"
+msgstr "Конечно! Я бы хотел!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:204
+msgid "I've already left a review"
+msgstr "Я уже оставил свой отзыв"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:205
+msgid "Maybe Later"
+msgstr "Может быть позже"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:206
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:216
+msgid "Never show again"
+msgstr "Никогда не показывать снова"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:212
+msgid "Hey! How's It Going?"
+msgstr "Привет! Как дела?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:213
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+"Благодарим Вас за использование WordPress%s! Мы надеемся, что вы нашли все, "
+"что нужно, но если у вас есть какие-либо вопросы:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:214
+#, fuzzy
+msgid "Check out User Guide"
+msgstr "Оформить заказ этот товар"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:215
+msgid "Get Some Help"
+msgstr "Получить некоторую помощь"
+
+#~ msgctxt "post type general name"
+#~ msgid "Ecommerce Page"
+#~ msgstr "Электронная торговля Page"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Ecommerce Page"
+#~ msgstr "Электронная торговля Page"
+
+#~ msgctxt "admin menu"
+#~ msgid "Ecommerce Pages"
+#~ msgstr "Страницы электронной коммерции"
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Ecommerce Page"
+#~ msgstr "Электронная торговля Page"
+
+#~ msgid "BILLING_DATA"
+#~ msgstr "BILLING_DATA"
+
+#~ msgid "Total tax"
+#~ msgstr "Общая сумма налога"
+
+#~ msgid "Total shipping"
+#~ msgstr "Всего за доставку"
+
+#~ msgid "Order total"
+#~ msgstr "Итого"
+
+#~ msgid "Add new"
+#~ msgstr "Добавить"
+
+#~ msgid "TAX"
+#~ msgstr "НАЛОГ"
+
+#~ msgid "Add files"
+#~ msgstr "Добавить файлы"
+
+#~ msgid "Change thumbnail"
+#~ msgstr "Изменить эскиз"
+
+#~ msgid "Click to sort by this item"
+#~ msgstr "Нажмите для сортировки по этому пункту"
+
+#~ msgid "This feature is disabled for the non-commercial version."
+#~ msgstr "Эта функция отключена для некоммерческого версии."
+
+#~ msgid "%s item"
+#~ msgid_plural "%s items"
+#~ msgstr[0] "item."
+#~ msgstr[1] "S:item."
+#~ msgstr[2] ""
+
+#~ msgid "Go to the first page"
+#~ msgstr "Перейти к первой странице"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Перейти на предыдущую страницу"
+
+#~ msgid "Go to the page"
+#~ msgstr "Перейти на страницу"
+
+#~ msgid "Of"
+#~ msgstr "Интерес представляют"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Перейти к следующей странице"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Перейти к последней странице"
+
+#~ msgctxt "post type general name"
+#~ msgid "Categories"
+#~ msgstr "категории"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Category"
+#~ msgstr "Категория"
+
+#~ msgctxt "admin menu"
+#~ msgid "Categories"
+#~ msgstr "категории"
+
+#~ msgctxt "admin menu"
+#~ msgid "All Categories"
+#~ msgstr "все категории"
+
+#~ msgctxt "post type general name"
+#~ msgid "Countries"
+#~ msgstr "Страны"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Country"
+#~ msgstr "Страна"
+
+#~ msgctxt "admin menu"
+#~ msgid "Countries"
+#~ msgstr "Страны"
+
+#~ msgctxt "admin menu"
+#~ msgid "All Countries"
+#~ msgstr "Все страны"
+
+#~ msgctxt "post type general name"
+#~ msgid "Discounts"
+#~ msgstr "Скидки"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Discount"
+#~ msgstr "Скидка"
+
+#~ msgctxt "admin menu"
+#~ msgid "Discounts"
+#~ msgstr "Скидки"
+
+#~ msgctxt "admin menu"
+#~ msgid "All Discounts"
+#~ msgstr "Все скидки"
+
+#~ msgctxt "post type general name"
+#~ msgid "Labels"
+#~ msgstr "Бирки"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Label"
+#~ msgstr "Метка"
+
+#~ msgctxt "admin menu"
+#~ msgid "Labels"
+#~ msgstr "Бирки"
+
+#~ msgctxt "admin menu"
+#~ msgid "All Labels"
+#~ msgstr "Все ярлыки"
+
+#~ msgctxt "post type general name"
+#~ msgid "Manufacturers"
+#~ msgstr "производители."
+
+#~ msgctxt "post type singular name"
+#~ msgid "Manufacturer"
+#~ msgstr "Производитель"
+
+#~ msgctxt "admin menu"
+#~ msgid "Manufacturers"
+#~ msgstr "производители."
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Manufacturer"
+#~ msgstr "Производитель"
+
+#~ msgid "Filter by category"
+#~ msgstr "Фильтр по категории"
+
+#~ msgid "Order direction"
+#~ msgstr "направление заказа"
+
+#~ msgid "Arrangement"
+#~ msgstr "расположение"
+
+#~ msgid "List"
+#~ msgstr "Список"
+
+#~ msgid "Filter by manufacturer"
+#~ msgstr "Фильтр по производителю"
+
+#~ msgid "Filter by maximum price"
+#~ msgstr "Фильтр по максимальной цене"
+
+#~ msgid "Filter by minimum price"
+#~ msgstr "Фильтр по минимальной цене"
+
+#~ msgid "Filter by date added"
+#~ msgstr "Фильтр по дате добавления"
+
+#~ msgid "Filter by minimum rating"
+#~ msgstr "Фильтр по минимальному рейтингу"
+
+#~ msgid "Filter by tags"
+#~ msgstr "Фильтр по ключевым словам"
+
+#~ msgid "Order by"
+#~ msgstr "Упорядочить "
+
+#~ msgctxt "post type general name"
+#~ msgid "Parameters"
+#~ msgstr "параметры"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Parameter"
+#~ msgstr "параметр"
+
+#~ msgctxt "admin menu"
+#~ msgid "Parameters"
+#~ msgstr "параметры"
+
+#~ msgctxt "admin menu"
+#~ msgid "All Parameters"
+#~ msgstr "Все параметры"
+
+#~ msgctxt "post type general name"
+#~ msgid "Products"
+#~ msgstr "Продукты"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Product"
+#~ msgstr "Товар"
+
+#~ msgctxt "admin menu"
+#~ msgid "Products"
+#~ msgstr "Продукты"
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Product"
+#~ msgstr "Продукт"
+
+#~ msgid ""
+#~ "Show short description of product on all progucts page and single product "
+#~ "pages."
+#~ msgstr ""
+#~ "Показать краткое описание продукта на всех странице progucts и отдельных "
+#~ "страниц продукта."
+
+#~ msgid "&mdash; No change &mdash;"
+#~ msgstr "Никаких изменений."
+
+#~ msgid "&mdash; Remove discount &mdash;"
+#~ msgstr "Удалить скидка"
+
+#~ msgid "&mdash; Remove tax &mdash;"
+#~ msgstr "Удалить налог"
+
+#~ msgid "Shipping method"
+#~ msgstr "Способ доставки"
+
+#~ msgid "Remove shipping methods"
+#~ msgstr "Удалить методы доставки"
+
+#~ msgctxt "post type general name"
+#~ msgid "Shipping methods"
+#~ msgstr "Доставка"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Shipping method"
+#~ msgstr "Способ доставки"
+
+#~ msgctxt "admin menu"
+#~ msgid "Shipping methods"
+#~ msgstr "Доставка"
+
+#~ msgctxt "admin menu"
+#~ msgid "All Shipping methods"
+#~ msgstr "Все способы доставки"
+
+#~ msgctxt "post type general name"
+#~ msgid "Tags"
+#~ msgstr "Тэг"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Tag"
+#~ msgstr "Тег"
+
+#~ msgctxt "admin menu"
+#~ msgid "Tags"
+#~ msgstr "Тэг"
+
+#~ msgctxt "admin menu"
+#~ msgid "All Tags"
+#~ msgstr "Все теги"
+
+#~ msgctxt "post type general name"
+#~ msgid "Taxes"
+#~ msgstr "Налоги"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Tax"
+#~ msgstr "Налог"
+
+#~ msgctxt "admin menu"
+#~ msgid "Taxes"
+#~ msgstr "Налоги"
+
+#~ msgctxt "admin menu"
+#~ msgid "All Taxes"
+#~ msgstr "Все налоги"
+
+#~ msgid "Add theme"
+#~ msgstr "Добавить тему"
+
+#~ msgid "Save and copy"
+#~ msgstr "Сохранение и копирование"
+
+#~ msgid "Edit theme"
+#~ msgstr "Изменить тему"
+
+#~ msgid "Meta title"
+#~ msgstr "Мета ti"
+
+#~ msgid "Meta description"
+#~ msgstr "Meta description"
+
+#~ msgid "Meta keywords"
+#~ msgstr "Meta Keywords"
+
+#~ msgid "Images"
+#~ msgstr "Фото"
+
+#~ msgid "Show info"
+#~ msgstr "Показать информацию"
+
+#~ msgid "Show products"
+#~ msgstr "Показать товары"
+
+#~ msgid "Number of products"
+#~ msgstr "Количество товаров"
+
+#~ msgid "Show subcategories"
+#~ msgstr "Показать подкатегорий"
+
+#~ msgid "Show hierarchy"
+#~ msgstr "Показать иерархию"
+
+#~ msgid "Number of columns"
+#~ msgstr "Число столбцов"
+
+#~ msgid "Code"
+#~ msgstr "Код"
+
+#~ msgid "Edit"
+#~ msgstr "Редактировать"
+
+#~ msgid "Sign"
+#~ msgstr "Знак"
+
+#~ msgid "Sign position"
+#~ msgstr "позиция Вход"
+
+#~ msgid "Currency"
+#~ msgstr "Валюта"
+
+#~ msgid ""
+#~ "* This currency is supported as a payment currency and a currency balance "
+#~ "for in-country PayPal accounts only."
+#~ msgstr ""
+#~ "* Эта валюта поддерживается в качестве валюты платежа и валюты баланса "
+#~ "для страны в PayPal счета только."
+
+#~ msgid "Position"
+#~ msgstr "Позиция"
+
+#~ msgid "Top left"
+#~ msgstr "Левый верхний"
+
+#~ msgid "Top right"
+#~ msgstr "Правый верхний"
+
+#~ msgid "Bottom left"
+#~ msgstr "Левый нижний"
+
+#~ msgid "Bottom right"
+#~ msgstr "Правый нижний"
+
+#~ msgid "Enable checkout"
+#~ msgstr "Включить проверку"
+
+#~ msgid "Allow guest checkout"
+#~ msgstr "Разрешить гостевой кассе"
+
+#~ msgid "Redirect to cart after adding an item"
+#~ msgstr "Перенаправление в корзину после добавления элемента"
+
+#~ msgid ""
+#~ "To add a new payment or edit the existing one, please click on the button."
+#~ msgstr ""
+#~ "Для добавления нового платежа или изменить существующий, пожалуйста, "
+#~ "нажмите на кнопку."
+
+#~ msgid "Payments systems"
+#~ msgstr "Платежные системы"
+
+#~ msgid "Are you sure you want to continue? Unsaved changes will be lost."
+#~ msgstr ""
+#~ "Вы уверены что хотите продолжить? Несохраненные изменения будут потеряны."
+
+#~ msgid "Administrator email"
+#~ msgstr "Администратор электронной почты"
+
+#~ msgid "Email From"
+#~ msgstr "E-mail От"
+
+#~ msgid "From name"
+#~ msgstr "От имени"
+
+#~ msgid "Mailer"
+#~ msgstr "рассылка"
+
+#~ msgid "Customer note email is sent when you change the status of the order."
+#~ msgstr ""
+#~ "Примечание клиента электронной почты отправляется при изменении статуса "
+#~ "заказа."
+
+#~ msgid "Email is sent to customer when orders have been marked failed."
+#~ msgstr ""
+#~ "Электронная почта отправляется клиенту, когда заказы были отмечены не "
+#~ "удалась."
+
+#~ msgid "Email is sent to customer when orders have been marked refunded."
+#~ msgstr ""
+#~ "Электронная почта отправляется клиенту, когда заказы были отмечены "
+#~ "возвращены."
+
+#~ msgid "Email is sent to customer when orders have been marked completed."
+#~ msgstr ""
+#~ "Электронная почта отправляется клиенту, когда заказы были отмечены "
+#~ "завершены."
+
+#~ msgid "Email is sent to customer when orders have been marked pending."
+#~ msgstr ""
+#~ "Электронная почта отправляется клиенту, когда заказы были отмечены "
+#~ "заявлен."
+
+#~ msgid "Email is sent to customer when orders have been marked canceled."
+#~ msgstr ""
+#~ "Электронная почта отправляется клиенту, когда заказы были отмечены "
+#~ "отменены."
+
+#~ msgid ""
+#~ "Customer invoice email manually sent to customers containing their order "
+#~ "information and seller information."
+#~ msgstr ""
+#~ "Клиент электронной почты счета-фактуры вручную отправлены клиентам, "
+#~ "содержащих их информацию о заказе и продавцом информации."
+
+#~ msgid "Send Email when"
+#~ msgstr "Отправить на e-mail, когда"
+
+#~ msgid "Send Email to Customer"
+#~ msgstr "Отправить на e-mail клиенту"
+
+#~ msgid "Subject"
+#~ msgstr "Тема"
+
+#~ msgid "Mode"
+#~ msgstr "Mode (Режим)"
+
+#~ msgid "Text in Email"
+#~ msgstr "Текст Email"
+
+#~ msgid "Only for registered users"
+#~ msgstr "Только для зарегистрированных пользователей"
+
+#~ msgid "Click to insert to text in Email"
+#~ msgstr "Нажмите, чтобы вставить в текст в электронной почте"
+
+#~ msgid "Date format"
+#~ msgstr "Формат даты"
+
+#~ msgid "Display price with decimals"
+#~ msgstr "цена дисплей с десятичных знаков"
+
+#~ msgid "Add/Edit countries"
+#~ msgstr "Добавить страны / Редактировать"
+
+#~ msgid ""
+#~ "To add a new country or edit the existing one, please click on the button."
+#~ msgstr ""
+#~ "Чтобы добавить новую страну или изменить существующий, пожалуйста, "
+#~ "нажмите на кнопку."
+
+#~ msgid "Add/Edit currencies"
+#~ msgstr "Добавить / Изменить валюту"
+
+#~ msgid ""
+#~ "To add a new currency or edit the existing one, please click on the "
+#~ "button."
+#~ msgstr ""
+#~ "Чтобы добавить новую валюту или изменить существующий, пожалуйста, "
+#~ "нажмите на кнопку."
+
+#~ msgid "Add/Edit order statuses"
+#~ msgstr "Добавить статусы / Редактировать заказ"
+
+#~ msgid ""
+#~ "To add a new order status or edit the existing one, please click on the "
+#~ "button."
+#~ msgstr ""
+#~ "Чтобы добавить статус нового заказа или изменить существующий, "
+#~ "пожалуйста, нажмите на кнопку."
+
+#~ msgid "Access the wizard again"
+#~ msgstr "Доступ к мастеру снова"
+
+#~ msgid ""
+#~ "If you need to access the setup wizard again, please click on the button."
+#~ msgstr ""
+#~ "Если вам необходимо получить доступ к мастеру настройки еще раз, "
+#~ "пожалуйста, нажмите на кнопку."
+
+#~ msgid "Manage Product/Category/Manufacturer templates"
+#~ msgstr "Управление шаблонами товаров / Категория / Производитель"
+
+#~ msgid "Enable search"
+#~ msgstr "Включить поиск"
+
+#~ msgid "Search by category"
+#~ msgstr "Поиск по рубрикатору"
+
+#~ msgid "Hierarchical categories "
+#~ msgstr "Иерархические категории "
+
+#~ msgid "Filter by manufacturers"
+#~ msgstr "Фильтр по производителям"
+
+#~ msgid "Filter by price"
+#~ msgstr "Фильтр по цене"
+
+#~ msgid "Sort by name"
+#~ msgstr "По алфавиту"
+
+#~ msgid "Sort by manufacturer"
+#~ msgstr "Сортировка по производителю"
+
+#~ msgid "Sort by price"
+#~ msgstr "Сортировка по цене"
+
+#~ msgid "Sort by number of reviews"
+#~ msgstr "Сортировка по количеству отзывов"
+
+#~ msgid "Sort by rating"
+#~ msgstr "Сортировка по рейтингу"
+
+#~ msgid "Weight unit"
+#~ msgstr "Единица веса"
+
+#~ msgid "Dimensions unit"
+#~ msgstr "блок Размеры"
+
+#~ msgid "SKU"
+#~ msgstr "Код товара"
+
+#~ msgid "UPC"
+#~ msgstr "СКП"
+
+#~ msgid "EAN"
+#~ msgstr "EAN"
+
+#~ msgid "JAN"
+#~ msgstr "январь"
+
+#~ msgid "ISBN"
+#~ msgstr "ISBN"
+
+#~ msgid "MPN"
+#~ msgstr " MPN"
+
+#~ msgid "Enable product rating"
+#~ msgstr "Включить рейтинг продукта"
+
+#~ msgid "Enable product reviews"
+#~ msgstr "Включить обзоры продукции"
+
+#~ msgid "Share buttons"
+#~ msgstr "Share кнопки"
+
+#~ msgid "Enable buttons"
+#~ msgstr "Включить кнопки"
+
+#~ msgid "Facebook comments"
+#~ msgstr "Facebook комментарии"
+
+#~ msgid "Use Facebook comments instead of reviews"
+#~ msgstr "Используйте Facebook комментарии вместо обзоров"
+
+#~ msgid "Color scheme"
+#~ msgstr "Цветовая схема"
+
+#~ msgid ""
+#~ "Fill in the slug. Note that it should be unique. Use letters and dashes "
+#~ "avoiding additional characters, symbols or numbers."
+#~ msgstr ""
+#~ "Заполните сгустка. Обратите внимание, что он должен быть уникальным. "
+#~ "Используйте буквы и тире избежать дополнительных знаков, символов или "
+#~ "цифр."
+
+#~ msgid ""
+#~ "To add a new discount or edit the existing one, please click on the "
+#~ "button."
+#~ msgstr ""
+#~ "Для добавления новой скидки или изменить существующий, пожалуйста, "
+#~ "нажмите на кнопку."
+
+#~ msgid "Manage discount"
+#~ msgstr "Управление скидка"
+
+#~ msgid ""
+#~ "To add a new tax or edit the existing one, please click on the button."
+#~ msgstr ""
+#~ "Для добавления нового налога или изменить существующий, пожалуйста, "
+#~ "нажмите на кнопку."
+
+#~ msgid "Manage tax"
+#~ msgstr "Управление налог"
+
+#~ msgid "Shipping rate calculation"
+#~ msgstr "Расчет скорости Доставка"
+
+#~ msgid "Product name"
+#~ msgstr "Название товара"
+
+#~ msgid "Product image"
+#~ msgstr "Изображение Товара"
+
+#~ msgid "Subtotal"
+#~ msgstr "Промежуточный итог"
+
+#~ msgid "Are you sure you want to delete this item?"
+#~ msgstr "Вы действительно хотите удалить этот пункт?"
+
+#~ msgid "Payment status"
+#~ msgstr "Статус оплаты"
+
+#~ msgid "Actions"
+#~ msgstr "Действия"
+
+#~ msgid "by"
+#~ msgstr "п"
+
+#~ msgid "View payment data"
+#~ msgstr "Просмотр данных оплаты"
+
+#~ msgid "Print"
+#~ msgstr "Печать"
+
+#~ msgid "Send invoice to cusotmer"
+#~ msgstr "Отправить счет-фактуру cusotmer"
+
+#~ msgid "Delete order"
+#~ msgstr "Удалить заказ"
+
+#~ msgid "Send invoice"
+#~ msgstr "Отправить счет-фактуру"
+
+#~ msgid "Main data"
+#~ msgstr "Основные данные"
+
+#~ msgid "Customer"
+#~ msgstr "Клиент"
+
+#~ msgid "Customer IP"
+#~ msgstr "IP клиента"
+
+#~ msgid "Payment method"
+#~ msgstr "Способ платежа"
+
+#~ msgid "Order products"
+#~ msgstr "Заказать продукцию"
+
+#~ msgid "User IP address"
+#~ msgstr "Пользователь IP-адрес"
+
+#~ msgid "Status"
+#~ msgstr "Статус"
+
+#~ msgid "SHOW_AND_REQUIRE"
+#~ msgstr "SHOW_AND_REQUIRE"
+
+#~ msgid "Stock Keeping Unit"
+#~ msgstr "Stock Keeping Unit"
+
+#~ msgid "Universal Product Code"
+#~ msgstr "Универсальный товарный код"
+
+#~ msgid "European Article Number"
+#~ msgstr "Европейский товарный номер"
+
+#~ msgid "Japanese Article Number"
+#~ msgstr "Японский Номер статьи"
+
+#~ msgid "International Standard Book Number"
+#~ msgstr "Международный стандартный номер книги"
+
+#~ msgid "Manufacturer Part Number"
+#~ msgstr "Производитель Part Number"
+
+#~ msgid "CATEGORY"
+#~ msgstr "КАТЕГОРИИ"
+
+#~ msgid "Videos"
+#~ msgstr "Видео "
+
+#~ msgid "Ordering"
+#~ msgstr "Заказ"
+
+#~ msgid "Values"
+#~ msgstr "Ценности:"
+
+#~ msgid "Enable shipping"
+#~ msgstr "Включить доставку"
+
+#~ msgid "Dimensions (LxWxH)"
+#~ msgstr "Размеры (ДхШхВ)"
+
+#~ msgid "Sales in this period"
+#~ msgstr "Объем продаж в этот период"
+
+#~ msgid "Orders placed"
+#~ msgstr "Заказы размещены"
+
+#~ msgid "Items purchased"
+#~ msgstr "Товары в заказе"
+
+#~ msgid "Charged for shipping"
+#~ msgstr "Заряженные для судоходства"
+
+#~ msgid ""
+#~ "The selected range contains more than one currency. Thus it is not "
+#~ "possible to generate a report."
+#~ msgstr ""
+#~ "Выбранный диапазон содержит более одной валюты. Таким образом, не "
+#~ "представляется возможным сформировать отчет."
+
+#~ msgid "Countries"
+#~ msgstr "Страны"
+
+#~ msgid "To set for all countries leave the field empty."
+#~ msgstr "Для того, чтобы установить для всех стран, оставьте поле пустым."
+
+#~ msgid "Free shipping for orders over a certain price"
+#~ msgstr "Свободная перевозка груза для заказов по определенной цене"
+
+#~ msgid "HTML template"
+#~ msgstr "шаблон HTML"
+
+#~ msgid "Rounded corners"
+#~ msgstr "Скругление углов"
+
+#~ msgid "Elements"
+#~ msgstr "Элементы"
+
+#~ msgid "Components"
+#~ msgstr "Компоненты"
+
+#~ msgid "Single Item"
+#~ msgstr "Одиночный деталь"
+
+#~ msgid "Multiple Items"
+#~ msgstr "Несколько предметов"
+
+#~ msgid "Nav bar"
+#~ msgstr "Nav-бар"
+
+#~ msgid "Bar"
+#~ msgstr "панель"
+
+#~ msgid "Background"
+#~ msgstr "Справочная информация"
+
+#~ msgid "Border"
+#~ msgstr "Граница"
+
+#~ msgid "Toggle"
+#~ msgstr "Переключить"
+
+#~ msgid "Item"
+#~ msgstr "Пункт"
+
+#~ msgid "Link"
+#~ msgstr "Линк"
+
+#~ msgid "Content"
+#~ msgstr "Довольный"
+
+#~ msgid "Hover content"
+#~ msgstr "содержание Hover"
+
+#~ msgid "Open content"
+#~ msgstr "Открытое информационное наполнение"
+
+#~ msgid "Open background"
+#~ msgstr "Открытый фон"
+
+#~ msgid "Badge"
+#~ msgstr "Бэйдж"
+
+#~ msgid "Dropdown"
+#~ msgstr "выпадающий"
+
+#~ msgid "Item content"
+#~ msgstr "содержание товара"
+
+#~ msgid "Item hover content"
+#~ msgstr "Содержание товара зависать"
+
+#~ msgid "Item hover background"
+#~ msgstr "Item зависать фон"
+
+#~ msgid "Divider"
+#~ msgstr "Тип разделителя"
+
+#~ msgid "Modal"
+#~ msgstr "Модель"
+
+#~ msgid "Backdrop"
+#~ msgstr "ФОН:"
+
+#~ msgid "Dividers"
+#~ msgstr "циркуль"
+
+#~ msgid "Modal header"
+#~ msgstr "заголовок режимное"
+
+#~ msgid "Modal body"
+#~ msgstr "Модальные тело"
+
+#~ msgid "Modal footer"
+#~ msgstr "Модальные сноска"
+
+#~ msgid "User data panel"
+#~ msgstr "Панель данных пользователя"
+
+#~ msgid "Footer background"
+#~ msgstr "Фон подвала"
+
+#~ msgid "Panel header"
+#~ msgstr "заголовок панели"
+
+#~ msgid "Value"
+#~ msgstr "Значение "
+
+#~ msgid "Panel footer"
+#~ msgstr "Панель сноска"
+
+#~ msgid "Product panel"
+#~ msgstr "панель продукта"
+
+#~ msgid "Well"
+#~ msgstr "Согласен (Если не найду нормальный перевод, выкину (maa na)"
+
+#~ msgid "Well content"
+#~ msgstr "Ну содержание"
+
+#~ msgid "Colors"
+#~ msgstr "Цвета"
+
+#~ msgid "Star"
+#~ msgstr "Звезда"
+
+#~ msgid "Alert"
+#~ msgstr "Оповещение"
+
+#~ msgid "Info"
+#~ msgstr "Информация"
+
+#~ msgid "Danger"
+#~ msgstr "Опасность"
+
+#~ msgid "Font"
+#~ msgstr "Шрифт"
+
+#~ msgid "Breadcrumb"
+#~ msgstr "- путь (breadcrumbs)"
+
+#~ msgid "PILLS"
+#~ msgstr "таблеток "
+
+#~ msgid "LINKS"
+#~ msgstr "Ссылки:"
+
+#~ msgid "CONTENT"
+#~ msgstr "СОДЕРЖАНИЕ"
+
+#~ msgid "HOVER_CONTENT"
+#~ msgstr "HOVER_CONTENT"
+
+#~ msgid "HOVER_BACKGROUND"
+#~ msgstr "Наведите на фон"
+
+#~ msgid "PILL"
+#~ msgstr "ТАБЛЕТКИ"
+
+#~ msgid "Tabs"
+#~ msgstr "Вкладки"
+
+#~ msgid "Hover background"
+#~ msgstr "Наведите на фон"
+
+#~ msgid "Active content"
+#~ msgstr "Активное содержание"
+
+#~ msgid "Active background"
+#~ msgstr "Активный фон"
+
+#~ msgid "Tab"
+#~ msgstr "Таблица"
+
+#~ msgid "Pagination"
+#~ msgstr "Разбиение на страницы"
+
+#~ msgid "Pages"
+#~ msgstr "Страницы"
+
+#~ msgid "Header"
+#~ msgstr "Шапка"
+
+#~ msgid "Color"
+#~ msgstr "Цвет"
+
+#~ msgid "Subtext"
+#~ msgstr "Подтекст"
+
+#~ msgid "Input"
+#~ msgstr "Ввод"
+
+#~ msgid "Border on focus"
+#~ msgstr "Граница в центре внимания"
+
+#~ msgid "Input with error"
+#~ msgstr "Ввод с ошибкой"
+
+#~ msgid "Inputs font"
+#~ msgstr "Входы шрифта"
+
+#~ msgid "Buttons"
+#~ msgstr "Кнопки"
+
+#~ msgid "Primary"
+#~ msgstr "Основной"
+
+#~ msgid "Success"
+#~ msgstr "Успешно"
+
+#~ msgid "Buttons font"
+#~ msgstr "Кнопки шрифта"
+
+#~ msgid "Styles"
+#~ msgstr "Стили"
+
+#~ msgid "Item name"
+#~ msgstr "Название элемента"
+
+#~ msgid "Filters"
+#~ msgstr "Фильтры"
+
+#~ msgid "On top (with search bar)"
+#~ msgstr "На вершине (с панели поиска)"
+
+#~ msgid "On left"
+#~ msgstr "На левом"
+
+#~ msgid "Hidden"
+#~ msgstr "Скрытый"
+
+#~ msgid "Number of products in page (by default)"
+#~ msgstr "Количество товаров в странице (по умолчанию)"
+
+#~ msgid "Columns (Thumbnail view)"
+#~ msgstr "Столбцы (Эскизы)"
+
+#~ msgid "For desktops"
+#~ msgstr "Для настольных компьютеров"
+
+#~ msgid "For tablets"
+#~ msgstr "Для таблеток"
+
+#~ msgid "For phones"
+#~ msgstr "Для телефонов"
+
+#~ msgid "View data"
+#~ msgstr "Просмотр данных"
+
+#~ msgid "Product codes"
+#~ msgstr "коды продукта"
+
+#~ msgid ""
+#~ "Deactivating ecommerce WordPress plugin does not remove any data that may "
+#~ "have been created, to completely remove this plugin, you can uninstall it "
+#~ "here."
+#~ msgstr ""
+#~ "Деактивация электронной коммерции WordPress плагин не удаляет какие-либо "
+#~ "данные, которые могут быть созданы, чтобы полностью удалить этот плагин, "
+#~ "вы можете удалить его здесь."
+
+#~ msgid "warning"
+#~ msgstr "предупреждение"
+
+#~ msgid ""
+#~ "Once uninstalled, this can't be undone, you should use a database backup "
+#~ "plugin of Wordpress to back up all the data first."
+#~ msgstr ""
+#~ "После того, как удалили, это не может быть отменено, вы должны "
+#~ "использовать резервную базу данных как плагин Wordpress, чтобы создать "
+#~ "резервную копию всех данных в первую очередь."
+
+#~ msgid "If you want to remove the sample data press this button."
+#~ msgstr "Если вы хотите удалить прессу выборочных данных на эту кнопку."
+
+#~ msgid "Remove sample data"
+#~ msgstr "Удалить данные выборки"
+
+#~ msgid ""
+#~ "The following database tables,custom posts and taxonomy terms will be "
+#~ "deleted"
+#~ msgstr ""
+#~ "В приведенных ниже таблицах базы данных, таможенные посты и термины "
+#~ "таксономии будут удалены"
+
+#~ msgid "Database table"
+#~ msgstr "таблица базы данных"
+
+#~ msgid "Custom posts"
+#~ msgstr "Пользовательские сообщения"
+
+#~ msgid "Custom taxonomies"
+#~ msgstr "Пользовательские таксономиями"
+
+#~ msgid "Do you really want to uninstall ecommerce wd?"
+#~ msgstr "Вы действительно хотите удалить электронной коммерции WD?"
+
+#~ msgid ""
+#~ "You are about to uninstall ecommerce from wordpress. This action is not "
+#~ "reversible."
+#~ msgstr ""
+#~ "Вы собираетесь удалить из электронной коммерции WordPress. Это действие "
+#~ "не является обратимым."
+
+#~ msgid ""
+#~ "The plugin database tables, posts and taxanomies successfully deleted."
+#~ msgstr "База данных плагин таблиц, сообщений и taxanomies успешно удалены."
+
+#~ msgid "Uninstall ecommerce wd"
+#~ msgstr "Удаление электронной коммерции WD"
+
+#~ msgid "Click here"
+#~ msgstr "Кликните здесь"
+
+#~ msgid ""
+#~ "To finish the uninstallation and ecommerce will be deactivated "
+#~ "automatically."
+#~ msgstr ""
+#~ "Для завершения процесса удаления и электронной коммерции будет "
+#~ "автоматически отключается."
+
+#~ msgid "E-Commerce Billing Information"
+#~ msgstr "Электронная коммерция платежная информация"
+
+#~ msgid "(required)"
+#~ msgstr "(обязательно)"
+
+#~ msgid "E-Commerce Shipping Information"
+#~ msgstr "Электронная коммерция Информация о доставке"
+
+#~ msgid "Usergroup"
+#~ msgstr "Группа пользователей"
+
+#~ msgid "Items per page"
+#~ msgstr "Элементы на странице"
+
+#~ msgid "No results"
+#~ msgstr "Нет результатов"
+
+#~ msgid "View all products"
+#~ msgstr "Просмотреть все товары"
+
+#~ msgid "Subcategories"
+#~ msgstr "Подкатегории"
+
+#~ msgid "Cancel checkout"
+#~ msgstr "Отменить проверку"
+
+#~ msgid "Congratulations"
+#~ msgstr "Поздравляем!"
+
+#~ msgid "Checkout finished successfully "
+#~ msgstr "Контракт завершен успешно "
+
+#~ msgid "Accept"
+#~ msgstr "Принят"
+
+#~ msgid "You must accept license agreement"
+#~ msgstr "Вы должны принять лицензионное соглашение"
+
+#~ msgid "This item will not ship to your country"
+#~ msgstr "Этот пункт не будет поставляться в вашу страну"
+
+#~ msgid "Copy billing info"
+#~ msgstr "Копировать биллинг Информация"
+
+#~ msgid "Visit site"
+#~ msgstr "Посетить сайт"
+
+#~ msgid "Billing info"
+#~ msgstr "Информация о Billing"
+
+#~ msgid "Print order"
+#~ msgstr "Распечатать заказ"
+
+#~ msgid "PDF invoice"
+#~ msgstr "PDF счета-фактуры"
+
+#~ msgid "BTN_BACK"
+#~ msgstr "BTN_BACK"
+
+#~ msgid "View order details"
+#~ msgstr "Просмотр данных заказа"
+
+#~ msgid "No orders yet"
+#~ msgstr "Пока нет заказов"
+
+#~ msgid "Compare products"
+#~ msgstr "Сравнение товаров"
+
+#~ msgid "Buy now"
+#~ msgstr "Купить сейчас"
+
+#~ msgid "Compare"
+#~ msgstr "Сравнить"
+
+#~ msgid "Write review"
+#~ msgstr "Написать отзыв"
+
+#~ msgid "Dimensions"
+#~ msgstr "Размеры"
+
+#~ msgid "No shipping specified for this product"
+#~ msgstr "Нет груза указывается для данного продукта"
+
+#~ msgid "No reviews yet"
+#~ msgstr "Пока нет отзывов"
+
+#~ msgid "Pleasa wait"
+#~ msgstr "Pleasa ожидания"
+
+#~ msgid "Price from"
+#~ msgstr "Цена от"
+
+#~ msgid "Price to"
+#~ msgstr "Цена до"
+
+#~ msgid "Update filters"
+#~ msgstr "Обновление фильтров"
+
+#~ msgid "Tags separated by comma"
+#~ msgstr "Теги через запятую"
+
+#~ msgid "Account"
+#~ msgstr "Личный кабинет"
+
+#~ msgid "Logout"
+#~ msgstr "Выйти"
+
+#~ msgid "View item"
+#~ msgstr "Посмотреть"
+
+#~ msgid "Updating"
+#~ msgstr "Обновление…"
+
+#~ msgid "Remove this item"
+#~ msgstr "Удалить эту позицию"
+
+#~ msgid "Checkout all"
+#~ msgstr "Оформить все"
+
+#~ msgid "Your cart is empty"
+#~ msgstr "Ваша корзина пуста"
+
+#~ msgid "Log in"
+#~ msgstr "Войти"
+
+#~ msgid "Username"
+#~ msgstr "Имя"
+
+#~ msgid "Password"
+#~ msgstr "Пароль"
+
+#~ msgid "Remember me"
+#~ msgstr "Запомнить меня"
+
+#~ msgid "Fill username password"
+#~ msgstr "Заполните имя пользователя пароль"
+
+#~ msgid "Register"
+#~ msgstr "Зарегистрироваться "
+
+#~ msgid "BTN_FORGOT_PASSWORD"
+#~ msgstr "BTN_FORGOT_PASSWORD"
+
+#~ msgid "Edit data"
+#~ msgstr "Изменить данные"
+
+#~ msgid "Back"
+#~ msgstr "Назад"
+
+#~ msgid "Update data"
+#~ msgstr "обновлять данные"
+
+#~ msgid "Billing Data"
+#~ msgstr "Тарификация данных"
+
+#~ msgid "Shipping Data"
+#~ msgstr "Данные Доставка"
+
+#~ msgid ""
+#~ "Ecommerce WD is a highly-functional, user friendly eCommerce plugin, "
+#~ "which is perfect for developing online stores for any level of complexity."
+#~ msgstr ""
+#~ "Электронная торговля WD является высоко функциональной, удобной для "
+#~ "пользователей электронной коммерции плагин, который идеально подходит для "
+#~ "разработки интернет-магазинов для любого уровня сложности."
+
+#~ msgid "WebDorado"
+#~ msgstr "WebDorado"

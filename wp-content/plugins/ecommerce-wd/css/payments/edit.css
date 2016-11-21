@@ -1,0 +1,9 @@
+input[type="text"]{
+	width:350px !important;
+
+}
+
+table.adminlist tr > td.col_key{
+	min-width: 168px;
+	width: 168px;
+}

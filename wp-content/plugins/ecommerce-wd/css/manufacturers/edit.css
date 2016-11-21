@@ -1,0 +1,10 @@
+#icon-edit {
+  background-image: url("../../images/toolbar_icons/manufacturers_48.png") !important;
+  background-position: 0 0 !important;
+  background-size: 32px 32px !important;
+}
+
+.column-logo img{
+  max-width: 150px;
+  max-height: 70px;
+}

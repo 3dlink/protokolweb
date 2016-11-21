@@ -1,0 +1,122 @@
+/* jfbutton */
+a.jfbutton {
+  display: inline-table;
+  border-radius: 3px !important;
+  min-height: 20px;
+  vertical-align: middle !important;
+  color: #ffffff !important;
+  text-decoration: none !important;
+  cursor: pointer !important;
+  clear: left;
+  border-collapse: separate;
+  line-height: initial;
+}
+
+a.jfbutton.disabled,
+a.jfbutton.disabled:hover {
+    opacity: 0.5;
+    font-weight: normal;
+    cursor: default !important;
+}
+
+a.jfbutton span {
+    display: table-cell;
+    vertical-align: middle !important;
+}
+
+a.jfbutton:hover {
+    text-decoration: none !important;
+}
+
+/* size */
+a.jfbutton_size_small {
+    margin: 1px 2px !important;
+    padding: 2px 4px !important;
+    font-size: 12px !important;
+}
+
+a.jfbutton_size_medium {
+    margin: 2px 4px !important;
+    padding: 4px 8px !important;
+    font-size: 16px !important;
+}
+
+a.jfbutton_size_big {
+    margin: 4px 8px !important;
+    padding: 8px 16px !important;
+    font-size: 20px !important;
+}
+
+/* color */
+a.jfbutton_color_blue {
+    background-color: #4285f4;
+}
+
+a.jfbutton_color_green {
+    background-color: #53a93f;
+}
+
+a.jfbutton_color_red {
+    background-color: #d73d32;
+}
+
+a.jfbutton_color_white {
+    border: #a5a5a5 solid 1px;
+    background-color: #ffffff;
+    color: #333333 !important;
+}
+
+a.jfbutton_color_yellow {
+    background-color: #f4b400;
+}
+
+/* inline buttons */
+a.jfbutton_inline {
+    display: inline-block;
+    border-collapse: separate;
+    margin: 2px;
+    cursor: pointer;
+}
+
+a.jfbutton_inline.disabled,
+a.jfbutton_inline.disabled:hover {
+    opacity: 0.5;
+    cursor: default !important;
+}
+
+a.jfbutton_inline:hover {
+    text-decoration: none;
+}
+
+a.jfbutton_inline span {
+    vertical-align: middle;
+}
+
+span.jfbutton_inline_icon {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 16px;
+}
+
+span.jfbutton_inline_icon_add {
+    background-image: url("../../images/framework/buttons/icon_btn_add.png");
+}
+
+span.jfbutton_inline_icon_remove {
+    background-image: url("../../images/framework/buttons/icon_btn_remove.png");
+}
+
+span.jfbutton_inline_icon_move_up {
+    background-image: url("../../images/framework/buttons/icon_btn_move_up.png");
+}
+
+span.jfbutton_inline_icon_move_down {
+    background-image: url("../../images/framework/buttons/icon_btn_move_down.png");
+}
+
+span.jfbutton_inline_icon_goto {
+    background-image: url("../../images/framework/buttons/icon_btn_goto.png");
+}

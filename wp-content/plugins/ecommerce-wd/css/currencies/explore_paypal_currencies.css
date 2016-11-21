@@ -1,0 +1,20 @@
+/* table .adminlist */
+table.adminlist {
+    margin: 5px auto !important;
+    width: 600px !important;
+}
+
+/* columns */
+table.adminlist tr .col_key {
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+}
+
+table.adminlist tr .col_key a {
+    cursor: pointer;
+}
+
+table.adminlist tr .col_value {
+    text-align: center;
+}

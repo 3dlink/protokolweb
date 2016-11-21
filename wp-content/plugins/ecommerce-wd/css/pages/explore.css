@@ -1,0 +1,15 @@
+table.adminlist tr .col_use_for_all_products {
+  width: 90px;
+  text-align: center;
+}
+
+.col_category_title {
+  width: 100px;
+}
+
+.col_title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 100%;
+}

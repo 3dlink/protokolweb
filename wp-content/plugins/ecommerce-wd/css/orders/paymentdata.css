@@ -1,0 +1,11 @@
+
+
+form#adminForm fieldset {
+    display: inline-block;
+	width:98% !important;
+}
+
+table.adminlist {
+    margin: 5px auto !important;
+    width: 100% !important;
+}

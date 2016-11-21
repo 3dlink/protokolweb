@@ -1,0 +1,9 @@
+table.adminlist tr .col_code {
+  width: 130px;
+  text-align: center;
+}
+
+table.adminlist tr .col_exchange_rate {
+  width: 120px;
+  text-align: center;
+}

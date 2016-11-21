@@ -1,0 +1,63 @@
+table.adminlist tr .col_num {
+  text-align: center;
+  width: 10px;
+}
+
+table.adminlist tr .col_product_name {
+  text-align: left;
+  font-size: 15px;
+}
+
+table.adminlist tr .col_product_image {
+  text-align: center;
+  width: 80px;
+}
+
+table.adminlist tr .col_product_image img {
+  max-width: 70px;
+  max-height: 70px;
+}
+
+table.adminlist tr .col_count {
+  text-align: center;
+  width: 60px;
+}
+
+table.adminlist tr .col_price {
+  text-align: right;
+  width: 55px;
+}
+
+table.adminlist tr .col_tax {
+  text-align: right;
+  width: 50px;
+}
+
+table.adminlist tr .col_shipping,
+table.adminlist tr .col_discount {
+  text-align: right;
+  width: 60px;
+}
+
+table.adminlist tr .col_subtotal {
+  text-align: right;
+  width: 60px;
+}
+
+table.adminlist tr .col_total {
+  text-align: right;
+}
+
+table.adminlist > thead > tr > th,
+table.adminlist > tfoot > tr > td {
+  font-weight: bold;
+}
+
+table.adminlist > tfoot > tr > td {
+  padding-left: 4px !important;
+  padding-right: 4px !important;
+}
+
+table.adminlist > tfoot > tr > td > div + div {
+  padding-top: 5px !important;
+}

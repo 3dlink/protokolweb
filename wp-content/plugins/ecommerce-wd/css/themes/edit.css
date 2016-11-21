@@ -1,0 +1,193 @@
+/* Correct bootstrap.*/
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .table {
+  margin-bottom: 0 !important;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .table thead > tr > th,
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .table tbody > tr > th,
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .table tfoot > tr > th,
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .table thead > tr > td,
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .table tbody > tr > td,
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .table tfoot > tr > td {
+  padding: 0 !important;
+  line-height: 16.8px !important;
+  vertical-align: middle !important;
+  border-top: none !important;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .table thead > tr > th {
+  vertical-align: middle !important;
+  border-bottom: none !important;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .table tbody + tbody {
+  border-top: none !important;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 label {
+  display: inline !important;
+  margin-bottom: 4px !important;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .controls label {
+  display: inline-block !important;
+  font-weight: normal !important;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .radio + .radio,
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .checkbox + .checkbox {
+  margin-top: 10px !important;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .radio input[type="radio"],
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .radio-inline input[type="radio"],
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .checkbox input[type="checkbox"],
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .checkbox-inline input[type="checkbox"] {
+  margin-top: 0 !important;
+}
+/*
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 *,
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 *:before,
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 *:after {
+  -webkit-box-sizing: content-box !important;
+  -moz-box-sizing: content-box !important;
+  box-sizing: content-box !important;
+}
+*/
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 fieldset {
+  /*background-color: #F4F4F4 !important;*/
+  margin: 10px auto !important;
+  box-sizing: border-box !important;
+  border: 1px #ccc solid !important;
+  width: 100% !important;
+  vertical-align: top !important;
+  padding: 5px !important;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 fieldset legend {
+  display: initial !important;
+  margin-left: 2px !important;
+  margin-bottom: 0 !important;
+  border-width: 0 !important;
+  width: auto !important;
+  font-size: 14px !important;
+  font-weight: normal !important;
+  line-height: normal !important;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .col_value label {
+  font-weight: normal !important;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 input[type="radio"] {
+  margin: 0 !important;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 fieldset table.adminlist {
+  /*background-color: #F4F4F4;*/
+  border-spacing: 1px;
+  color: #666;
+  width: 100%;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 fieldset table.adminlist tbody tr td {
+  background-color: #FFFFFF;
+  border: 1px solid #FFFFFF;
+}
+
+form#adminForm fieldset {
+    width: auto;
+}
+
+table.adminlist {
+    width: 100% !important;
+}
+
+table.adminlist tr .col_value {
+    width: 600px;
+}
+
+ul.list_color_pickers {
+    margin-left: 0;
+    padding: 0;
+}
+
+ul.list_color_pickers li {
+    display: inline-block;
+    margin: 10px 10px 10px 0;
+}
+
+ul.list_inputs {
+    margin: 0;
+    list-style: none;
+}
+
+ul.list_inputs li label {
+    clear: both !important;
+}
+
+ul.list_inputs li h4 {
+    display: inline-block;
+    margin: 0;
+}
+
+/* preview components */
+table.adminlist tr .col_preview {
+    position: relative;
+    z-index: 0;
+}
+
+table.adminlist tr .col_preview .modal {
+    display: block !important;
+    position: relative !important;
+}
+
+table.adminlist tr .col_preview .modal .modal-backdrop {
+    position: absolute !important;
+    z-index: 0 !important;
+}
+
+table.adminlist tr .col_preview .modal .modal-dialog {
+    width: 300px !important;
+}
+
+.checkbox_rating_star {
+    margin: 8px 3px !important;
+}
+
+table.adminlist tr .col_preview .breadcrumb > li:before {
+    color: inherit !important;
+}
+
+/* preview product */
+.product_name {
+    margin: 0;
+}
+
+.product_prices_container {
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.product_market_price {
+    font-size: 12px;
+}
+
+.product_price {
+    font-size: 20px;
+}
+
+.product_description {
+    font-size: 12px;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .product_views_data th:not(:first-child),
+.product_views_data th:not(:first-child),
+.product_views_data td:not(:first-child) {
+    text-align: center;
+}
+
+.product_views_data th:not(:first-child) input[type=checkbox],
+.product_views_data td:not(:first-child) input[type=checkbox] {
+    float: none;
+}

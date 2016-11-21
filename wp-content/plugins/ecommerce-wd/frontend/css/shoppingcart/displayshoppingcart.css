@@ -1,0 +1,87 @@
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_tax_price_container,
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_shipping_price_container,
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_quantity_container,
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_discount_container {
+  margin-bottom: 0;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_image_container {
+  width: 100%;
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_image {
+  max-width: 100%;
+  max-height: 160px;
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_no_image span {
+  opacity: 0.5;
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_no_image span.glyphicon {
+  font-size: 100px;
+  margin-bottom: 20px;
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_name {
+  margin-bottom: 10px;
+  padding: 0;
+  /* font-size: 22px; */
+  white-space: normal;
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_parameter_name {
+  font-weight: normal;
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_final_price {
+  /* font-size: 18px; */
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_final_price_info {
+  color: #0099ff;
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_quantity_title {
+  font-weight: normal;
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_quantity {
+  display: inline-block;
+  width: 4em;
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_subtotal_title {
+  /* font-size: 14px; */
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_subtotal {
+  /* font-size: 24px; */
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_total_title {
+  display: inline-block;
+  /* font-size: 18px; */
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_total {
+  /* font-size: 28px; */
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_container .panel-footer {
+  padding: 0;
+}
+@media (min-width: 768px) {
+  #wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_image_container {
+    height: 160px;
+  }
+  #wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container dl.wd_shop_order_product_list_parameters dt {
+    width: 120px;
+    text-align: left;
+  }
+  #wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container dl.wd_shop_order_product_list_parameters dd {
+    margin-left: 120px;
+    max-width: 180px;
+  }
+  #wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_final_price {
+    display: inline-block;
+    margin-top: 15px;
+  }
+  #wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .wd_shop_order_product_subtotal_title {
+    display: inline-block;
+    margin-top: 20px;
+  }
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .parameters_label {
+  display: block;
+}
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 #wd_shop_container .parameters_input {
+  float: left;
+  margin-right: 5px;
+}

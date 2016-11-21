@@ -1,0 +1,61 @@
+.wd_bs_rater {
+    display: inline-block;
+    cursor: default;
+}
+
+.wd_bs_rater.active {
+    cursor: pointer;
+}
+
+.wd_bs_rater .wd_bs_rater_stars_list {
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none;
+    white-space: nowrap;
+}
+
+.wd_bs_rater .wd_bs_rater_stars_list li {
+    position: relative;
+    display: inline-block;
+    margin-right: 2px !important;
+    padding: 0 !important;
+}
+
+/* star bg */
+.wd_bs_rater .wd_bs_rater_stars_list li span.wd_star_background {
+    position: absolute !important;
+    top: 0;
+    left: 0;
+
+    /* for inset effect */
+    color: transparent;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+}
+
+/* TODO: */
+@-moz-document url-prefix() {
+    .wd_bs_rater .wd_bs_rater_stars_list li span.wd_star_background {
+        position: absolute !important;
+        top: 0;
+        left: 0;
+
+        /* for inset effect */
+        color: transparent;
+        background: transparent !important;
+    }
+}
+
+/* star */
+.wd_bs_rater .wd_bs_rater_stars_list li span.wd_star_color {
+    position: absolute !important;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+
+/* star hitter */
+.wd_bs_rater .wd_bs_rater_stars_list li span.wd_star_hitter {
+    visibility: hidden;
+}

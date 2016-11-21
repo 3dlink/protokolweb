@@ -1,0 +1,24 @@
+table.adminlist tr .col_j_user_id {
+    width: 80px;
+    text-align: center;
+}
+
+table.adminlist tr .col_company {
+    width: 140px;
+    text-align: center;
+}
+
+table.adminlist tr .col_country_id {
+    width: 140px;
+    text-align: center;
+}
+
+table.adminlist tr .col_usergroup_id {
+    width: 140px;
+    text-align: center;
+}
+
+/* for j3 */
+.icon-preview:before {
+content: "\3c";
+}

@@ -1,0 +1,13 @@
+table.adminlist tbody tr {
+    height: 60px;
+}
+
+table.adminlist tr .col_thumb {
+    width: 160px;
+    text-align: center;
+}
+
+.label_thumb {
+    max-width: 152px;
+    max-height: 52px;
+}

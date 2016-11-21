@@ -1,0 +1,40 @@
+form#adminForm {
+  text-align: left;
+}
+
+form#adminForm fieldset {
+  display: inline-block;
+}
+
+table.adminlist {
+  margin: 5px auto !important;
+  width: 100% !important;
+}
+
+.wde_print_btn,
+.wde_payment_data_btn,
+.wde_invoice_btn {
+  float: right;
+  margin-top: 2px !important;
+  margin-right: 3px !important;
+}
+
+form#adminForm div fieldset {
+  width: 49% !important;
+}
+
+form#adminForm div fieldset:first-child {
+  float: left;
+}
+
+form#adminForm div fieldset:last-child {
+  float: right;
+}
+
+table.adminlist tr > td.col_key {
+  height: auto;
+}
+
+.spider_description {
+  margin: 0;
+}

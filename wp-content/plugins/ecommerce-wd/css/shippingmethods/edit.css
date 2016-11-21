@@ -1,0 +1,9 @@
+#icon-edit{
+  background-image: url("../../images/toolbar_icons/shipping_methods_48.png") !important;
+  background-position: 0 0 !important;
+  background-size: 32px 32px !important;
+}
+
+.wde-width-initial {
+  width: initial !important;
+}

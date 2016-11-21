@@ -1,0 +1,199 @@
+.spider_int_input {
+  width: 45px !important;
+  margin: 0 !important;
+  height: 26px !important;
+  border-radius: 4px;
+  border-width: 1px;
+}
+
+.spider_family_select {
+  width: 100px !important;
+  margin: 0 !important;
+  height: 26px !important;
+  border-radius: 4px;
+  border-width: 1px;
+}
+
+.spider_weight_select {
+  width: 70px !important;
+  margin: 0 !important;
+  height: 26px !important;
+  border-radius: 4px;
+  border-width: 1px;
+}
+
+/* for wordpress */
+table.adminlist {
+  width: 100%;
+}
+
+table.wp-list-table .column-thumb {
+  width: 70px;
+  text-align: center;
+}
+
+.form-wrap label.wde_label {
+  display: inline-block;
+}
+
+.star {
+  color: #FF0000;
+}
+
+/* form #adminForm */
+form#adminForm fieldset {
+  margin: 10px auto;
+  box-sizing: border-box;
+  border: 1px #ccc solid;
+  width: 100%;
+  vertical-align: top;
+  padding: 5px;
+}
+
+form#adminForm fieldset legend {
+    display: initial;
+    margin-left: 2px;
+    margin-bottom: 0;
+    border-width: 0;
+    width: auto;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: normal;
+}
+
+/* table .adminlist */
+table.adminlist {
+   /* margin: 5px auto !important;*/
+    /*width: 1100px !important;*/
+}
+
+table.adminlist > tbody > tr > th,
+table.adminlist > tbody > tr > td {
+    padding: 4px !important;
+    border-collapse: separate;
+    border-spacing: 1px;
+    vertical-align: middle;
+}
+
+table.adminlist > tbody > tr > td label {
+    display: inline;
+    float: none;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding: 0;
+    min-width: inherit;
+    vertical-align: middle;
+}
+
+table.adminlist > tbody > tr > td input[type=text],
+table.adminlist > tbody > tr > td textarea.names_list,
+div .names_list,
+table.adminlist > tbody > tr > td select {
+    width: 140px;
+    margin: 5px 0;
+}
+
+table.adminlist > tbody > tr > td input[type=text],
+table.adminlist > tbody > tr > td input[type=radio] {
+    float: none;
+    margin: 5px 0 5px 5px;
+    vertical-align: middle;
+}
+
+table.adminlist textarea,
+div textarea {
+    resize: vertical;
+    vertical-align: middle;
+}
+
+table.adminlist > tbody > tr > td textarea.names_list {
+    height: 80px;
+}
+
+table.adminlist > tbody > tr > td.btns_container {
+    text-align: right;
+}
+
+table.adminlist > tbody > tr > td img {
+    margin: 0;
+}
+
+/* columns */
+table.adminlist tr > td.col_key {
+    min-width: 180px;
+    width: 180px;
+    text-align: left;
+	height: 55px;
+}
+
+table.adminlist tr > td.col_key label {
+    font-weight: bold;
+}
+table.adminlist tr td.col-ordering{
+	width:2%;
+
+}
+
+
+.hidden {
+    display: none;
+}
+
+/* modal backdrop */
+div#sbox-overlay {
+    position: fixed;
+}
+
+/* template */
+.template {
+    display: none;
+}
+
+/* image */
+.wde_image {
+  width: 60px;
+  height: 60px;
+}
+
+table.adminlist > tbody > tr > td select.wde_large_list {
+  width: 200px;
+}
+
+.controls label.wde_block_radios,
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .controls label.wde_block_radios {
+  display: block !important;
+  padding: 0;
+}
+
+
+.wd_error {
+  border-color: #dd3d36 !important;
+}
+
+.wd_updated {
+  border-color: #7ad03a !important;
+}
+
+.wd_error,
+.wd_updated {
+  background: #fff none repeat scroll 0 0;
+  border-left: 4px solid #fff;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+  margin: 5px 0 2px;
+  padding: 1px 12px;
+}
+
+.spider_message {
+  width: 99%;
+}
+
+.wde_email_subject {
+  width: 300px !important;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .tab-content {
+  background-color: #FFFFFF;
+  border: 1px solid #DDDDDD;
+  border-top: none;
+  padding: 10px;
+}

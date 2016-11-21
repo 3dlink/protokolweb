@@ -1,0 +1,10 @@
+table.wp-list-table .column-thumbs {
+  text-align: center;
+  width: 170px;
+}
+
+#icon-edit {
+  background-image: url("../../images/toolbar_icons/labels_48.png") !important;
+  background-position: 0 0 !important;
+  background-size: 32px 32px !important;
+}

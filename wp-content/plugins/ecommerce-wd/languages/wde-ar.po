@@ -1,0 +1,4285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wde\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-23 15:40+0300\n"
+"PO-Revision-Date: 2016-09-23 16:43+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && n"
+"%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\plugins"
+"\\ecommerce-wd-free\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orderproducts.php:7
+msgid "Item removed."
+msgstr "البند إزالتها."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orderproducts.php:12
+msgid "Item saved."
+msgstr "البند المحفوظة."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:86
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:308
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:140
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:218
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:501
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:509
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:93
+msgid "Order details"
+msgstr "تفاصيل الطلب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:92
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:314
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:123
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:138
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:216
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:99
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1072
+msgid "Shipping data"
+msgstr "بيانات الشحن"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:93
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:103
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:315
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:325
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:100
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:110
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:297
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:328
+msgid "First name"
+msgstr "الاسم الاول"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:94
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:104
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:316
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:326
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:105
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:101
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:111
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:299
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:330
+msgid "Last name"
+msgstr "اسم العائلة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:95
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:105
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:317
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:327
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:106
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:102
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:112
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:310
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:331
+msgid "Company"
+msgstr "شركة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:96
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:106
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:318
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:328
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:110
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:103
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:113
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:321
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:342
+msgid "Address"
+msgstr "العنوان "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:97
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:107
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:319
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:329
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:109
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:104
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:114
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:320
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:341
+msgid "City"
+msgstr "المدينة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:98
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:108
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:320
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:330
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:108
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:105
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:115
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:319
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:340
+msgid "State"
+msgstr "المحافظة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:99
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:109
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:321
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:331
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:114
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:106
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:116
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:325
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:343
+msgid "Zip code"
+msgstr "رمز بريدي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:100
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:110
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:322
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:332
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:107
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:107
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:117
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:311
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:332
+msgid "Country"
+msgstr "الدولة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:102
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:324
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:122
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:137
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:215
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:109
+msgid "Billing data"
+msgstr "بيانات الفواتير"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:111
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:333
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:112
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:118
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:323
+msgid "Phone"
+msgstr "الهاتف"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:112
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:334
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:113
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:119
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:324
+msgid "Fax"
+msgstr "فاكس"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:113
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:335
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:355
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:120
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:141
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:309
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:354
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:82
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/categories.php:159
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/countries.php:73
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/currencies.php:31
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/discounts.php:54
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/labels.php:92
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/orderstatuses.php:15
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/parameters.php:83
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/payments.php:87
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/products.php:179
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/shippingmethods.php:108
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/tags.php:48
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/taxes.php:53
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/themes.php:68
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/users.php:67
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/explore.php:57
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/tmpl/explore.php:59
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/tmpl/default.php:35
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/tmpl/explore.php:45
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/tmpl/explore.php:45
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/tmpl/explore.php:46
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:152
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/tmpl/default.php:45
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/explore.php:60
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/default.php:41
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/explore.php:58
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tmpl/explore.php:57
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/tmpl/explore.php:45
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/users/tmpl/explore.php:48
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:140
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:297
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:328
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:78
+msgid "Name"
+msgstr "الاسم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:356
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:142
+msgid "Tel"
+msgstr "الهاتف"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:419
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/products.php:146
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:112
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:117
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:127
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:132
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:270
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:277
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:291
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:298
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/tmpl/edit.php:31
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/tmpl/edit.php:39
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:17
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:25
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:33
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:257
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:269
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:59
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:128
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:136
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:144
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:152
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:160
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:168
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:176
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:184
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:192
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:200
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:208
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:216
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:224
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:77
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:85
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:93
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:101
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:109
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:117
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:134
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:142
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:199
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_tax.php:24
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_tax.php:38
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/tmpl/edit.php:40
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/edit.php:26
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/edit.php:43
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/edit_apioptions.php:77
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:212
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:234
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:242
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:250
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:258
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:266
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:291
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:299
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:344
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:360
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:225
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:261
+msgid "Yes"
+msgstr "نعم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/orders.php:419
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/products.php:145
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:112
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:117
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:127
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:132
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:270
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:277
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:291
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:298
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/tmpl/edit.php:31
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/tmpl/edit.php:39
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:17
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:25
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:33
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:257
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:269
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:59
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:128
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:136
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:144
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:152
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:160
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:168
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:176
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:184
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:192
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:200
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:208
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:216
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:224
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:77
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:85
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:93
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:101
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:109
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:117
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:134
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:142
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:199
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_tax.php:24
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_tax.php:38
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/tmpl/edit.php:40
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/edit.php:26
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/edit.php:43
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/edit_apioptions.php:77
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:212
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:234
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:242
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:250
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:258
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:266
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:291
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:299
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:344
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:360
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:225
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:261
+msgid "No"
+msgstr "لا"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/payments.php:10
+msgid "Changes saved."
+msgstr "تم حفظ التغييرات."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:71
+msgid "Thumbnail view"
+msgstr "عرض الصور المصغرة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:72
+msgid "Masonry view"
+msgstr "عرض البناء"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:73
+msgid "Cheese view"
+msgstr "عرض الجبن"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:74
+msgid "Blog style view"
+msgstr "عرض على غرار بلوق"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:75
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:21
+msgid "List view"
+msgstr "عرض بشكل قائمة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:76
+msgid "Quick view"
+msgstr "نظرة سريعة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:77
+msgid "Product view"
+msgstr "عرض المنتج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:80
+msgid "Image"
+msgstr "صورة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:81
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:93
+msgid "Label"
+msgstr "العنوان"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:83
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:156
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/ratings/tmpl/default.php:42
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:90
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:330
+msgid "Rating"
+msgstr "التقييم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:84
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:89
+msgid "Category"
+msgstr "تصنيف"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:85
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:153
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:90
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:81
+msgid "Manufacturer"
+msgstr "الشركة المصنعة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:86
+msgid "Model"
+msgstr "الطراز"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:87
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:154
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:91
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:103
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/explore.php:59
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:84
+msgid "Price"
+msgstr "السعر"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:88
+msgid "Market price"
+msgstr "سعر السوق"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:89
+msgid "Description"
+msgstr "الوصف"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:90
+msgid "Quick view button"
+msgstr "زر عرض سريع"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:91
+msgid "Compare button"
+msgstr "قارن زر"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:92
+msgid "Write review button"
+msgstr "زر كتابة مراجعة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:93
+msgid "Buy now button"
+msgstr "شراء الآن زر"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:94
+msgid "Add to cart button"
+msgstr "اضف إلى السلة زر"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:95
+msgid "Social buttons"
+msgstr "أزرار الاجتماعية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:96
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit.php:21
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/orders/tmpl/displayorder.php:83
+msgid "Parameters"
+msgstr "المعاملات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:97
+msgid "Shipping info"
+msgstr "معلومات الشحن"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:98
+msgid "Reviews"
+msgstr "استعراض"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/controllers/themes.php:99
+msgid "Related products"
+msgstr "المنتجات ذات الصلة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/categories.php:138
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/categories.php:304
+msgid "Main"
+msgstr "رئيسي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/currencies.php:12
+#, fuzzy
+msgid "Paypal-supported currencies"
+msgstr "العملات ورموز العملات باي بال المعتمدة،"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:82
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/edit_generaloptions.php:19
+msgid "Hide"
+msgstr "إخفاء"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:83
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/edit_generaloptions.php:19
+msgid "Show"
+msgstr "تبين"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:84
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/edit_generaloptions.php:19
+msgid "Show and require"
+msgstr "إظهار وتتطلب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:104
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:298
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:329
+msgid "Middle name"
+msgstr "الاسم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/options.php:111
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:322
+msgid "Mobile"
+msgstr "موبايل  "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/orderproducts.php:14
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/shoppingcart.php:122
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:150
+msgid "Tax"
+msgstr "ضريبة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/orderproducts.php:16
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit.php:22
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/orders/tmpl/displayorder.php:75
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:151
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:171
+msgid "Shipping"
+msgstr "الشحن"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/orders.php:160
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:86
+msgid "Date from"
+msgstr "التاريخ من"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/orders.php:171
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:87
+msgid "Date to"
+msgstr "تاريخ ل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/orders.php:181
+msgid "Payment data"
+msgstr "بيانات الدفع"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/pages.php:80
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/tmpl/explore.php:55
+msgid "Title"
+msgstr "عنوان"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/products.php:160
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:119
+msgid "Unlimited"
+msgstr "غير محدود"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/ratings.php:31
+msgid "Any product"
+msgstr "أي منتج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/ratings.php:37
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:147
+msgid "Product"
+msgstr "الكتاب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/models/shippingmethods.php:75
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:113
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:255
+msgid "Free shipping"
+msgstr "شحن مجان."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:11
+msgid "Edit Category"
+msgstr "تحرير الفئة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:12
+msgid "View Category"
+msgstr "عرض تصنيف"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:13
+msgid "Update Category"
+msgstr "تحديث الفئة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:14
+msgid "Add New Category"
+msgstr "إضافة تصنيف جديد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:15
+msgid "New Category Name"
+msgstr "الجديد اسم التصنيف"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:16
+msgid "Parent Category"
+msgstr "التصنيف الأب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:17
+msgid "Parent Category:"
+msgstr "التصنيف الأب :"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:18
+msgid "Search Categories"
+msgstr "بحث الفئات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:19
+msgid "Popular Categories"
+msgstr "فئات شعبية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:20
+msgid "Separate categories with commas"
+msgstr "فئات منفصلة مع الفواصل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:21
+msgid "Add or remove categories"
+msgstr "إضافة أو إزالة الفئات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:22
+msgid "Choose from the most used categories"
+msgstr "الاختيار من بين الفئات الأكثر استخداما"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:23
+msgid "No categories found."
+msgstr "لا توجد فئات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/categories.php:111
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:84
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:94
+msgid "Thumbnail"
+msgstr "المصغرات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:62
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:216
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_parameters.php:59
+msgid "Required parameters"
+msgstr "المعلمات المطلوبة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:65
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:219
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_parameters.php:62
+msgid "Add parameter"
+msgstr "إضافة المعلمة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:66
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:96
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:220
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:252
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:134
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_parameters.php:64
+msgid "Remove all"
+msgstr "إزالة الكل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:67
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:97
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:221
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:253
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_data.php:50
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_data.php:64
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_links.php:50
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_links.php:67
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_parameters.php:65
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_shipping.php:38
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:27
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:36
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:103
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:114
+msgid "Manage"
+msgstr "إدارة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:95
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/edit.php:251
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:133
+msgid "Add tags"
+msgstr "إضافة وسم 4/5"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/explore.php:39
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/explore.php:43
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tmpl/explore.php:39
+msgid "Insert"
+msgstr "ادخال"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/categories/tmpl/explore.php:56
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/tmpl/explore.php:58
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/tmpl/default.php:34
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/tmpl/explore.php:44
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/tmpl/explore.php:44
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/tmpl/explore.php:45
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/tmpl/default.php:44
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/tmpl/explore.php:54
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/explore.php:59
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/default.php:40
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/ratings/tmpl/default.php:38
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/explore.php:57
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tmpl/explore.php:56
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/tmpl/explore.php:44
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/users/tmpl/explore.php:47
+msgid "ID"
+msgstr "رقم المعرف"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:12
+msgid "Edit Country"
+msgstr "تحرير البلد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:13
+msgid "View Country"
+msgstr "عرض البلد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:14
+msgid "Update Country"
+msgstr "تحديث البلد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:15
+msgid "Add New Country"
+msgstr "إضافة بلد جديد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:16
+msgid "New Country Name"
+msgstr "اسم البلد الجديد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:17
+msgid "Parent Country"
+msgstr "البلد الأصل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:18
+msgid "Parent Country:"
+msgstr "الأصل البلد:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:19
+msgid "Search Countries"
+msgstr "البحث البلدان"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:20
+msgid "Popular Countries"
+msgstr "البلدان شعبية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:21
+msgid "Separate Countries with commas"
+msgstr "البلدان منفصلة مع الفواصل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:22
+msgid "Add or remove countries"
+msgstr "إضافة أو إزالة الدول"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:23
+msgid "Choose from most used countries"
+msgstr "اختيار من بينها معظم الدول استخداما"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:24
+msgid "No countries found."
+msgstr "لا توجد دولة."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/countries.php:82
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/tmpl/explore.php:60
+msgid "Country code"
+msgstr "الرقم الدولي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/countries/tmpl/explore.php:42
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/tmpl/explore.php:38
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_data.php:49
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_data.php:63
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_links.php:49
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_links.php:66
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_shipping.php:37
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:26
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:35
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:102
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:113
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/explore.php:40
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/users/tmpl/explore.php:36
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/checkout/tmpl/displayproductsdata.php:114
+msgid "Select"
+msgstr "إختيار"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/tmpl/default.php:36
+msgid "Currency code"
+msgstr "رمز العملة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/tmpl/default.php:37
+msgid "Active"
+msgstr "نشط"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/tmpl/edit.php:15
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:157
+msgid "Left"
+msgstr "يسار"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/tmpl/edit.php:16
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:158
+msgid "Right"
+msgstr "يمين"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:54
+msgid "Add currency"
+msgstr "إضافة العملة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:56
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:65
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/default.php:102
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/view.php:76
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:69
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:48
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:57
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:64
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:73
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/view.php:48
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:54
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:62
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/ratings/tmpl/default.php:81
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:58
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:68
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:75
+msgid "Save"
+msgstr "حفظ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:57
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:66
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/view.php:26
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:70
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:49
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:58
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:65
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:74
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/view.php:49
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:55
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:63
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:59
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:69
+msgid "Apply"
+msgstr "تطبيق"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:58
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:67
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:50
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:59
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:66
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:75
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:56
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:64
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:60
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:70
+msgid "Save and new"
+msgstr "حفظ والجديدة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:59
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:68
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/view.php:27
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:64
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:71
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:51
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:60
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:67
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:76
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/view.php:50
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:57
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:65
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:61
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:71
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:63
+msgid "Edit currency"
+msgstr "تحرير العملة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:72
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:57
+msgid "Currencies"
+msgstr "العملات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/currencies/view.php:75
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderproducts/tmpl/explore.php:123
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:81
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:69
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:87
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:73
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/ratings/view.php:44
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:79
+msgid "Delete"
+msgstr "حذف"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:12
+msgid "Edit Discount"
+msgstr "تحرير الخصم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:13
+msgid "View Discount"
+msgstr "عرض الخصم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:14
+msgid "Update Discount"
+msgstr "تحديث الخصم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:15
+msgid "Add New Discount"
+msgstr "إضافة خصم جديد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:16
+msgid "New Discount Name"
+msgstr "اسم الخصم الجديد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:17
+msgid "Parent Discount"
+msgstr "الخصم الوالدين"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:18
+msgid "Parent Discount:"
+msgstr "الخصم الأصلي:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:19
+msgid "Search Discounts"
+msgstr "البحث الخصومات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:20
+msgid "Popular Discounts"
+msgstr "خصومات شعبية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:21
+msgid "Separate Discounts with commas"
+msgstr "خصومات منفصلة مع الفواصل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:22
+msgid "Add or remove discounts"
+msgstr "إضافة أو إزالة الخصومات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:23
+msgid "Choose from most used discounts"
+msgstr "اختيار من بينها معظم التخفيضات المستخدمة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:24
+msgid "No discounts found."
+msgstr "لم يتم العثور على الخصومات."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/discounts.php:85
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/discounts/tmpl/explore.php:46
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:82
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/tmpl/explore.php:46
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:332
+msgid "Rate"
+msgstr "معدل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:12
+msgid "Edit Label"
+msgstr "تحرير تسمية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:13
+msgid "View Label"
+msgstr "عرض تسمية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:14
+msgid "Update Label"
+msgstr "تحديث تسمية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:15
+msgid "Add New Label"
+msgstr "إضافة تسمية جديدة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:16
+msgid "New Label Name"
+msgstr "الجديد اسم العلامة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:17
+msgid "Parent Label"
+msgstr "تسمية الوالدين"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:18
+msgid "Parent Label:"
+msgstr "تسمية الأم:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:19
+msgid "Search Labels"
+msgstr "البحث تسميات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:20
+msgid "Popular Labels"
+msgstr "تسميات شعبية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:21
+msgid "Separate Labels with commas"
+msgstr "تسميات منفصلة مع الفواصل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:22
+msgid "Add or remove labels"
+msgstr "إضافة أو إزالة الملصقات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:23
+msgid "Choose from most used labels"
+msgstr "الاختيار من بين أكثر العلامات استخداما"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/labels/labels.php:24
+msgid "No labels found."
+msgstr "لا توجد تسميات."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:12
+msgid "Add New Manufacturer"
+msgstr "إضافة مورد جديد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:13
+msgid "New Manufacturer"
+msgstr "الجديد الصانع"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:14
+msgid "Edit Manufacturer"
+msgstr "تحرير الصانع"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:15
+msgid "View Manufacturer"
+msgstr "عرض الصانع"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:16
+msgid "Manufacturers"
+msgstr "المصنعين"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:17
+msgid "Search Manufacturers"
+msgstr "البحث مصنعين"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:18
+msgid "Parent Manufacturers:"
+msgstr "مصنعين الأم:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:19
+msgid "No manufacturers found."
+msgstr "لم يتم العثور على الشركات المصنعة."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:20
+msgid "No manufacturers found in Trash."
+msgstr "لا المصنعين وجدت في القمامة."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:45
+msgid "Manufacturer data"
+msgstr "بيانات الشركة المصنعة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:59
+msgid "Logo"
+msgstr "شعار"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:60
+msgid "Website"
+msgstr "موقع الكتروني"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/manufacturers.php:72
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:401
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:417
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/categories/tmpl/displaycategory.php:126
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproduct.php:849
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproducts_arrangementlist.php:29
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproducts_arrangementthumbs.php:37
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/shoppingcart/tmpl/displayshoppingcart.php:41
+msgid "No Image"
+msgstr "لا توجد صورة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/manufacturers/tmpl/explore.php:49
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/tmpl/default.php:47
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/tmpl/explore.php:57
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/default.php:43
+msgid "Published"
+msgstr "تم النشر"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displaycategory.php:15
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:43
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:379
+msgid "Show all categories"
+msgstr "إظهار جميع التصنيفات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displaycategory.php:34
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displaymanufacturers.php:13
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:168
+msgid "Asc"
+msgstr "تصاعدي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displaycategory.php:35
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displaymanufacturers.php:14
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:169
+msgid "Desc"
+msgstr "تفاصيل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:19
+msgid "Thumbnails"
+msgstr "الصور المصغرة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:20
+msgid "Masonry"
+msgstr "أعمال البناء"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:22
+msgid "Blog style"
+msgstr "أسلوب بلوق"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:23
+msgid "Chess"
+msgstr "الشطرنج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:96
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:63
+msgid "Any date"
+msgstr "أي تاريخ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:97
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:59
+msgid "Today"
+msgstr "اليوم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:98
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:30
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:60
+msgid "Last week"
+msgstr "الاسبوع الماضى"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:99
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:61
+msgid "Last two weeks"
+msgstr "آخر أسبوعين"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:100
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:28
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:62
+msgid "Last month"
+msgstr "الشهر الماضي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:151
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:76
+msgid "Relevance"
+msgstr "الصلة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/displayproducts.php:155
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:87
+msgid "Number of reviews"
+msgstr "عدد من الاستعراضات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/menu_form_fields.php:25
+msgid "Categories page"
+msgstr "الصفحة الفئات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/menu_form_fields.php:26
+msgid "Manufacturers page"
+msgstr "الصفحة مصنعين"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/menu_form_fields.php:27
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:16
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:443
+msgid "All Products"
+msgstr "◦ - جميع المنتجات -"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/menu_form_fields/menu_form_fields.php:33
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderproducts/tmpl/explore.php:124
+msgid "Update"
+msgstr "تحديث"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default.php:20
+msgid "Global"
+msgstr "عالمي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default.php:21
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:68
+msgid "Products"
+msgstr "المنتجات "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default.php:22
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:470
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:44
+msgid "Checkout"
+msgstr "تنفيذ الشراء"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default.php:23
+msgid "Additional charges and discounts"
+msgstr "رسوم إضافية والخصومات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default.php:24
+msgid "Users"
+msgstr "المستخدمين"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default.php:25
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:54
+msgid "Email options"
+msgstr "خيارات البريد الإلكتروني"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default.php:26
+msgid "Standard pages"
+msgstr "صفحة قياسية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:66
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/default.php:53
+msgid "You can't edit this payment system in free version."
+msgstr "لا يمكنك تعديل هذا النظام دفع في نسخة مجانية."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:111
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:105
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:33
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:41
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:52
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_tax.php:61
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_user_data.php:43
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:46
+msgid "Reset"
+msgstr "إعادة تعيين"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_checkout.php:112
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:106
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:34
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:42
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:53
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_tax.php:62
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_user_data.php:44
+msgid "Load default values"
+msgstr "قيم تحميل الافتراضي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:46
+msgid "Email to Administrator"
+msgstr "البريد الإلكتروني إلى مسؤول"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:47
+msgid "Email to Customer"
+msgstr "البريد الإلكتروني للعميل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:48
+msgid "Customer note"
+msgstr "مذكرة للعملاء"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:50
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:530
+msgid "Failed"
+msgstr "فشل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:51
+msgid "Pending"
+msgstr "معلق"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:52
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:544
+msgid "Completed"
+msgstr "منجز"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:53
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:551
+msgid "Refunded"
+msgstr "ردها"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:54
+msgid "Customer invoice"
+msgstr "فاتورة العميل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:116
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:133
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:150
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:166
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:175
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:184
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:193
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:202
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:211
+msgid "Customer name"
+msgstr "اسم الزبون"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:117
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:134
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:151
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:212
+msgid "Site name"
+msgstr "اسم الموقع"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:118
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:135
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:152
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:213
+msgid "Site url"
+msgstr "رابط الموقع"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:119
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:136
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:153
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:214
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/default.php:44
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/orders/tmpl/displayorder.php:27
+msgid "Checkout date"
+msgstr "موعد انتهاء الأقامة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:120
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:139
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:156
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:167
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:176
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:185
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:194
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:203
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:217
+msgid "Order id"
+msgstr "رقم التعريف الخاص بالطلب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:121
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:141
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:157
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:219
+msgid "Product details"
+msgstr "تفاصيل المنتج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:124
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:142
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:158
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:220
+msgid "Total price"
+msgstr "السعر الكلي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:125
+msgid "Is email sent to user"
+msgstr "وتم إرسال رسالة إلكترونية إلى المستخدم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:126
+msgid "Customer details"
+msgstr "تفاصيل العميل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:154
+msgid "Old status"
+msgstr "الوضع القديم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:155
+msgid "New status"
+msgstr "الوضع الجديد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:239
+msgid "Order is submitted"
+msgstr "يقدم ترتيب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:240
+msgid "Payment status is completed"
+msgstr "اكتمال حالة السداد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:241
+msgid "Order is confirmed"
+msgstr "تأكيد النظام"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:242
+msgid "Don't send"
+msgstr "لا ترسل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:254
+msgid "Send Email to Administrator"
+msgstr "إرسال البريد الإلكتروني إلى مسؤول"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:254
+msgid "Send Email"
+msgstr "ارسل بريد الكتروني"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:293
+msgid "HTML"
+msgstr "HTML"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_email.php:293
+msgid "Text"
+msgstr "نص"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:9
+msgid "General"
+msgstr "عام"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:10
+msgid "Search and Sort"
+msgstr "بحث وترتيب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_global.php:111
+msgid "Manage templates"
+msgstr "إدارة قوالب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:13
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1066
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1089
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1105
+msgid "Products data"
+msgstr "بيانات المنتجات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:14
+msgid "Feedback"
+msgstr "الأراء"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:15
+msgid "Social media integration"
+msgstr "التكامل وسائل الاعلام الاجتماعية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:155
+msgid "Light"
+msgstr "الإضاءة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_products_data.php:156
+msgid "Dark"
+msgstr "داك"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:9
+msgid "Permalink settings"
+msgstr "إعدادات الرابط الثابت"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:10
+msgid "All products page"
+msgstr "كل صفحة المنتجات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:11
+msgid "Orders page"
+msgstr "الصفحة أوامر"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:12
+msgid "Checkout page"
+msgstr "صفحة الخروج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:13
+msgid "User management page"
+msgstr "صفحة إدارة المستخدمين"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:14
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:488
+msgid "System pages"
+msgstr "صفحات النظام"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:91
+msgid "Ecommerce slug"
+msgstr "التجارة الإلكترونية سبيكة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:96
+msgid "Product slug"
+msgstr "سبيكة المنتج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:101
+msgid "Manufacturer slug"
+msgstr "الشركة المصنعة للسبيكة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:106
+msgid "Category slug"
+msgstr "فئة سبيكة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:111
+msgid "Tag slug"
+msgstr "العلامة سبيكة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:116
+msgid "Parameter slug"
+msgstr "سبيكة المعلمة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:121
+msgid "Discount slug"
+msgstr "سبيكة الخصم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:126
+msgid "Tax slug"
+msgstr "سبيكة الضرائب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:131
+msgid "Label slug"
+msgstr "التسمية سبيكة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:136
+msgid "Shipping method slug"
+msgstr "طريقة الشحن سبيكة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:141
+msgid "Country slug"
+msgstr "سبيكة البلاد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:152
+msgid "Products compare page"
+msgstr "المنتجات مقارنة الصفحة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:163
+msgid "Display order page"
+msgstr "الصفحة ترتيب العرض"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:168
+msgid "Print order page"
+msgstr "الصفحة ترتيب الطباعة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:179
+msgid "Shipping data page"
+msgstr "صفحة بيانات الشحن"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:184
+msgid "Products data page"
+msgstr "صفحة بيانات المنتجات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:189
+msgid "License pages"
+msgstr "صفحات رخصة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:194
+msgid "Confirm order page"
+msgstr "تأكيد صفحة الطلب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:199
+msgid "Checkout finished success page"
+msgstr "المحاسبه الصفحة نجاح النهائية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:204
+msgid "Checkout finished failure page"
+msgstr "الانتهاء المحاسبه صفحة فشل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:209
+msgid "Checkout product page"
+msgstr "المحاسبه صفحة المنتج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:214
+msgid "Checkout all products page"
+msgstr "الخروج عن صفحة المنتجات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:225
+msgid "Edit user account page"
+msgstr "تحرير صفحة حساب المستخدم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_standart_pages.php:236
+msgid "System page"
+msgstr "صفحة النظام"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_tax.php:12
+msgid "Per order"
+msgstr "لكل أمر"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/tmpl/default_tax.php:13
+msgid "Per item"
+msgstr "لكل بند"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/options/view.php:25
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:63
+msgid "Options"
+msgstr "خيارات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/default.php:40
+msgid "Order"
+msgstr "ترتيب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/default.php:41
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/ratings/tmpl/default.php:40
+msgid "User IP"
+msgstr "IP المستخدم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/default.php:45
+msgid "Date modified"
+msgstr "التاريخ عدل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/default.php:46
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:516
+msgid "Order status"
+msgstr "حالة الطلبات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/default.php:48
+msgid "Read"
+msgstr "قرأ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/edit.php:96
+msgid "Edit products"
+msgstr "منتجات تحرير"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/paymentdata.php:56
+msgid "true"
+msgstr "صحيح"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/tmpl/paymentdata.php:56
+msgid "false"
+msgstr "خطأ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:63
+msgid "View order"
+msgstr "مشاهدة الطلب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:68
+msgid "Edit order"
+msgstr "أجل تحرير"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:77
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orders/view.php:80
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:461
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:46
+msgid "Orders"
+msgstr "أوامر"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/tmpl/default.php:46
+msgid "Default"
+msgstr "افتراضي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:46
+msgid "Add order status"
+msgstr "إضافة حالة الطلب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:55
+msgid "Edit order status"
+msgstr "وضع تحرير ترتيب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:64
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:54
+msgid "Order statuses"
+msgstr "الأوضاع أجل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:67
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:85
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/view.php:56
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:71
+msgid "Publish"
+msgstr "نشر"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/orderstatuses/view.php:68
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:86
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/view.php:57
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:72
+msgid "Unpublish"
+msgstr "إزالة النشر"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:62
+msgid "Add page"
+msgstr "إضافة صفحة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:71
+msgid "Edit page"
+msgstr "تحرير صفحة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/pages/view.php:82
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1078
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1101
+msgid "Licensing"
+msgstr "• التراخيص"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:11
+msgid "Edit Parameter"
+msgstr "تحرير معلمة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:12
+msgid "View Parameter"
+msgstr "عرض معلمة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:13
+msgid "Update Parameter"
+msgstr "تحديث معلمة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:14
+msgid "Add New Parameter"
+msgstr "إضافة معلمة جديدة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:15
+msgid "New Parameter Name"
+msgstr "الجديد اسم معلمة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:16
+msgid "Parent Parameter"
+msgstr "المعلمة الأم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:17
+msgid "Parent Parameter:"
+msgstr "المعلمة الأم:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:18
+msgid "Search Parameters"
+msgstr "البحث معلمات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:19
+msgid "Popular Parameters"
+msgstr "معلمات شعبية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:20
+msgid "Separate parameters with commas"
+msgstr "المعلمات منفصلة مع الفواصل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:21
+msgid "Add or remove parameters"
+msgstr "إضافة أو إزالة المعلمات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:22
+msgid "Choose from the most used parameters"
+msgstr "اختيار من المعلمات الأكثر استخداما"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:23
+msgid "No parameters found."
+msgstr "لم يتم العثور على المعلمات."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:49
+msgid "Edit "
+msgstr "تعديل "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:50
+#, fuzzy
+msgid "View "
+msgstr "عرض سحابة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:51
+#, fuzzy
+msgid "Update "
+msgstr "تحديث"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:52
+#, fuzzy
+msgid "Add New "
+msgstr "اضف جديد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:53
+msgid "New "
+msgstr "جديد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:54
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:55
+#, fuzzy
+msgid "Parent "
+msgstr "بطاقة الأم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:56
+#, fuzzy
+msgid "Search "
+msgstr "بحث في الوسوم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:57
+#, fuzzy
+msgid "Popular "
+msgstr "الكلمات الشعبية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:58
+msgid "Separate "
+msgstr "فصل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:59
+#, fuzzy
+msgid "Add or remove "
+msgstr "إضافة أو إزالة علامات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:60
+#, fuzzy
+msgid "Choose from the most used "
+msgstr "اختر من بين الأكثر استخداما"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:61
+#, fuzzy
+msgid "No "
+msgstr "لا"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:137
+msgid "Default values"
+msgstr "قيم افتراضية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/parameters.php:167
+msgid "Add/Edit"
+msgstr "إضافة / تعديل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/explore.php:61
+msgid "Type"
+msgstr "النوع "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/parameters/tmpl/explore.php:62
+msgid "Required"
+msgstr "مطلوب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/edit.php:25
+msgid "API options"
+msgstr "خيارات API"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/edit.php:26
+msgid "Credit card fields"
+msgstr "حقول بطاقة الائتمان"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/tmpl/edit_generaloptions.php:16
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/usermanagement.php:125
+msgid "This field is required"
+msgstr "هذه الخانة مطلوبه"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/view.php:46
+msgid "Edit payment system"
+msgstr "تحرير نظام الدفع"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/payments/view.php:54
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:49
+msgid "Payments"
+msgstr "المدفوعات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:12
+msgid "Add New Product"
+msgstr "إضافة منتج جديد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:13
+msgid "New Product"
+msgstr "منتج جديد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:14
+msgid "Edit Product"
+msgstr "تحرير المنتج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:15
+msgid "View Product"
+msgstr "عرض المنتج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:17
+msgid "Search Products"
+msgstr "البحث عن المنتجات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:19
+msgid "No products found."
+msgstr "لا توجد منتجات وجدت."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:20
+msgid "No products found in Trash."
+msgstr "لا توجد منتجات وجدت في القمامة."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:69
+msgid "Short description"
+msgstr "وصف موجز"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:71
+msgid "Product data"
+msgstr "بيانات المنتج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:73
+msgid "Select manufacturer"
+msgstr "حدد الشركة المصنعة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:92
+msgid "Amount in stock"
+msgstr "المبلغ في الأوراق المالية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:129
+msgid "No label"
+msgstr "بدون علامة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:164
+msgid "No image"
+msgstr "لا توجد صورة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:390
+msgid "Show all manufacturers"
+msgstr "عرض جميع الشركات المصنعة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:440
+msgid "No manufacturer selected"
+msgstr "لم يتم اختيار الشركة المصنعة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:445
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:446
+msgid "Manufacturer:"
+msgstr "الشركة المصنعة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:492
+msgid "Duplicate this item"
+msgstr "تكرار هذا البند"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:492
+msgid "Duplicate"
+msgstr "مكرر"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:549
+msgid "Product creation failed, could not find original product."
+msgstr "فشل إنشاء المنتج، لا يمكن العثور على المنتج الأصلي."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/products.php:684
+msgid "free shipping"
+msgstr "شحن مجان."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit.php:19
+msgid "Data"
+msgstr "البيانات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit.php:20
+msgid "Links"
+msgstr "الروابط"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit.php:23
+msgid "Media"
+msgstr "وسائل الإعلام"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit.php:24
+msgid "Meta tags"
+msgstr "العلامات الفوقية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit.php:26
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/ratings/view.php:43
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:48
+msgid "Ratings"
+msgstr "تصنيفات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/tmpl/edit_parameters.php:63
+msgid "Add category parameters"
+msgstr "إضافة معلمات فئة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/products/view.php:52
+msgid "Add product"
+msgstr "إضافة منتج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/ratings/tmpl/default.php:39
+msgid "User"
+msgstr "مستخدم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/ratings/tmpl/default.php:43
+msgid "Rating Date"
+msgstr "التقييم تاريخ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:27
+msgid "Year"
+msgstr "السنة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:29
+msgid "This month"
+msgstr "هذا الشهر"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:31
+msgid "Custom"
+msgstr "أهلا وسهلا بك إلى٪ s!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:45
+msgid "Go"
+msgstr "دخول"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:84
+msgid "Average monthly sales"
+msgstr "المبيعات الشهرية متوسط"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/tmpl/default.php:84
+msgid "Average daily sales"
+msgstr "متوسط ​​المبيعات اليومية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/reports/view.php:52
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:55
+msgid "Reports"
+msgstr "تقارير"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:12
+msgid "Edit Shipping method"
+msgstr "طريقة تحرير شحن"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:13
+msgid "View Shipping method"
+msgstr "طريقة عرض شحن"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:14
+msgid "Update Shipping method"
+msgstr "طريقة التحديث شحن"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:15
+msgid "Add New Shipping method"
+msgstr "إضافة أسلوب جديد شحن"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:16
+msgid "New Shipping method Name"
+msgstr "شحن طريقة جديدة اسم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:17
+msgid "Parent Shipping method"
+msgstr "طريقة شحن الوالدين"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:18
+msgid "Parent Shipping method:"
+msgstr "الأصل طريقة الشحن:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:19
+msgid "Search Shipping methods"
+msgstr "طرق البحث البريدية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:20
+msgid "Popular Shipping methods"
+msgstr "وسائل النقل البحري شعبية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:21
+msgid "Separate Shipping methods with commas"
+msgstr "وسائل النقل البحري منفصلة مع الفواصل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:22
+msgid "Add or remove shipping methods"
+msgstr "إضافة أو إزالة وسائل النقل البحري"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:23
+msgid "Choose from most used shipping methods"
+msgstr "اختيار من معظم وسائل النقل البحري استخداما"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/shippingmethods.php:24
+msgid "No shipping methods found."
+msgstr "لا توجد وسائل النقل البحري."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:16
+msgid "Per bundle"
+msgstr "لكل حزمة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/shippingmethods/tmpl/edit.php:17
+msgid "Per unit"
+msgstr "لكل وحدة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:11
+msgid "Edit Tag"
+msgstr "تعديل الوسم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:12
+msgid "View Tag"
+msgstr "عرض سحابة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:13
+msgid "Update Tag"
+msgstr "تحديث الوسم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:14
+msgid "Add New Tag"
+msgstr "إضافة وسم جديد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:15
+msgid "New Tag Name"
+msgstr "الجديد اسم العلامة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:16
+msgid "Parent Tag"
+msgstr "بطاقة الأم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:17
+msgid "Parent Tag:"
+msgstr "بطاقة الأم:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:18
+msgid "Search Tags"
+msgstr "بحث في الوسوم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:19
+msgid "Popular Tags"
+msgstr "الكلمات الشعبية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:20
+msgid "Separate Tags with commas"
+msgstr "أفصل التعليقات بفواصل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:21
+msgid "Add or remove tags"
+msgstr "إضافة أو إزالة علامات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:22
+msgid "Choose from most used"
+msgstr "اختر من بين الأكثر استخداما"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/tags.php:23
+msgid "No tags found."
+msgstr "لا توجد كلمات دلالية وجدت."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:56
+msgid "Add tag"
+msgstr "أضف اشارة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:66
+msgid "Edit tag"
+msgstr "تحرير العلامة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/tags/view.php:76
+msgid "Tags"
+msgstr "الكلمات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:12
+msgid "Edit Tax"
+msgstr "تحرير الضريبة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:13
+msgid "View Tax"
+msgstr "مشاهدة الضرائب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:14
+msgid "Update Tax"
+msgstr "تحديث الضرائب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:15
+msgid "Add New Tax"
+msgstr "إضافة الضرائب الجديد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:16
+msgid "New Tax Name"
+msgstr "الجديد اسم الضرائب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:17
+msgid "Parent Tax"
+msgstr "الضرائب الأم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:18
+msgid "Parent Tax:"
+msgstr "الضرائب الأم:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:19
+msgid "Search Taxes"
+msgstr "البحث الضرائب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:20
+msgid "Popular Taxes"
+msgstr "الضرائب شعبية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:21
+msgid "Separate Taxes with commas"
+msgstr "الضرائب منفصلة مع الفواصل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:22
+msgid "Add or remove Taxes"
+msgstr "إضافة أو إزالة الضرائب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:23
+msgid "Choose from most used Taxes"
+msgstr "اختيار من معظم الضرائب المستخدمة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/taxes/taxes.php:24
+msgid "No Taxes found."
+msgstr "لم يتم العثور على الضرائب."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:21
+msgid "Product template"
+msgstr "قالب المنتج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:22
+msgid "Manufacturer template"
+msgstr "قالب المصنع"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:23
+msgid "Category template"
+msgstr "قالب الفئة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:76
+msgid "Custom template"
+msgstr "قالب مخصص"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:77
+msgid "Import from theme template"
+msgstr "استيراد من قالب موضوع"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:78
+msgid "Generate template"
+msgstr "توليد قالب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:101
+msgid "Insert the code to display product in custom area:"
+msgstr "إدراج رمز إلى عرض المنتج في منطقة مخصصة:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:110
+msgid "Insert the code to display manufacturer in custom area:"
+msgstr "إدراج رمز لعرضه المصنعة في منطقة مخصصة:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/templates/tmpl/default.php:119
+msgid "Insert the code to display category in custom area:"
+msgstr "إدراج رمز لعرضه الفئة في منطقة مخصصة:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/admin/views/uninstall/view.php:61
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:64
+msgid "Uninstall"
+msgstr "إلغاء"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:292
+msgid "Add New Ecommerce Page"
+msgstr "إضافة جديد التجارة الإلكترونية الصفحة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:293
+msgid "New Ecommerce Page"
+msgstr "جديدة التجارة الإلكترونية الصفحة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:294
+msgid "Edit Ecommerce Page"
+msgstr "تحرير التجارة الإلكترونية الصفحة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:295
+msgid "View Ecommerce Page"
+msgstr "مشاهدة التجارة الإلكترونية الصفحة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:296
+msgid "All Ecommerce Pages"
+msgstr "كل الصفحات التجارة الإلكترونية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:297
+msgid "Search Ecommerce Pages"
+msgstr "صفحات البحث التجارة الإلكترونية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:298
+msgid "Parent Ecommerce Pages:"
+msgstr "الأم الصفحات التجارة الإلكترونية:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:299
+msgid "No Ecommerce Pages found."
+msgstr "لا توجد صفحات التجارة الإلكترونية."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:300
+msgid "No Ecommerce Pages found in Trash."
+msgstr "لا توجد صفحات التجارة الإلكترونية وجدت في القمامة."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:435
+#, php-format
+msgid "This section allows you to %s."
+msgstr "هذا القسم يسمح لك ل%."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:435
+msgid "Read More in User Manual"
+msgstr "المزيد في دليل المستخدم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-includes.php:448
+msgid "Upgrade to paid version"
+msgstr "الترقية إلى النسخة المدفوعة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:383
+msgid "Argentine Peso"
+msgstr "بيسو الأرجنتيني"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:384
+msgid "Australian Dollars"
+msgstr "دولار استرالى"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:385
+msgid "Bangladeshi Taka"
+msgstr "تاكا بنجلاديشى"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:386
+msgid "Bulgarian Lev"
+msgstr "ليف بلغاري"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:387
+msgid "Brazilian Real"
+msgstr "ريال برازيلي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:388
+msgid "Canadian Dollars"
+msgstr "دولار كندي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:389
+msgid "Swiss Franc"
+msgstr "الفرنك السويسري"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:390
+msgid "Chilean Peso"
+msgstr "بيزو شيلى"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:391
+msgid "Chinese Yuan"
+msgstr "يوان صيني"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:392
+msgid "Colombian Peso"
+msgstr "بيزو كولومبى"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:393
+msgid "Czech Koruna"
+msgstr "الكورونا التشيكية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:394
+msgid "Danish Krone"
+msgstr "دانماركى"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:395
+msgid "Dominican Peso"
+msgstr "بيزو الدومنيكان"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:396
+msgid "Egyptian Pound"
+msgstr "جنيه مصري"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:397
+msgid "Euros"
+msgstr "يورو"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:398
+msgid "Pounds Sterling"
+msgstr "الجنيه الإسترليني"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:399
+msgid "Hong Kong Dollar"
+msgstr "دولار هونج كونج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:400
+msgid "Croatia kuna"
+msgstr "كرواتيا كونا"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:401
+msgid "Hungarian Forint"
+msgstr "الفورنت الهنغاري"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:402
+msgid "Indonesia Rupiah"
+msgstr "اندونيسيا روبية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:403
+msgid "Israeli Shekel"
+msgstr "الشيكل الاسرائيلي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:404
+msgid "Indian Rupee"
+msgstr "الروبية الهندية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:405
+msgid "Icelandic krona"
+msgstr "الكرونا الأيسلندية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:406
+msgid "Japanese Yen"
+msgstr "الين الياباني"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:407
+msgid "Kenyan shilling"
+msgstr "الشلن الكيني"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:408
+msgid "Lao Kip"
+msgstr "كيب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:409
+msgid "South Korean Won"
+msgstr "وون كوريا الجنوبية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:410
+msgid "Mexican Peso"
+msgstr "بيزو مكسيكي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:411
+msgid "Malaysian Ringgits"
+msgstr "رينجت ماليزيا"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:412
+msgid "Nigerian Naira"
+msgstr "نايرا نيجيرى"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:413
+msgid "Norwegian Krone"
+msgstr "كرون نرويجي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:414
+msgid "Nepali Rupee"
+msgstr "روبية نيبالية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:415
+msgid "New Zealand Dollar"
+msgstr "دولار نيوزيلندى"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:416
+msgid "Philippine Pesos"
+msgstr "بيزو الفلبين"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:417
+msgid "Pakistani Rupee"
+msgstr "روبية باكستانية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:418
+msgid "Polish Zloty"
+msgstr "الزلوتي البولندية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:419
+msgid "Paraguayan Guarani"
+msgstr "غواراني باراغواي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:420
+msgid "Romanian Leu"
+msgstr "ليو روماني"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:421
+msgid "Russian Ruble"
+msgstr "روبل روسي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:422
+msgid "Swedish Krona"
+msgstr "الكرونا السويدية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:423
+msgid "Singapore Dollar"
+msgstr "دولار سنغافورى"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:424
+msgid "Thai Baht"
+msgstr "البات التايلندي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:425
+msgid "Turkish Lira"
+msgstr "الليرة التركية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:426
+msgid "Taiwan New Dollars"
+msgstr "تايوان دولار الجديد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:427
+msgid "Ukrainian Hryvnia"
+msgstr "هريفنيا أوكراني"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:428
+msgid "US Dollars"
+msgstr "دولار أمريكي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:429
+msgid "Vietnamese Dong"
+msgstr "دونج فيتنامى"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:430
+msgid "South African rand"
+msgstr "راند جنوب أفريقي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:436
+msgid "Without Online Payment"
+msgstr "دون الدفع عبر الانترنت"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:437
+msgid "Paypal Standard"
+msgstr "ومعيار باي بال"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:438
+msgid "Paypal Express Checkout"
+msgstr "باي بال عبر عن الخروج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:452
+msgid "Shopping cart"
+msgstr "عربة التسوق"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:479
+msgid "User management"
+msgstr "إدارة المستخدم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:502
+#, php-format
+msgid ""
+"Hello administrator, <br>Here are details for order of user %s on %s at %s "
+"%s."
+msgstr ""
+"مرحبا المسؤول، <br> وهنا تفاصيل عن النظام المستخدم٪ s على٪ الصورة في٪ s٪ "
+"الصورة."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:503
+#, php-format
+msgid ""
+"Order id: %s<br>Products details:<br>%s<br>Customer details:<br>%s<br>%s%s"
+msgstr ""
+"معرف الطلب:٪ الصورة <br> تفاصيل المنتجات: <br>٪ الصورة <br> تفاصيل العملاء: "
+"<br>٪ الصورة <br>٪ ق٪ الصورة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:504
+#, php-format
+msgid "Mail successfully sent to user: %s"
+msgstr "البريد المرسل بنجاح إلى المستخدم: %s"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:510
+#, php-format
+msgid "Hello %s,<br>Here are details for your order on %s at %s %s."
+msgstr "مرحبا٪ الصورة، <br> هنا تفاصيل طلبك على٪ الصورة في٪ s٪ الصورة."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:511
+#, php-format
+msgid "Order id: %s<br>%s<br>Products details:<br>%s<br>%s<br>%s"
+msgstr ""
+"معرف الطلب:٪ الصورة <br>٪ الصورة <br> تفاصيل المنتجات: <br>٪ الصورة <br>٪ "
+"الصورة <br>٪ الصورة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:517
+#, php-format
+msgid ""
+"Hello %s,<br>The order status of your order on %s at %s %s is updated from "
+"<em>%s</em> to <em>%s</em>."
+msgstr ""
+"مرحبا٪ الصورة، <br> حالة ترتيب طلبك على٪ الصورة في٪ s٪ s غير محدثة من <م>٪ "
+"الصورة </ م> إلى <م>٪ الصورة </ م>."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:518
+#, php-format
+msgid "<br>Products details:<br>%s<br>"
+msgstr "<br> المنتجات تفاصيل:٪ الصورة <br> <br>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:520
+msgid "The order status of your order is updated"
+msgstr "يتم تحديث حالة الطلب من طلبك"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:523
+msgid "Canceled"
+msgstr "حفظ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:525
+#, php-format
+msgid "The order #%s from %s has been canceled."
+msgstr "تم إلغاء الطلب #٪ الصورة من٪ s."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:527
+msgid "Your order has been canceled"
+msgstr "تم إلغاء طلبك"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:532
+#, php-format
+msgid "Payment for order #%s from %s has failed."
+msgstr "فشلت الدفع لأمر #٪ الصورة من٪ s."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:534
+msgid "Your order has failed"
+msgstr "فشلت طلبك"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:537
+msgid "Processed"
+msgstr "تم المعالجة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:539
+#, php-format
+msgid "Your order #%s from %s is now being processed."
+msgstr "يتم الآن معالجة طلبك #٪ الصورة من٪ s."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:541
+msgid "Your order is now being processed"
+msgstr "يتم الآن معالجة طلبك"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:546
+#, php-format
+msgid "Your order #%s from %s has been completed."
+msgstr "وقد تم الانتهاء طلبك #٪ الصورة من٪ s."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:548
+msgid "Your order has been completed"
+msgstr "وقد تم الانتهاء من طلبك"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:553
+#, php-format
+msgid "Your order #%s from %s has been refunded."
+msgstr "تم ردها طلبك #٪ الصورة من٪ s."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:555
+msgid "Your order has been refunded"
+msgstr "تم ردها طلبك"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:558
+msgid "Invoice"
+msgstr "فاتورة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:559
+#, php-format
+msgid "Hello %s,<br>Here are details for your order on %s at %s %s.<br>"
+msgstr ""
+"مرحبا٪ الصورة، <br> وفيما يلي تفاصيل عن طلبك على٪ الصورة في٪ s٪ الصورة. <br>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:560
+#, php-format
+msgid "Order id: %s<br>%s<br>Product details:<br>%s<br>%s%s"
+msgstr ""
+"معرف الطلب:٪ الصورة <br>٪ الصورة <br> تفاصيل المنتج: <br>٪ الصورة <br>٪ ق٪ "
+"الصورة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-insert.php:562
+msgid "Invoice for Your order"
+msgstr "فاتورة لطلبك"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:39
+#, fuzzy
+msgid "General options"
+msgstr "خيارات البريد الإلكتروني"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:59
+#, fuzzy
+msgid "Final"
+msgstr "السعر النهائي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:69
+msgid "Finish"
+msgstr "نهاية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:70
+msgid "Next"
+msgstr "التالى"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:71
+msgid "Previous"
+msgstr "السابق"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:74
+msgid "Please enter a valid email address."
+msgstr "رجاء قم بإدخال بريد الكتروني صحيح."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:91
+#, fuzzy
+msgid " setup wizard"
+msgstr "معالج الاعداد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:104
+#, php-format
+msgid "Welcome to %s!"
+msgstr "مرحبا بكم في"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:255
+msgid "Include discount in price"
+msgstr "تشمل خصم في السعر"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:263
+msgid "Include tax in price"
+msgstr "تشمل الضرائب في السعر"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:281
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:334
+msgid "Sandbox"
+msgstr "رمل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:282
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd-wizard.php:335
+#, fuzzy
+msgid "Production"
+msgstr "الكتاب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:43
+msgid "Ecommerce WD"
+msgstr "التجارة الإلكترونية WD"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:50
+msgid "Discounts"
+msgstr "خصومات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:51
+msgid "Taxes"
+msgstr "الضرائب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:52
+msgid "Shipping methods"
+msgstr "طرق الشحن"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:60
+msgid "Payment systems"
+msgstr "أنظمة الدفع"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:61
+msgid "Templates"
+msgstr "قوالب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:62
+msgid "Themes"
+msgstr "مباحث"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/ecommerce-wd.php:170
+msgid "Multiple Ecommerce-WD shortcodes are not supported."
+msgstr "غير معتمدة الهاتفية القصيرة، التجارة الإلكترونية WD متعددة."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:34
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/orders.php:57
+#, fuzzy
+msgid "Please login"
+msgstr "الرجاء تسجيل الدخول "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:72
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:272
+msgid "Failed to send out the mail with checkout details."
+msgstr "فشل لإرسال البريد مع تفاصيل الخروج."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFChecoutHelper.php:269
+msgid "Please, check your email for checkout details."
+msgstr "من فضلك، تحقق من بريدك الالكتروني للحصول على تفاصيل الخروج."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:230
+msgid "Select country"
+msgstr "اختيار بلدا"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFDb.php:245
+msgid "Select discount"
+msgstr "حدد الخصم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFToolbar.php:63
+msgid "Are you sure you want to delete selected items?"
+msgstr "هل تريد حذف المواضع المحددة؟"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/WDFToolbar.php:63
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:576
+msgid "You must select at least one item."
+msgstr "يجب تحديد عنصر واحد على الأقل."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:698
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/products.php:62
+msgid "Login to rate"
+msgstr "سجل الدخول للتقييم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:701
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/products.php:82
+msgid "You have already rated this product"
+msgstr "لقد سبق وأن تصنيف هذا المنتج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:748
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:753
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:739
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:743
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/shoppingcart.php:130
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/shoppingcart.php:135
+msgid "In stock"
+msgstr "في المخزن"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:758
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:747
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/shoppingcart.php:140
+msgid "Out of stock"
+msgstr "انتهى تسجيل الدورة."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/helpers/WDFProduct.php:885
+msgid "Any category"
+msgstr "أي فئة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:50
+msgid "Size"
+msgstr "الحجم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:58
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:81
+msgid "Inherit"
+msgstr "يرث"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:70
+msgid "Style"
+msgstr "أسلوب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:82
+msgid "Lighter"
+msgstr "الشاعل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:83
+msgid "Normal"
+msgstr "عادي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:84
+msgid "Bold"
+msgstr "جريء"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:85
+msgid "Bolder"
+msgstr "أكثر جرأة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:87
+msgid "Weight"
+msgstr "الوَزْن"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:149
+msgid "Add images"
+msgstr "أضف صورة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:152
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:155
+msgid "Add videos"
+msgstr "أضف فيديوهات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:331
+msgid "Not yet rated"
+msgstr "لم يتم تقييمه بعد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:333
+msgid "Please wait"
+msgstr "الرجاء الانتظار"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:334
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/products.php:77
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/products.php:96
+msgid "Failed to rate"
+msgstr "فشل في معدل"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:516
+msgid "The changes are saved."
+msgstr "يتم حفظ التغييرات."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:521
+msgid "The items are saved."
+msgstr "يتم حفظ العناصر."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:526
+msgid "The items are successfully deleted."
+msgstr "يتم حذف العناصر بنجاح."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:531
+msgid "Failed to delete items."
+msgstr "فشلت في حذف العناصر."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:536
+msgid "The item is successfully set as default."
+msgstr "يتم تعيين البند بنجاح كما الافتراضي."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:541
+msgid "The item is successfully set to read."
+msgstr "وبنجاح تعيين البند للقراءة."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:546
+msgid "The item is successfully set to unread."
+msgstr "يتم تعيين البند بنجاح إلى غير مقروء."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:551
+msgid "The item is successfully published."
+msgstr "تم نشر هذا البند بنجاح."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:556
+msgid "The items are successfully published."
+msgstr "يتم نشر المواد بنجاح."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:561
+msgid "The item is successfully unpublished."
+msgstr "هذا البند هو غير منشورة بنجاح."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:566
+msgid "The items are successfully unpublished."
+msgstr "هي البنود غير منشورة بنجاح."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:571
+msgid "The ordering is successfully saved."
+msgstr "يتم حفظ الطلب بنجاح."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:581
+msgid "The invoice is sent successfully."
+msgstr "يتم إرسال الفاتورة بنجاح."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:586
+msgid "The invoice is not sent."
+msgstr "لم يتم إرسال الفاتورة."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:591
+msgid "The order status is updated. Email sent successfully."
+msgstr "يتم تحديث حالة الطلب. إرسال البريد الإلكتروني بنجاح."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:596
+msgid "The order status is updated. Failed to sent email."
+msgstr "يتم تحديث حالة الطلب. فشل في ارسال البريد الالكتروني."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:601
+msgid "Failed to update order status."
+msgstr "فشل تحديث حالة الطلب."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:606
+msgid "The order status hasn't changed."
+msgstr "لم تتغير حالة الطلب."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:611
+msgid "Failed to save changes."
+msgstr "فشل لحفظ التغييرات."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:616
+msgid "Rating is changed successfully."
+msgstr "تم تغيير تصنيف بنجاح."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:621
+msgid "Rating hasn't changed."
+msgstr "لم يتغير التصنيف."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:626
+msgid "Choose one item."
+msgstr "اختيار عنصر واحد."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:631
+msgid "Failed to update default item."
+msgstr "فشل تحديث العنصر الافتراضي."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:636
+msgid "Default item is set successfully."
+msgstr "تم تعيين العنصر الافتراضي بنجاح."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:641
+msgid "You can't delete default item."
+msgstr "لا يمكنك حذف العنصر الافتراضي."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:646
+msgid "You can't delete basic item."
+msgstr "لا يمكنك حذف البند الأساسي."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:651
+msgid "File doesn't exist."
+msgstr "الملف غير موجود."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:656
+msgid "Template successfully created."
+msgstr "قالب إنشاء بنجاح."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:661
+msgid "Failed."
+msgstr "خطأ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:666
+msgid "Template couldn't be empty."
+msgstr "القالب لا يمكن أن تكون فارغة."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:671
+msgid "Templates successfully created."
+msgstr "قوالب إنشاء بنجاح."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:676
+msgid "Template couldn't be created."
+msgstr "لا يمكن إنشاء القالب."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:681
+msgid "You must manually insert the code to display the item."
+msgstr "يجب إدراج رمز لعرض العنصر يدويا."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:745
+msgid "This option is disabled in free version."
+msgstr "تم تعطيل هذا الخيار في نسخة مجانية."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/html/WDFHTML.php:777
+#, php-format
+msgid "No %s found."
+msgstr "لا٪ الصورة تم العثور عليها."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/mvc/WDFAdminViewBase.php:84
+msgid "Please sort by order to enable reordering"
+msgstr "يرجى ترتيب النتائج بحسب أجل تمكين إعادة ترتيب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/framework/mvc/WDFSiteControllerBase.php:27
+msgid "Warning: "
+msgstr "تحذير: "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/paypalexpress.php:70
+msgid "Invalid token"
+msgstr "رمز غير صحيح"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/paypalexpress.php:140
+msgid "Checkout failed"
+msgstr "فشل الخروج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/paypalexpress.php:180
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/paypalstandard.php:77
+msgid "Checkout canceled"
+msgstr "الخروج إلغاء"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/products.php:99
+msgid "Successfully rated"
+msgstr "مصنفة بنجاح"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:53
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:92
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:146
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:179
+msgid "Failed to add to cart"
+msgstr "فشل إضافة إلى السلة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:175
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:209
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:276
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:336
+msgid "Failed to update item"
+msgstr "فشل تحديث البند"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:237
+msgid "Successfully added to cart"
+msgstr "وأضاف بنجاح إلى السلة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:263
+msgid "Quantity at least must be one"
+msgstr "الكمية يجب أن تكون على الأقل واحد"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:381
+msgid "Failed to remove items."
+msgstr "فشل لإزالة العناصر."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:421
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:443
+msgid "Failed to add your products to the cart"
+msgstr "فشل لإضافة المنتجات إلى عربة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:458
+msgid "Failed to add product(s) to your cart"
+msgstr "فشل لإضافة منتج (ق) إلى عربة التسوق"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:463
+msgid "Guest products added"
+msgstr "منتجات ضيف أضافت"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/shoppingcart.php:542
+msgid "Products no longer available"
+msgstr "منتجات لم تعد متوفرة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/usermanagement.php:38
+msgid "Failed to update user data"
+msgstr "فشل تحديث بيانات المستخدم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/controllers/usermanagement.php:45
+msgid "User data updated"
+msgstr "تجديد بيانات المستخدم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/categories.php:108
+msgid "All categories"
+msgstr "جميع الفئات"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:283
+msgid "No products to checkout"
+msgstr "لا توجد منتجات لالخروج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:966
+msgid "Without online payment"
+msgstr "دون دفع عبر الإنترنت"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:977
+msgid "Pay with paypal"
+msgstr "تدفع مع باي بال"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:987
+msgid "Pay with paypal express"
+msgstr "دفع مع صريحة باي بال"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:998
+msgid "Pay with authorizenet AIM"
+msgstr "دفع مع AIM authorizenet"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1006
+msgid "Pay with authorizenet SIM"
+msgstr "دفع مع authorizenet SIM"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1014
+msgid "Pay with authorizenet DPM"
+msgstr "دفع مع DPM authorizenet"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1021
+msgid "Pay with stripe"
+msgstr "دفع مع شريط"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1082
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1094
+msgid "Confirm order"
+msgstr "أكد الطلب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/checkout.php:1393
+msgid "Products will not ship to your country"
+msgstr "والمنتجات التي لا السفينة الى بلدكم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/orders.php:59
+msgid "Wrong request"
+msgstr "طلب الخطأ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/products.php:71
+msgid "Select product"
+msgstr "حدد المنتج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/shoppingcart.php:116
+msgid "Discount"
+msgstr "خصم"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/systempages.php:36
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/systempages.php:40
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/models/systempages.php:44
+msgid "Error"
+msgstr "خطأ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/orders/tmpl/displayorder.php:24
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/orders/tmpl/displayorders.php:101
+msgid "Order ID"
+msgstr "رقم الطلب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/orders/tmpl/displayorder.php:66
+msgid "Product ID"
+msgstr "معرف المنتج"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/orders/tmpl/displayorder.php:117
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:148
+msgid "Quantity"
+msgstr "الكمية"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproduct.php:425
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproducts_arrangementlist.php:235
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproducts_arrangementthumbs.php:225
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproducts_quickview.php:280
+msgid "Product already added to cart"
+msgstr "وأضاف المنتج بالفعل إلى السلة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproducts_arrangementthumbs.php:225
+msgid "Add to cart"
+msgstr "إضافة إلى العربة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/products/tmpl/displayproducts_bartop.php:45
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/frontend/views/shoppingcart/tmpl/displayshoppingcart.php:111
+msgid "- Select -"
+msgstr "- اختر -"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:95
+msgid "Invoice view"
+msgstr "عرض الفاتورة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:102
+msgid "Date Added"
+msgstr "تاريخ إضافة "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:106
+msgid "Order Id"
+msgstr "رقم الطلب"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:110
+msgid "Invoice number"
+msgstr "رقم الفاتورة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:114
+msgid "Payment Method"
+msgstr "طريقة الدفع"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:123
+msgid "To"
+msgstr "إلى "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:124
+msgid "Ship To"
+msgstr "ارسال الى"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:149
+msgid "Unit Price"
+msgstr "سعر الوحدة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:152
+msgid "Sub-Total:"
+msgstr "المجموع الجزئي"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/helpers/order.php:191
+msgid "Total"
+msgstr "المجموع"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:201
+msgid "Leave A Review?"
+msgstr "ترك استعراض؟"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:202
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+"نأمل أن تكون قد استمتعت باستخدام وورد٪ المفضل قد تفكر في ترك تعليق على "
+"WordPress.org؟"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:203
+msgid "Sure! I'd love to!"
+msgstr "بالتأكيد! أحب أن!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:204
+msgid "I've already left a review"
+msgstr "لقد غادر بالفعل مراجعة"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:205
+msgid "Maybe Later"
+msgstr "ربما لاحقا"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:206
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:216
+msgid "Never show again"
+msgstr "لم تظهر مرة أخرى"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:212
+msgid "Hey! How's It Going?"
+msgstr "مهلا! كيف تجري الامور؟"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:213
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+"شكرا لك على استخدام وورد٪ المفضل نأمل أن كنت قد وجدت كل ما تحتاجه، ولكن إذا "
+"كان لديك أي أسئلة:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:214
+#, fuzzy
+msgid "Check out User Guide"
+msgstr "الخروج هذا البند"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\ecommerce-wd-free/notices/notices.php:215
+msgid "Get Some Help"
+msgstr "الحصول على بعض المساعدة"
+
+#~ msgctxt "post type general name"
+#~ msgid "Ecommerce Page"
+#~ msgstr "التجارة الإلكترونية الصفحة"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Ecommerce Page"
+#~ msgstr "التجارة الإلكترونية الصفحة"
+
+#~ msgctxt "admin menu"
+#~ msgid "Ecommerce Pages"
+#~ msgstr "الصفحات الإلكترونية"
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Ecommerce Page"
+#~ msgstr "التجارة الإلكترونية الصفحة"
+
+#~ msgid "BILLING_DATA"
+#~ msgstr "بيانات الفواتير"
+
+#~ msgid "Total tax"
+#~ msgstr "مجموع الضريبة"
+
+#~ msgid "Total shipping"
+#~ msgstr "إجمالي الشحن"
+
+#~ msgid "Order total"
+#~ msgstr "مجموع مبلغ الطلب"
+
+#~ msgid "Add new"
+#~ msgstr "إضافة جديدا"
+
+#~ msgid "TAX"
+#~ msgstr "الضريبة"
+
+#~ msgid "Add files"
+#~ msgstr "أضاف ملفات"
+
+#~ msgid "Change thumbnail"
+#~ msgstr "تغيير الصورة المصغرة"
+
+#~ msgid "Click to sort by this item"
+#~ msgstr "انقر لترتيب النتائج بحسب هذا البند"
+
+#~ msgid "This feature is disabled for the non-commercial version."
+#~ msgstr "تم تعطيل هذه الميزة لنسخة غير التجاري."
+
+#~ msgid "%s item"
+#~ msgid_plural "%s items"
+#~ msgstr[0] " البند"
+#~ msgstr[1] "%s البند"
+#~ msgstr[2] ""
+
+#~ msgid "Go to the first page"
+#~ msgstr "الذهاب إلى الصفحة الأولى"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "انتقل إلى الصفحة السابقة"
+
+#~ msgid "Go to the page"
+#~ msgstr "انتقل إلى الصفحة"
+
+#~ msgid "Of"
+#~ msgstr "من"
+
+#~ msgid "Go to the next page"
+#~ msgstr "الذهاب إلى الصفحة التالية"
+
+#~ msgid "Go to the last page"
+#~ msgstr "انتقل إلى الصفحة الأخيره"
+
+#~ msgctxt "post type general name"
+#~ msgid "Categories"
+#~ msgstr "التصنيفات"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Category"
+#~ msgstr "التصنيفات"
+
+#~ msgctxt "admin menu"
+#~ msgid "Categories"
+#~ msgstr "التصنيفات"
+
+#~ msgctxt "admin menu"
+#~ msgid "All Categories"
+#~ msgstr "جميع الفئات"
+
+#~ msgctxt "post type general name"
+#~ msgid "Countries"
+#~ msgstr "الدول"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Country"
+#~ msgstr "الدولة"
+
+#~ msgctxt "admin menu"
+#~ msgid "Countries"
+#~ msgstr "الدول"
+
+#~ msgctxt "admin menu"
+#~ msgid "All Countries"
+#~ msgstr "كل البلدان"
+
+#~ msgctxt "post type general name"
+#~ msgid "Discounts"
+#~ msgstr "التخفيضات في عام "
+
+#~ msgctxt "post type singular name"
+#~ msgid "Discount"
+#~ msgstr "خصم"
+
+#~ msgctxt "admin menu"
+#~ msgid "Discounts"
+#~ msgstr "التخفيضات في عام"
+
+#~ msgctxt "admin menu"
+#~ msgid "All Discounts"
+#~ msgstr "جميع الخصومات"
+
+#~ msgctxt "post type general name"
+#~ msgid "Labels"
+#~ msgstr "التسميات"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Label"
+#~ msgstr "العنوان"
+
+#~ msgctxt "admin menu"
+#~ msgid "Labels"
+#~ msgstr "التسميات"
+
+#~ msgctxt "admin menu"
+#~ msgid "All Labels"
+#~ msgstr "جميع العلامات"
+
+#~ msgctxt "post type general name"
+#~ msgid "Manufacturers"
+#~ msgstr "المصنعين"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Manufacturer"
+#~ msgstr "الشركة المصنعة"
+
+#~ msgctxt "admin menu"
+#~ msgid "Manufacturers"
+#~ msgstr "المصنعين"
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Manufacturer"
+#~ msgstr "الشركة المصنعة"
+
+#~ msgid "Filter by category"
+#~ msgstr "تصفية حسب الفئة"
+
+#~ msgid "Order direction"
+#~ msgstr "الاتجاه ترتيب"
+
+#~ msgid "Arrangement"
+#~ msgstr "ترتيب"
+
+#~ msgid "List"
+#~ msgstr "قائمة"
+
+#~ msgid "Filter by manufacturer"
+#~ msgstr "مرشح من قبل الشركة المصنعة"
+
+#~ msgid "Filter by maximum price"
+#~ msgstr "تصفية حسب السعر الأقصى"
+
+#~ msgid "Filter by minimum price"
+#~ msgstr "تصفية حسب السعر الأدنى"
+
+#~ msgid "Filter by date added"
+#~ msgstr "تصفية حسب تاريخ الاضافة"
+
+#~ msgid "Filter by minimum rating"
+#~ msgstr "تصفية حسب الحد الأدنى تصنيف"
+
+#~ msgid "Filter by tags"
+#~ msgstr "مرشح بالسمات"
+
+#~ msgid "Order by"
+#~ msgstr "ترتيب حسب"
+
+#~ msgctxt "post type general name"
+#~ msgid "Parameters"
+#~ msgstr "المعاملات"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Parameter"
+#~ msgstr "عامل"
+
+#~ msgctxt "admin menu"
+#~ msgid "Parameters"
+#~ msgstr "المعاملات"
+
+#~ msgctxt "admin menu"
+#~ msgid "All Parameters"
+#~ msgstr "جميع المعلمات"
+
+#~ msgctxt "post type general name"
+#~ msgid "Products"
+#~ msgstr "المنتجات "
+
+#~ msgctxt "post type singular name"
+#~ msgid "Product"
+#~ msgstr "الكتاب"
+
+#~ msgctxt "admin menu"
+#~ msgid "Products"
+#~ msgstr "المنتجات "
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Product"
+#~ msgstr "الكتاب"
+
+#~ msgid ""
+#~ "Show short description of product on all progucts page and single product "
+#~ "pages."
+#~ msgstr "إظهار وصف قصير من المنتج على كل صفحة progucts وصفحات منتج واحد."
+
+#~ msgid "&mdash; No change &mdash;"
+#~ msgstr "و[مدش]؛ أي تغيير و[مدش]؛"
+
+#~ msgid "&mdash; Remove discount &mdash;"
+#~ msgstr "و[مدش]؛ إزالة الخصم و[مدش]؛"
+
+#~ msgid "&mdash; Remove tax &mdash;"
+#~ msgstr "و[مدش]؛ إزالة الضرائب و[مدش]؛"
+
+#~ msgid "Shipping method"
+#~ msgstr "طريقة الشحن"
+
+#~ msgid "Remove shipping methods"
+#~ msgstr "إزالة وسائل النقل البحري"
+
+#~ msgctxt "post type general name"
+#~ msgid "Shipping methods"
+#~ msgstr "طرق الشحن"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Shipping method"
+#~ msgstr "طريقة الشحن"
+
+#~ msgctxt "admin menu"
+#~ msgid "Shipping methods"
+#~ msgstr "طرق الشحن"
+
+#~ msgctxt "admin menu"
+#~ msgid "All Shipping methods"
+#~ msgstr "جميع وسائل النقل البحري"
+
+#~ msgctxt "post type general name"
+#~ msgid "Tags"
+#~ msgstr "الكلمات"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Tag"
+#~ msgstr "بطاقة (بطاقات"
+
+#~ msgctxt "admin menu"
+#~ msgid "Tags"
+#~ msgstr "الكلمات"
+
+#~ msgctxt "admin menu"
+#~ msgid "All Tags"
+#~ msgstr "كل الوسوم"
+
+#~ msgctxt "post type general name"
+#~ msgid "Taxes"
+#~ msgstr "الضرائب"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Tax"
+#~ msgstr "ضريبة"
+
+#~ msgctxt "admin menu"
+#~ msgid "Taxes"
+#~ msgstr "الضرائب"
+
+#~ msgctxt "admin menu"
+#~ msgid "All Taxes"
+#~ msgstr ""
+#~ "* الرجاء التأكد من أن جعل تأكيد الحجز. * هذا لا يتم تأكيد الحجز فقط "
+#~ "معلومات الحزمة."
+
+#~ msgid "Add theme"
+#~ msgstr "إضافة موضوع"
+
+#~ msgid "Save and copy"
+#~ msgstr "حفظ ونسخ"
+
+#~ msgid "Edit theme"
+#~ msgstr "تعديل الثيم"
+
+#~ msgid "Meta title"
+#~ msgstr "عنوان ميتا"
+
+#~ msgid "Meta description"
+#~ msgstr "وصف البيانات :"
+
+#~ msgid "Meta keywords"
+#~ msgstr "كلمات دلالية"
+
+#~ msgid "Images"
+#~ msgstr "الصور "
+
+#~ msgid "Show info"
+#~ msgstr "تظهر المعلومات"
+
+#~ msgid "Show products"
+#~ msgstr "عرض المنتجات"
+
+#~ msgid "Number of products"
+#~ msgstr "عدد المنتجات"
+
+#~ msgid "Show subcategories"
+#~ msgstr "عرض الفئات الفرعية"
+
+#~ msgid "Show hierarchy"
+#~ msgstr "مشاهدة التسلسل الهرمي"
+
+#~ msgid "Number of columns"
+#~ msgstr "عدد الأعمدة"
+
+#~ msgid "Code"
+#~ msgstr "كود"
+
+#~ msgid "Edit"
+#~ msgstr "تحرير"
+
+#~ msgid "Sign"
+#~ msgstr "إشارة"
+
+#~ msgid "Sign position"
+#~ msgstr "موقف علامة"
+
+#~ msgid "Currency"
+#~ msgstr "العملة"
+
+#~ msgid ""
+#~ "* This currency is supported as a payment currency and a currency balance "
+#~ "for in-country PayPal accounts only."
+#~ msgstr ""
+#~ "* دعم هذه العملة كعملة دفع وتوازن العملة في البلاد حسابات باي بال فقط."
+
+#~ msgid "Position"
+#~ msgstr "موضع"
+
+#~ msgid "Top left"
+#~ msgstr "أعلى اليسار"
+
+#~ msgid "Top right"
+#~ msgstr "أعلى اليسار"
+
+#~ msgid "Bottom left"
+#~ msgstr "الزرار اليساري"
+
+#~ msgid "Bottom right"
+#~ msgstr "أسفل يمين"
+
+#~ msgid "Enable checkout"
+#~ msgstr "تمكين الخروج"
+
+#~ msgid "Allow guest checkout"
+#~ msgstr "السماح الخروج ضيف"
+
+#~ msgid "Redirect to cart after adding an item"
+#~ msgstr "إعادة توجيه إلى السلة بعد إضافة عنصر"
+
+#~ msgid ""
+#~ "To add a new payment or edit the existing one, please click on the button."
+#~ msgstr "لإضافة دفعة جديدة أو تعديل واحد موجود، الرجاء الضغط على زر."
+
+#~ msgid "Payments systems"
+#~ msgstr "نظم المدفوعات"
+
+#~ msgid "Are you sure you want to continue? Unsaved changes will be lost."
+#~ msgstr "هل أنت متأكد أنك تريد المتابعة؟ سيتم فقدان التغييرات غير المحفوظة."
+
+#~ msgid "Administrator email"
+#~ msgstr "البريد الإلكتروني للمشرف"
+
+#~ msgid "Email From"
+#~ msgstr "البريد الإلكتروني من"
+
+#~ msgid "From name"
+#~ msgstr "من الاسم"
+
+#~ msgid "Mailer"
+#~ msgstr "الارسال"
+
+#~ msgid "Customer note email is sent when you change the status of the order."
+#~ msgstr "يتم إرسال البريد الإلكتروني مذكرة للعملاء عند تغيير وضع النظام."
+
+#~ msgid "Email is sent to customer when orders have been marked failed."
+#~ msgstr "يتم إرسال بريد إلكتروني إلى العميل عند اتسمت أوامر الفاشلة."
+
+#~ msgid "Email is sent to customer when orders have been marked refunded."
+#~ msgstr "يتم إرسال بريد إلكتروني إلى العميل عند اتسمت أوامر ردها."
+
+#~ msgid "Email is sent to customer when orders have been marked completed."
+#~ msgstr ""
+#~ "يتم إرسال بريد إلكتروني إلى العملاء عندما تم وضع علامة على الانتهاء من "
+#~ "أوامر."
+
+#~ msgid "Email is sent to customer when orders have been marked pending."
+#~ msgstr "يتم إرسال بريد إلكتروني إلى العميل عند اتسمت الأوامر المعلقة."
+
+#~ msgid "Email is sent to customer when orders have been marked canceled."
+#~ msgstr ""
+#~ "يتم إرسال بريد إلكتروني إلى العملاء عندما تم وضع علامة على إلغاء أوامر."
+
+#~ msgid ""
+#~ "Customer invoice email manually sent to customers containing their order "
+#~ "information and seller information."
+#~ msgstr ""
+#~ "فاتورة الزبون البريد الإلكتروني أرسلت يدويا للعملاء تحتوي على معلومات "
+#~ "ترتيبها والمعلومات البائع."
+
+#~ msgid "Send Email when"
+#~ msgstr "إرسال البريد الإلكتروني عندما"
+
+#~ msgid "Send Email to Customer"
+#~ msgstr "إرسال البريد الإلكتروني للعميل"
+
+#~ msgid "Subject"
+#~ msgstr "موضوع"
+
+#~ msgid "Mode"
+#~ msgstr "طريقة"
+
+#~ msgid "Text in Email"
+#~ msgstr "النص في البريد الإلكتروني"
+
+#~ msgid "Only for registered users"
+#~ msgstr "فقط للمستخدمين المسجلين"
+
+#~ msgid "Click to insert to text in Email"
+#~ msgstr "انقر لإدراج إلى نص في البريد الإلكتروني"
+
+#~ msgid "Date format"
+#~ msgstr "صيغة التاريخصيغة التاريخ"
+
+#~ msgid "Display price with decimals"
+#~ msgstr "سعر العرض مع الكسور العشرية"
+
+#~ msgid "Add/Edit countries"
+#~ msgstr "إضافة بلدان / تعديل"
+
+#~ msgid ""
+#~ "To add a new country or edit the existing one, please click on the button."
+#~ msgstr "لإضافة دولة جديدة أو تعديل واحد موجود، الرجاء الضغط على زر."
+
+#~ msgid "Add/Edit currencies"
+#~ msgstr "إضافة / تحرير العملات"
+
+#~ msgid ""
+#~ "To add a new currency or edit the existing one, please click on the "
+#~ "button."
+#~ msgstr "لإضافة عملة جديدة أو تعديل واحد موجود، الرجاء الضغط على زر."
+
+#~ msgid "Add/Edit order statuses"
+#~ msgstr "إضافة / تعديل الأوضاع أجل"
+
+#~ msgid ""
+#~ "To add a new order status or edit the existing one, please click on the "
+#~ "button."
+#~ msgstr "لإضافة وضع نظام جديد أو تعديل واحد موجود، الرجاء الضغط على زر."
+
+#~ msgid "Access the wizard again"
+#~ msgstr "الوصول إلى المعالج مرة أخرى"
+
+#~ msgid ""
+#~ "If you need to access the setup wizard again, please click on the button."
+#~ msgstr ""
+#~ "إذا كنت بحاجة إلى الوصول إلى معالج الإعداد مرة أخرى، الرجاء النقر على "
+#~ "الزر."
+
+#~ msgid "Manage Product/Category/Manufacturer templates"
+#~ msgstr "إدارة قوالب المنتج / الفئة / الصانع"
+
+#~ msgid "Enable search"
+#~ msgstr "تمكين البحث"
+
+#~ msgid "Search by category"
+#~ msgstr "البحث حسب الفئة"
+
+#~ msgid "Hierarchical categories "
+#~ msgstr "فئات الهرمية "
+
+#~ msgid "Filter by manufacturers"
+#~ msgstr "مرشح من قبل الشركات المصنعة"
+
+#~ msgid "Filter by price"
+#~ msgstr "تصفية حسب السعر"
+
+#~ msgid "Sort by name"
+#~ msgstr "الترتيب حسب الاسم"
+
+#~ msgid "Sort by manufacturer"
+#~ msgstr "نوع من قبل الشركة المصنعة"
+
+#~ msgid "Sort by price"
+#~ msgstr "فرز حسب السعر"
+
+#~ msgid "Sort by number of reviews"
+#~ msgstr "ترتيب حسب: عدد من الاستعراضات"
+
+#~ msgid "Sort by rating"
+#~ msgstr "الترتيب حسب التقييم"
+
+#~ msgid "Weight unit"
+#~ msgstr "وحدة الوزن"
+
+#~ msgid "Dimensions unit"
+#~ msgstr "وحدة الأبعاد"
+
+#~ msgid "SKU"
+#~ msgstr "SKU"
+
+#~ msgid "UPC"
+#~ msgstr "اتحاد الوطنيين الكونغوليين"
+
+#~ msgid "EAN"
+#~ msgstr "EAN"
+
+#~ msgid "JAN"
+#~ msgstr "JAN"
+
+#~ msgid "ISBN"
+#~ msgstr "ISBN"
+
+#~ msgid "MPN"
+#~ msgstr "مبن"
+
+#~ msgid "Enable product rating"
+#~ msgstr "تمكين تصنيف المنتج"
+
+#~ msgid "Enable product reviews"
+#~ msgstr "تمكين استعراض المنتجات"
+
+#~ msgid "Share buttons"
+#~ msgstr "أزرار المشاركة"
+
+#~ msgid "Enable buttons"
+#~ msgstr "تمكين أزرار"
+
+#~ msgid "Facebook comments"
+#~ msgstr "تعليقات الفيسبوك"
+
+#~ msgid "Use Facebook comments instead of reviews"
+#~ msgstr "استخدام التعليقات الفيسبوك بدلا من الاستعراضات"
+
+#~ msgid "Color scheme"
+#~ msgstr "نظام الألوان"
+
+#~ msgid ""
+#~ "Fill in the slug. Note that it should be unique. Use letters and dashes "
+#~ "avoiding additional characters, symbols or numbers."
+#~ msgstr ""
+#~ "في ملء سبيكة. لاحظ أنه يجب أن تكون فريدة من نوعها. استخدام الحروف وشرطات "
+#~ "تجنب أحرف إضافية أو الرموز أو الأرقام."
+
+#~ msgid ""
+#~ "To add a new discount or edit the existing one, please click on the "
+#~ "button."
+#~ msgstr "لإضافة خصم جديد أو تعديل واحد موجود، الرجاء الضغط على زر."
+
+#~ msgid "Manage discount"
+#~ msgstr "إدارة خصم"
+
+#~ msgid ""
+#~ "To add a new tax or edit the existing one, please click on the button."
+#~ msgstr "لإضافة ضريبة جديدة أو تعديل واحد موجود، الرجاء الضغط على زر."
+
+#~ msgid "Manage tax"
+#~ msgstr "إدارة الضرائب"
+
+#~ msgid "Shipping rate calculation"
+#~ msgstr "حساب معدل الشحن"
+
+#~ msgid "Product name"
+#~ msgstr "اسم المنتج:"
+
+#~ msgid "Product image"
+#~ msgstr "صورة المنتج:"
+
+#~ msgid "Subtotal"
+#~ msgstr "المجموع الفرعي:"
+
+#~ msgid "Are you sure you want to delete this item?"
+#~ msgstr "هل أنت متأكد أنك تريد حذف هذا البند؟"
+
+#~ msgid "Payment status"
+#~ msgstr "حالة السداد"
+
+#~ msgid "Actions"
+#~ msgstr "الإجراءات"
+
+#~ msgid "by"
+#~ msgstr "من قبل"
+
+#~ msgid "View payment data"
+#~ msgstr "عرض بيانات الدفع"
+
+#~ msgid "Print"
+#~ msgstr "طباعة"
+
+#~ msgid "Send invoice to cusotmer"
+#~ msgstr "إرسال الفاتورة إلى cusotmer"
+
+#~ msgid "Delete order"
+#~ msgstr "حذف ترتيب"
+
+#~ msgid "Send invoice"
+#~ msgstr "أرسل فاتورة"
+
+#~ msgid "Main data"
+#~ msgstr "البيانات الرئيسي"
+
+#~ msgid "Customer"
+#~ msgstr "زبون"
+
+#~ msgid "Customer IP"
+#~ msgstr "IP العملاء"
+
+#~ msgid "Payment method"
+#~ msgstr "طريقة الدفع"
+
+#~ msgid "Order products"
+#~ msgstr "طلب المنتجات"
+
+#~ msgid "User IP address"
+#~ msgstr "عنوان IP المستخدم"
+
+#~ msgid "Status"
+#~ msgstr "الحالة"
+
+#~ msgid "SHOW_AND_REQUIRE"
+#~ msgstr "SHOW_AND_REQUIRE"
+
+#~ msgid "Stock Keeping Unit"
+#~ msgstr "وحدة حفظ الأوراق المالية"
+
+#~ msgid "Universal Product Code"
+#~ msgstr "رمز المنتج العالمي"
+
+#~ msgid "European Article Number"
+#~ msgstr "الأوروبي مقال رقم"
+
+#~ msgid "Japanese Article Number"
+#~ msgstr "الياباني مقال رقم"
+
+#~ msgid "International Standard Book Number"
+#~ msgstr "رقم دولي معياري للكتاب"
+
+#~ msgid "Manufacturer Part Number"
+#~ msgstr "الصانع الجزء رقم"
+
+#~ msgid "CATEGORY"
+#~ msgstr "حالة الحجز"
+
+#~ msgid "Videos"
+#~ msgstr "أفلام الفيديو"
+
+#~ msgid "Ordering"
+#~ msgstr "ترتيب"
+
+#~ msgid "Values"
+#~ msgstr "القيم :"
+
+#~ msgid "Enable shipping"
+#~ msgstr "تمكين الشحن:"
+
+#~ msgid "Dimensions (LxWxH)"
+#~ msgstr " الأبعاد: (LxWxH)"
+
+#~ msgid "Sales in this period"
+#~ msgstr "المبيعات في هذه الفترة"
+
+#~ msgid "Orders placed"
+#~ msgstr "الطلبات"
+
+#~ msgid "Items purchased"
+#~ msgstr "البنود التي تم شراؤها"
+
+#~ msgid "Charged for shipping"
+#~ msgstr "تهمة الشحن"
+
+#~ msgid ""
+#~ "The selected range contains more than one currency. Thus it is not "
+#~ "possible to generate a report."
+#~ msgstr ""
+#~ "النطاق المحدد يحتوي على أكثر من عملة واحدة. وبالتالي فإنه ليس من الممكن "
+#~ "لإنشاء تقرير."
+
+#~ msgid "Countries"
+#~ msgstr "الدول"
+
+#~ msgid "To set for all countries leave the field empty."
+#~ msgstr "لتعيين لجميع البلدان إلى ترك الحقل فارغا."
+
+#~ msgid "Free shipping for orders over a certain price"
+#~ msgstr "الشحن مجانا للأوامر ما يزيد على سعر معين"
+
+#~ msgid "HTML template"
+#~ msgstr "قالب HTML"
+
+#~ msgid "Rounded corners"
+#~ msgstr "زوايا مدورة"
+
+#~ msgid "Elements"
+#~ msgstr "عناصر"
+
+#~ msgid "Components"
+#~ msgstr "مكونات"
+
+#~ msgid "Single Item"
+#~ msgstr "عنصر واحد"
+
+#~ msgid "Multiple Items"
+#~ msgstr "عناصر متعددة"
+
+#~ msgid "Nav bar"
+#~ msgstr "شريط التنقل"
+
+#~ msgid "Bar"
+#~ msgstr "بار"
+
+#~ msgid "Background"
+#~ msgstr "خلفية"
+
+#~ msgid "Border"
+#~ msgstr "الحدود"
+
+#~ msgid "Toggle"
+#~ msgstr "تبديل"
+
+#~ msgid "Item"
+#~ msgstr "بند"
+
+#~ msgid "Link"
+#~ msgstr "صلة"
+
+#~ msgid "Content"
+#~ msgstr "محتوى"
+
+#~ msgid "Hover content"
+#~ msgstr "محتوى تحوم"
+
+#~ msgid "Open content"
+#~ msgstr "محتوى مفتوح"
+
+#~ msgid "Open background"
+#~ msgstr "خلفية مفتوحة"
+
+#~ msgid "Badge"
+#~ msgstr "شارة"
+
+#~ msgid "Dropdown"
+#~ msgstr "اسقاط"
+
+#~ msgid "Item content"
+#~ msgstr "محتوى البند"
+
+#~ msgid "Item hover content"
+#~ msgstr "البند محتوى تحوم"
+
+#~ msgid "Item hover background"
+#~ msgstr "البند الخلفية تحوم"
+
+#~ msgid "Divider"
+#~ msgstr "مقسم"
+
+#~ msgid "Modal"
+#~ msgstr "شكلي"
+
+#~ msgid "Backdrop"
+#~ msgstr "خلفية"
+
+#~ msgid "Dividers"
+#~ msgstr "فواصل"
+
+#~ msgid "Modal header"
+#~ msgstr "رأس مشروط"
+
+#~ msgid "Modal body"
+#~ msgstr "هيئة مشروط"
+
+#~ msgid "Modal footer"
+#~ msgstr "تذييل مشروط"
+
+#~ msgid "User data panel"
+#~ msgstr "لوحة بيانات المستخدم"
+
+#~ msgid "Footer background"
+#~ msgstr "خلفية تذييل"
+
+#~ msgid "Panel header"
+#~ msgstr "رأس لوحة"
+
+#~ msgid "Value"
+#~ msgstr "القيمة"
+
+#~ msgid "Panel footer"
+#~ msgstr "تذييل لوحة"
+
+#~ msgid "Product panel"
+#~ msgstr "لوحة المنتج"
+
+#~ msgid "Well"
+#~ msgstr "جيد"
+
+#~ msgid "Well content"
+#~ msgstr "محتوى جيد"
+
+#~ msgid "Colors"
+#~ msgstr "ألوان"
+
+#~ msgid "Star"
+#~ msgstr "٤ نجمة"
+
+#~ msgid "Alert"
+#~ msgstr "إنذار"
+
+#~ msgid "Info"
+#~ msgstr "معلومات"
+
+#~ msgid "Danger"
+#~ msgstr "الخَطَر"
+
+#~ msgid "Font"
+#~ msgstr "الخطوط"
+
+#~ msgid "Breadcrumb"
+#~ msgstr "التفصيلي"
+
+#~ msgid "PILLS"
+#~ msgstr " حبات "
+
+#~ msgid "LINKS"
+#~ msgstr "الروابط"
+
+#~ msgid "CONTENT"
+#~ msgstr "المحتوى:"
+
+#~ msgid "HOVER_CONTENT"
+#~ msgstr "HOVER_CONTENT"
+
+#~ msgid "HOVER_BACKGROUND"
+#~ msgstr "HOVER_BACKGROUND"
+
+#~ msgid "PILL"
+#~ msgstr "حبه (دواء)"
+
+#~ msgid "Tabs"
+#~ msgstr "علامات التبويب"
+
+#~ msgid "Hover background"
+#~ msgstr "تحوم الخلفية"
+
+#~ msgid "Active content"
+#~ msgstr "المحتوى النشط"
+
+#~ msgid "Active background"
+#~ msgstr "خلفية النشطة"
+
+#~ msgid "Tab"
+#~ msgstr "لسان (ألسنة) / بطاقة"
+
+#~ msgid "Pagination"
+#~ msgstr "ترقيم الصفحات"
+
+#~ msgid "Pages"
+#~ msgstr "الصفحات"
+
+#~ msgid "Header"
+#~ msgstr "القسم العلوي"
+
+#~ msgid "Color"
+#~ msgstr "اللون"
+
+#~ msgid "Subtext"
+#~ msgstr "ضمني"
+
+#~ msgid "Input"
+#~ msgstr "مدخل"
+
+#~ msgid "Border on focus"
+#~ msgstr "الحدود على التركيز"
+
+#~ msgid "Input with error"
+#~ msgstr "الإدخال مع الخطأ"
+
+#~ msgid "Inputs font"
+#~ msgstr "مدخلات الخط"
+
+#~ msgid "Buttons"
+#~ msgstr "أزرار"
+
+#~ msgid "Primary"
+#~ msgstr "أَولي:"
+
+#~ msgid "Success"
+#~ msgstr "نجاح"
+
+#~ msgid "Buttons font"
+#~ msgstr "أزرار الخط"
+
+#~ msgid "Styles"
+#~ msgstr "الأنماط"
+
+#~ msgid "Item name"
+#~ msgstr "اسم الصنف"
+
+#~ msgid "Filters"
+#~ msgstr "مرشحات"
+
+#~ msgid "On top (with search bar)"
+#~ msgstr "على رأس (مع شريط البحث)"
+
+#~ msgid "On left"
+#~ msgstr "على اليسار"
+
+#~ msgid "Hidden"
+#~ msgstr "مخفي"
+
+#~ msgid "Number of products in page (by default)"
+#~ msgstr "عدد المنتجات في الصفحة (افتراضيا)"
+
+#~ msgid "Columns (Thumbnail view)"
+#~ msgstr "أعمدة (عرض صورة مصغرة)"
+
+#~ msgid "For desktops"
+#~ msgstr "لسطح المكتب"
+
+#~ msgid "For tablets"
+#~ msgstr "بالنسبة للأجهزة اللوحية"
+
+#~ msgid "For phones"
+#~ msgstr "للهواتف"
+
+#~ msgid "View data"
+#~ msgstr "عرض البيانات"
+
+#~ msgid "Product codes"
+#~ msgstr "رموز المنتج"
+
+#~ msgid ""
+#~ "Deactivating ecommerce WordPress plugin does not remove any data that may "
+#~ "have been created, to completely remove this plugin, you can uninstall it "
+#~ "here."
+#~ msgstr ""
+#~ "إلغاء تنشيط التجارة الإلكترونية وورد البرنامج المساعد لا يزيل أية بيانات "
+#~ "قد تم إنشاؤها، لإزالة هذا البرنامج المساعد، يمكنك إلغاء تثبيته هنا."
+
+#~ msgid "warning"
+#~ msgstr "تحذير"
+
+#~ msgid ""
+#~ "Once uninstalled, this can't be undone, you should use a database backup "
+#~ "plugin of Wordpress to back up all the data first."
+#~ msgstr ""
+#~ "مرة واحدة إلغاء تثبيت، وهذا لا يمكن التراجع عنها، يجب عليك استخدام "
+#~ "البرنامج المساعد احتياطية من قاعدة بيانات من وورد لنسخة احتياطية من كافة "
+#~ "البيانات أولا."
+
+#~ msgid "If you want to remove the sample data press this button."
+#~ msgstr "إذا كنت ترغب في إزالة الصحافة بيانات العينة على هذا الزر."
+
+#~ msgid "Remove sample data"
+#~ msgstr "إزالة البيانات عينة"
+
+#~ msgid ""
+#~ "The following database tables,custom posts and taxonomy terms will be "
+#~ "deleted"
+#~ msgstr ""
+#~ "جداول قاعدة البيانات التالية، سيتم حذف المشاركات العرف وشروط التصنيف"
+
+#~ msgid "Database table"
+#~ msgstr "جدول قاعدة البيانات"
+
+#~ msgid "Custom posts"
+#~ msgstr "المشاركات مخصص"
+
+#~ msgid "Custom taxonomies"
+#~ msgstr "التصنيفات المخصصة"
+
+#~ msgid "Do you really want to uninstall ecommerce wd?"
+#~ msgstr "هل تريد حقا أن إلغاء التجارة الإلكترونية WD؟"
+
+#~ msgid ""
+#~ "You are about to uninstall ecommerce from wordpress. This action is not "
+#~ "reversible."
+#~ msgstr ""
+#~ "كنت على وشك أن إلغاء التجارة الإلكترونية من وورد. هذا العمل لا يمكن عكسها."
+
+#~ msgid ""
+#~ "The plugin database tables, posts and taxanomies successfully deleted."
+#~ msgstr "قاعدة بيانات البرنامج المساعد الجداول، وظائف وtaxanomies حذف بنجاح."
+
+#~ msgid "Uninstall ecommerce wd"
+#~ msgstr "إلغاء WD التجارة الإلكترونية"
+
+#~ msgid "Click here"
+#~ msgstr "انقر هنا"
+
+#~ msgid ""
+#~ "To finish the uninstallation and ecommerce will be deactivated "
+#~ "automatically."
+#~ msgstr "لإنهاء إلغاء التثبيت وسيتم إلغاء تنشيط التجارة الإلكترونية تلقائيا."
+
+#~ msgid "E-Commerce Billing Information"
+#~ msgstr "التجارة الإلكترونية معلومات الفواتير"
+
+#~ msgid "(required)"
+#~ msgstr "مطلوب"
+
+#~ msgid "E-Commerce Shipping Information"
+#~ msgstr "التجارة الإلكترونية معلومات الشحن"
+
+#~ msgid "Usergroup"
+#~ msgstr "مجموعة المستخدم"
+
+#~ msgid "Items per page"
+#~ msgstr "عدد العناصر في كل صفحة"
+
+#~ msgid "No results"
+#~ msgstr "ليست هناك نتائج"
+
+#~ msgid "View all products"
+#~ msgstr "عرض جميع المنتجات"
+
+#~ msgid "Subcategories"
+#~ msgstr "الفئات الفرعية"
+
+#~ msgid "Cancel checkout"
+#~ msgstr "إلغاء الخروج"
+
+#~ msgid "Congratulations"
+#~ msgstr "تها"
+
+#~ msgid "Checkout finished successfully "
+#~ msgstr "الانتهاء من الخروج بنجاح "
+
+#~ msgid "Accept"
+#~ msgstr "قبول"
+
+#~ msgid "You must accept license agreement"
+#~ msgstr "يجب عليك قبول اتفاقية الترخيص"
+
+#~ msgid "This item will not ship to your country"
+#~ msgstr "وهذا البند لا يتم شحنها إلى بلدك"
+
+#~ msgid "Copy billing info"
+#~ msgstr "معلومات نسخة الفواتير"
+
+#~ msgid "Visit site"
+#~ msgstr "تفضل بزيارة الموقع"
+
+#~ msgid "Billing info"
+#~ msgstr "معلومات الفواتير"
+
+#~ msgid "Print order"
+#~ msgstr "ترتيب الطباعة"
+
+#~ msgid "PDF invoice"
+#~ msgstr "PDF فاتورة"
+
+#~ msgid "BTN_BACK"
+#~ msgstr "BTN_BACK"
+
+#~ msgid "View order details"
+#~ msgstr "معاينة تفاصيل الطلب"
+
+#~ msgid "No orders yet"
+#~ msgstr "لا أوامر حتى الآن"
+
+#~ msgid "Compare products"
+#~ msgstr "قارن بين المنتجات"
+
+#~ msgid "Buy now"
+#~ msgstr "اشتري الآن"
+
+#~ msgid "Compare"
+#~ msgstr "قارن"
+
+#~ msgid "Write review"
+#~ msgstr "أكتب مراجعة"
+
+#~ msgid "Dimensions"
+#~ msgstr "الابعاد المحاسبية"
+
+#~ msgid "No shipping specified for this product"
+#~ msgstr "لا الشحن المحدد لهذا المنتج"
+
+#~ msgid "No reviews yet"
+#~ msgstr "لم يتم تقديم تعليقات حتى الآن"
+
+#~ msgid "Pleasa wait"
+#~ msgstr "أرجو الإنتظار"
+
+#~ msgid "Price from"
+#~ msgstr "السعر يبدأ من"
+
+#~ msgid "Price to"
+#~ msgstr "السعر إلى"
+
+#~ msgid "Update filters"
+#~ msgstr "مرشحات التحديث"
+
+#~ msgid "Tags separated by comma"
+#~ msgstr "الوسوم مفصولة بفواصل (،)"
+
+#~ msgid "Account"
+#~ msgstr "حساب"
+
+#~ msgid "Logout"
+#~ msgstr "خروج"
+
+#~ msgid "View item"
+#~ msgstr "عرض القطعة"
+
+#~ msgid "Updating"
+#~ msgstr "تحديث"
+
+#~ msgid "Remove this item"
+#~ msgstr "أزل هذا البند"
+
+#~ msgid "Checkout all"
+#~ msgstr "الخروج عن"
+
+#~ msgid "Your cart is empty"
+#~ msgstr "عربة التسوق فارغة"
+
+#~ msgid "Log in"
+#~ msgstr "تسجيل الدخول"
+
+#~ msgid "Username"
+#~ msgstr "اسم المستخدم"
+
+#~ msgid "Password"
+#~ msgstr "كلمه السر"
+
+#~ msgid "Remember me"
+#~ msgstr "تذكرنى"
+
+#~ msgid "Fill username password"
+#~ msgstr "ملء اسم المستخدم كلمة المرور"
+
+#~ msgid "Register"
+#~ msgstr "تسجيل"
+
+#~ msgid "BTN_FORGOT_PASSWORD"
+#~ msgstr "BTN_FORGOT_PASSWORD"
+
+#~ msgid "Edit data"
+#~ msgstr "تحرير البيانات"
+
+#~ msgid "Back"
+#~ msgstr "العودة"
+
+#~ msgid "Update data"
+#~ msgstr "تحديث البيانات"
+
+#~ msgid "Billing Data"
+#~ msgstr "بيانات الفواتير"
+
+#~ msgid "Shipping Data"
+#~ msgstr "بيانات الشحن"
+
+#~ msgid ""
+#~ "Ecommerce WD is a highly-functional, user friendly eCommerce plugin, "
+#~ "which is perfect for developing online stores for any level of complexity."
+#~ msgstr ""
+#~ "التجارة الإلكترونية WD هو غاية وظيفية، وسهل الاستخدام البرنامج المساعد "
+#~ "للتجارة الإلكترونية، ما يجعله مثاليا لتطوير المخازن على الانترنت عن أي "
+#~ "مستوى من التعقيد."
+
+#~ msgid "WebDorado"
+#~ msgstr "WebDorado"

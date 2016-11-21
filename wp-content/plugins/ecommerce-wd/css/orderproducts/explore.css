@@ -1,0 +1,85 @@
+/* Wordpress.*/
+.wrap {
+  margin: 0;
+}
+
+.wrap form {
+  padding: 15px;
+}
+
+table.adminlist tr .col_num {
+  width: 10px;
+  text-align: center;
+}
+
+table.adminlist tr .col_product_name {
+  text-align: left;
+}
+
+table.adminlist tr .col_product_name > input {
+  width: 100%;
+}
+
+table.adminlist tr .col_product_image {
+  width: 80px;
+}
+
+table.adminlist tr .col_product_image img {
+  max-width: 70px;
+  max-height: 70px;
+}
+
+table.adminlist tr .col_parameters {
+  width: 160px;
+}
+
+table.adminlist tr .col_parameters textarea {
+  width: 150px;
+  height: 80px;
+}
+
+table.adminlist tr .col_count {
+  width: 55px;
+}
+
+table.adminlist tr .col_count input {
+  width: 40px;
+}
+
+table.adminlist tr .col_price {
+  width: 50px;
+}
+
+table.adminlist tr .col_price input {
+  width: 40px;
+}
+
+table.adminlist tr .col_tax {
+  width: 50px;
+}
+
+table.adminlist tr .col_tax input {
+  width: 40px;
+}
+
+table.adminlist tr .col_shipping {
+  width: 60px;
+}
+
+table.adminlist tr .col_shipping input {
+  width: 40px;
+}
+
+table.adminlist tr .col_subtotal {
+  width: 60px;
+  padding-top: 8px;
+}
+
+table.adminlist tr .col_btns {
+  width: 90px;
+  text-align: center;
+}
+
+table.adminlist tr .col_ctrls {
+  text-align: right;
+}

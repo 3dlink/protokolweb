@@ -1,0 +1,252 @@
+/* Wordpress */
+.spider_description {
+  color: #666666;
+  font-size: 0.923em;
+  line-height: 1.231em;
+  margin: 0px 0 5px 5px;
+}
+
+.tablenav .actions select {
+  float: none !important;
+}
+
+.no_image_text {
+  display: block;
+}
+
+.buttons_div {
+  clear: both;
+  float: right;
+  display: inline-block;
+  margin-top: 2px;
+}
+
+.wde_clear {
+  clear: both;
+}
+
+div.pagetitle {
+  background-repeat: no-repeat;
+  display: inline-block;
+  margin-left: 10px;
+  padding-left: 60px;
+}
+
+div.pagetitle h2 {
+  color: #146295;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 48px;
+  margin: 0;
+  padding: 0;
+}
+
+div.wrap h2 {
+  color: #146295;
+  line-height: 48px;
+  margin: 0;
+  padding: 0;
+}
+
+.icon-48-spidershop_home {
+    background-image: url('../images/toolbar_icons/home_48.png');
+}
+
+.icon-48-spidershop_categories {
+    background-image: url('../images/toolbar_icons/categories_48.png');
+}
+
+.icon-48-spidershop_countries {
+    background-image: url('../images/toolbar_icons/countries_48.png');
+}
+
+.icon-48-spidershop_currencies {
+    background-image: url('../images/toolbar_icons/currencies_48.png');
+}
+
+.icon-48-spidershop_discounts {
+    background-image: url('../images/toolbar_icons/discounts_48.png');
+}
+
+.icon-48-spidershop_feedback {
+    background-image: url('../images/toolbar_icons/feedback_48.png');
+}
+
+.icon-48-spidershop_labels {
+    background-image: url('../images/toolbar_icons/labels_48.png');
+}
+
+.icon-48-spidershop_manufacturers {
+    background-image: url('../images/toolbar_icons/manufacturers_48.png');
+}
+
+.icon-48-spidershop_options {
+    background-image: url('../images/toolbar_icons/options_48.png');
+}
+
+.icon-48-spidershop_orders {
+    background-image: url('../images/toolbar_icons/orders_48.png');
+}
+
+.icon-48-spidershop_reports {
+    background-image: url('../images/toolbar_icons/reports_48.png');
+}
+.icon-48-spidershop_orderstatuses {
+    background-image: url('../images/toolbar_icons/order_statuses_48.png');
+}
+
+.icon-48-spidershop_pages {
+    background-image: url('../images/toolbar_icons/pages_48.png');
+}
+
+.icon-48-spidershop_parameters {
+    background-image: url('../images/toolbar_icons/parameters_48.png');
+}
+
+.icon-48-spidershop_products {
+    background-image: url('../images/toolbar_icons/products_48.png');
+}
+
+.icon-48-spidershop_ratings {
+    background-image: url('../images/toolbar_icons/ratings_48.png');
+}
+
+.icon-48-spidershop_shippingmethods {
+    background-image: url('../images/toolbar_icons/shipping_methods_48.png');
+}
+
+.icon-48-spidershop_tags {
+    background-image: url('../images/toolbar_icons/tags_48.png');
+}
+
+.icon-48-spidershop_taxes {
+    background-image: url('../images/toolbar_icons/taxes_48.png');
+}
+
+.icon-48-spidershop_themes {
+    background-image: url('../images/toolbar_icons/themes_48.png');
+}
+
+.icon-48-spidershop_uninstall {
+    background-image: url('../images/toolbar_icons/install_48.png');
+}
+
+.icon-48-spidershop_users {
+    background-image: url('../images/toolbar_icons/users_48.png');
+}
+.icon-48-spidershop_tools{
+	background-image: url('../images/toolbar_icons/tools_48.png');
+}
+.icon-48-spidershop_install{
+	background-image: url('../images/toolbar_icons/install_48.png');
+}
+.icon-48-spidershop_exportimport{
+	background-image: url('../images/toolbar_icons/exportimport_48.png');
+}
+.icon-48-spidershop_payments{
+	background-image: url('../images/toolbar_icons/payments_48.png');
+}
+
+.wd_error {
+  border-color: #dd3d36 !important;
+}
+
+.wd_updated {
+  border-color: #7ad03a !important;
+}
+
+.wd_error,
+.wd_updated {
+  background: #fff none repeat scroll 0 0;
+  border-left: 4px solid #fff;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+  margin: 5px 0 2px;
+  padding: 1px 12px;
+}
+
+.spider_message {
+  width: 99%;
+}
+
+.wde_non_commercial {
+  background-color: #f5e1e1;
+  border: 1px solid #ff0000;
+  border-radius: 3px;
+  color: #ff0000;
+  display: inline-block;
+  font-size: 14px;
+  margin: 10px 0;
+  padding: 5px;
+}
+
+.wde_screenshot {
+  display: block;
+  max-width: 100%;
+}
+
+.wde_pro_btn {
+  background: rgb(146, 8, 27) none repeat scroll 0 0;
+  border-radius: 45px;
+  box-sizing: content-box !important;
+  color: #fff;
+  display: inline-block;
+  font-size: 9px;
+  height: 20px;
+  left: -15px;
+  line-height: 20px;
+  padding: 3px;
+  position: relative;
+  top: 0;
+  width: 20px;
+}
+
+.wde_pro_btn.wde_pro_btn_small {
+  left: -5px;
+  font-size: 8px;
+  height: 17px;
+  line-height: 17px;
+  padding: 2px;
+  width: 17px;
+}
+
+.wde_help_topic {
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0 0 10px;
+}
+
+.wde_um_read_more {
+  color: blue;
+  text-decoration: none;
+}
+
+.disabled-btn {
+  background-color: #ddd !important;
+}
+
+.disabled-btn:active,
+.disabled-btn:visited,
+.disabled-btn:focus {
+  outline: 0;
+}
+
+.select-all-btn-content {
+  background: #fff;
+  padding: 5px;
+  margin-right: 10px;
+  display: block;
+  float: left;
+}
+
+.all-select-info {
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background: #fff;
+  border-left: 4px solid #46b450;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.all-select-info p {
+    margin: 0;
+}

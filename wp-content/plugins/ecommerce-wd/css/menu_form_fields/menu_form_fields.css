@@ -1,0 +1,87 @@
+body {
+  height: auto;
+}
+
+.btn_cont {
+  float: right;
+  margin-top: 5px;
+}
+
+.nav-tabs a {
+  padding: 8px 6px !important;
+  font-size: 12px !important;
+}
+
+.nav-tabs li {
+  /*border-bottom: 1px solid #CCCCCC;*/
+  margin-top: 5px;
+}
+
+.nav-tabs li a {
+  margin-bottom: -1px;
+}
+
+form {
+  padding: 10px !important;
+  margin: 0 !important;
+}
+
+table.adminlist {
+  font-size: 12px !important;
+  margin: 20px 0 0 0 !important;
+}
+
+table.adminlist input[type="radio"],
+table.adminlist input[type="checkbox"] {
+  margin: 0 !important;
+}
+
+table.adminlist .radio,
+table.adminlist .checkbox {
+  padding: 0 !important;
+}
+
+table {
+  border-collapse: separate !important;
+}
+
+table.adminlist .col_key {
+  vertical-align: middle !important;
+}
+
+table.adminlist td.col_value label {
+  font-weight: normal !important;
+}
+
+.star {
+  color: #ff0000;
+}
+
+.wd_listcategory_wrapper {
+	display: inline-block;
+	clear: both;
+}
+
+.wd_listcategory_wrapper input[type="text"] {
+	float: none !important;
+}
+
+.wd_manufacturer_label {
+	padding-right: 5px;
+}
+
+[name = "manufacturers[]"] {
+	float: none;
+}
+
+.wdshop_mod_panel {
+	clear: both;
+	width: 100%;
+	margin: 10px 0;
+}
+
+#product_box .jf_module_box_cat_tree_last_child,
+#tag_box .jf_module_box_cat_tree_last_child {
+	color: #666666;
+	font-weight: normal;
+}

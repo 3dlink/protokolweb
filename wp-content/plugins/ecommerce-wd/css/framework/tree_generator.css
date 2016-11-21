@@ -1,0 +1,90 @@
+.jf_tree_generator {
+    /*border: #cccccc dashed 1px;*/
+    padding: 2px;
+    min-height: 24px;
+
+    /* disable selection */
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: moz-none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.jf_tree_generator_item.template {
+    display: none;
+}
+
+/* item head */
+.jf_tree_generator_item_head {
+    display: inline-block;
+    margin: 2px;
+    border: #bfbfbf solid 1px;
+    border-radius: 3px;
+    background: #ffffff;
+    height: 30px;
+}
+
+/* item head btn open/close and icon empty */
+.jf_tree_generator_item_head_btn {
+    display: inline-block;
+    margin: 7px;
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.jf_tree_generator_item_head_btn_open {
+    background-image: url("../../images/framework/tree_generator/icon_btn_open.png");
+}
+
+.jf_tree_generator_item_head_btn_close {
+    background-image: url("../../images/framework/tree_generator/icon_btn_close.png");
+}
+
+.jf_tree_generator_item_head_icon_empty {
+    display: inline-block;
+    margin: 7px;
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+}
+
+/* item head divider */
+.jf_tree_generator_item_head_divider {
+    display: inline-block;
+    margin: 2px 0;
+    width: 1px;
+    height: 26px;
+    background-image: url("../../images/framework/tree_generator/divider.png");
+    background-repeat: no-repeat;
+    vertical-align: middle;
+}
+
+/* item head name */
+.jf_tree_generator_item_head_name {
+    display: inline-block;
+    margin: 0 7px;
+    min-width: 100px;
+    color: #808080;
+    cursor: pointer;
+}
+
+.jf_tree_generator_item_head_name.selected_node {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.jf_tree_generator_item_head_name.disabled_node {
+    color: #bfbfbf;
+    cursor: default;
+}
+
+/* item children */
+.jf_tree_generator_item_children_container {
+    padding-left: 32px;
+}

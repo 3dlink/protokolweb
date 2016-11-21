@@ -1,0 +1,162 @@
+/* Wordpress fixes */
+
+#adminForm .tablenav {
+  margin-top: 0;
+}
+
+body {
+  min-width: 100px !important;
+}
+
+table.adminlist {
+  width: 100%;
+}
+
+.wrap {
+  margin: 0 15px;
+}
+
+/* form #adminForm */
+form#adminForm fieldset {
+    margin: 10px auto;
+    padding: 5px;
+    border: 1px #ccc solid;
+    vertical-align: top;
+}
+
+form#adminForm fieldset legend {
+    display: initial;
+    margin-left: 2px;
+    margin-bottom: 0;
+    border-width: 0;
+    width: auto;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: normal;
+}
+
+form#adminForm fieldset table {
+    margin-bottom: 0;
+}
+
+/* table .adminlist */
+table.adminlist > tbody > tr > th,
+table.adminlist > tbody > tr > td {
+    border-collapse: separate;
+    border-spacing: 1px;
+    vertical-align: middle;
+}
+
+table.adminlist > tbody > tr > td label {
+    display: initial;
+}
+
+table.adminlist > tbody > tr > td input,
+table.adminlist > tbody > tr > td select {
+    width: auto;
+    margin: 5px 0;
+}
+
+table.adminlist > tbody > tr > td img {
+    margin: 5px 0;
+}
+
+table.adminlist > tbody > tr > td.btns_container {
+    text-align: right;
+}
+
+table.adminlist.search_table {
+    width: auto;
+}
+
+table.adminlist.search_table > tbody > tr > td > label {
+    float: none;
+    display: block;
+}
+
+table.adminlist.search_table > tbody > tr > td input,
+table.adminlist.search_table > tbody > tr > td select {
+    width: 120px;
+}
+
+/* columns */
+table.adminlist tr .col_num {
+    width: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+table.adminlist tr .col_checked {
+    width: 30px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 0;
+}
+
+table.adminlist tr .col_id {
+    width: 50px;
+    text-align: center;
+}
+
+table.adminlist tr .col_name, table.adminlist tr .col_title {
+    text-align: left;
+}
+
+table.adminlist tr .col_ordering {
+    width: 120px !important;
+    text-align: center;
+}
+
+table.adminlist tr .col_ordering .text-area-order {
+    width: 40px;
+}
+
+table.adminlist tr .col_default {
+    width: 80px;
+    text-align: center;
+}
+
+table.adminlist tr .col_required {
+    width: 90px;
+    text-align: center;
+}
+
+table.adminlist tr .col_published {
+    width: 90px;
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+/* modal backdrop */
+div#sbox-overlay {
+    position: fixed;
+}
+
+.wd_error {
+  border-color: #dd3d36 !important;
+}
+
+.wd_updated {
+  border-color: #7ad03a !important;
+}
+
+.wd_error,
+.wd_updated {
+  background: #fff none repeat scroll 0 0;
+  border-left: 4px solid #fff;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+  margin: 5px 0 2px;
+  padding: 1px 12px;
+}
+
+.spider_message {
+  width: 99%;
+}
+
+#adminForm .tablenav .tablenav-pages {
+  margin: 3px 0;
+  text-align: right;
+}

@@ -1,0 +1,9 @@
+table.adminlist tr .col_countries {
+    width: 140px;
+    text-align: center;
+}
+
+table.adminlist tr .col_price {
+    width: 100px;
+    text-align: center;
+}

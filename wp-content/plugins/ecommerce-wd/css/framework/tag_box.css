@@ -1,0 +1,44 @@
+.jf_tag_box {
+    border: #cccccc dashed 1px;
+    padding: 2px;
+    min-height: 24px;
+}
+
+.jf_tag_box_item {
+    display: inline-block;
+    margin: 2px;
+    border: #666666 solid 1px;
+    border-radius: 2px;
+    padding: 4px;
+    background: #f1f1f1;
+    height: 14px;
+    color: #666666;
+}
+
+.jf_tag_box_item.template {
+    display: none;
+}
+
+.jf_tag_box_item_name {
+    display: inline-block;
+    color: #666666;
+    cursor: default;
+}
+
+.jf_tag_box_item_divider {
+    display: inline-block;
+    margin: 0 4px;
+    width: 1px;
+    height: 14px;
+    background-image: url("../../images/framework/tag_box/divider.png");
+    background-repeat: no-repeat;
+}
+
+.jf_tag_box_item_btn {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    background-image: url("../../images/framework/tag_box/btn_remove_tag.png");
+    background-repeat: no-repeat;
+    cursor: pointer;
+}

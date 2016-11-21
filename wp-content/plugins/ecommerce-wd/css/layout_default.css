@@ -1,0 +1,232 @@
+/* form #adminForm */
+form#adminForm fieldset {
+    margin: 10px auto;
+    padding: 5px;
+    border: 1px #ccc solid;
+    vertical-align: top;
+    clear: both;
+}
+
+form#adminForm fieldset legend {
+    display: initial;
+    margin-left: 2px;
+    margin-bottom: 0;
+    border-width: 0;
+    width: auto;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: normal;
+}
+
+form#adminForm fieldset table {
+    margin-bottom: 0;
+}
+
+/* table .adminlist */
+table.adminlist > tbody > tr > th,
+table.adminlist > tbody > tr > td {
+    border-collapse: separate;
+    border-spacing: 1px;
+    vertical-align: middle;
+}
+
+table.adminlist > tbody > tr > td label {
+    display: initial;
+}
+
+table.adminlist > tbody > tr > td input,
+table.adminlist > tbody > tr > td select,
+table.adminlist > tbody > tr > td button {
+    width: auto;
+    margin: 5px 0;
+}
+
+table.adminlist > tbody > tr > td img {
+    margin: 5px 0;
+}
+
+table.adminlist > tbody > tr > td.btns_container {
+    text-align: right;
+}
+
+table.adminlist.search_table {
+    width: auto;
+}
+
+table.adminlist.search_table > tbody > tr > td > label {
+    float: none;
+    display: block;
+}
+
+table.adminlist.search_table > tbody > tr > td input,
+table.adminlist.search_table > tbody > tr > td select {
+    width: 120px;
+}
+
+/* columns */
+table.adminlist tr .col_ordering {
+	width: 2%;
+}
+
+table.adminlist tr .col_ordering .sorting-indicator {
+	display: none;
+}
+
+table.adminlist tr .col_ordering  .icon-drag, table.adminlist tr .col_ordering  .icon-disable-drag{	
+	width: 16px;
+	height: 16px;
+	display: block;
+}
+
+table.adminlist tr .col_ordering  .icon-drag {
+	background: url(../images/draggable.png) no-repeat;
+	cursor: move;
+}	
+
+table.adminlist tr .col_ordering  .icon-disable-drag{
+	background: url(../images/draggable-disable.png) no-repeat;
+}
+
+table.adminlist tr .col_num {
+    width: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+table.adminlist tr .col_checked {
+    width: 30px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 0;
+}
+
+table.adminlist tr .col_id {
+    width: 50px;
+    text-align: center;
+}
+
+table.adminlist tr .col_edit {
+    width: 50px;
+    text-align: center;
+}
+
+table.adminlist tr .col_delete {
+  width: 60px;
+  text-align: center;
+}
+
+table.adminlist tr .col_name, table.adminlist tr .col_title {
+  text-align: left;
+}
+
+table.adminlist tr .col_default {
+  width: 85px;
+  text-align: center;
+}
+
+table.adminlist tr .col_required {
+  width: 80px;
+  text-align: center;
+}
+
+table.adminlist tr .col_published {
+  width: 100px;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+/* modal backdrop */
+div#sbox-overlay {
+  position: fixed;
+}
+
+.wde_date_input {
+  width: 90px;
+}
+
+.controls label.wde_block_radios,
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .controls label.wde_block_radios {
+  display: block !important;
+  padding: 0;
+}
+
+.wd_error {
+  border-color: #dd3d36 !important;
+}
+
+.wd_updated {
+  border-color: #7ad03a !important;
+}
+
+.wd_error,
+.wd_updated {
+  background: #fff none repeat scroll 0 0;
+  border-left: 4px solid #fff;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+  margin: 5px 0 2px;
+  padding: 1px 12px;
+}
+
+.spider_message {
+  width: 99%;
+}
+
+#check_all {
+  vertical-align: middle;
+}
+
+.no-items .colspanchange {
+  padding: 8px 10px;
+}
+
+#adminForm #template div {
+  margin: 0;
+}
+
+#adminForm #template textarea {
+  background: #f9f9f9 none repeat scroll 0 0 !important;
+  font-family: Consolas,Monaco,monospace !important;
+  font-size: 13px !important;
+  width: 100% !important;
+}
+
+#adminForm code {
+  white-space: unset !important;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .tab-content {
+  background-color: #FFFFFF;
+  border: 1px solid #DDDDDD;
+  border-top: none;
+  padding: 10px;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .wde_slug_rewrite {
+  margin: 0 10px;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .wde_description,
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .wde_permalink {
+  background-color: #f1f1f1;
+  border: 1px solid #cccccc;
+  border-radius: 3px;
+  display: inline-block;
+  margin: 0 0 10px;
+  padding: 5px;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .wde_permalink {
+  background-color: #f7f7f7;
+}
+
+#wd_shop_container_1 #wd_shop_container_2 #wd_shop_container_3 #wd_shop_container_4 #wd_shop_container_5 #wd_shop_container_6 #wd_shop_container_7 #wd_shop_container_8 #wd_shop_container_9 #wd_shop_container_10 #wd_shop_container_11 #wd_shop_container_12 .wde_description:before {
+  content: "";
+  font-family: "Glyphicons Halflings";
+  font-style: normal;
+  font-weight: normal;
+  position: relative;
+  top: 1px;
+}

@@ -1,0 +1,13 @@
+table.adminlist tr .col_user_name {
+    width: 200px;
+}
+
+table.adminlist tr .col_user_ip_address {
+    width: 120px;
+    text-align: center;
+}
+
+table.adminlist tr .col_rating {
+    width: 200px;
+    text-align: center;
+}

@@ -1,0 +1,50 @@
+table.adminlist tr .col_btn_goto {
+    width: 100px;
+    text-align: center;
+}
+
+table.adminlist tr .col_name {
+    width: 250px;
+}
+
+
+table.adminlist tr .col_image{
+	text-align: center;
+  width: 70px;
+}
+
+table.adminlist tr .col_description {
+    text-align: left;
+}
+
+table.adminlist tr .col_subcategories {
+    width: 100px;
+    text-align: center;
+}
+
+table.adminlist tr .col_products {
+    width: 100px;
+    text-align: center;
+}
+
+.path_node,
+.path_node:hover,
+.path_node:visited {
+    display: inline-table;
+    border: #c0c0c0 solid 1px;
+    padding: 0 4px;
+    height: 18px !important;
+    vertical-align: middle;
+    text-decoration: none;
+    color: #333333 !important;
+    cursor: pointer;
+}
+
+
+.no_image{
+	text-align:center;
+}
+
+.img_url:hover{
+	text-decoration:none;
+}
